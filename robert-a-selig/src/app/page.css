@@ -1,3 +1,12 @@
+.header-outside {
+  background-color: #161C66;
+  text-decoration-color: white;
+}
+
+.header-inside {
+  background-color: #161C66
+}
+
 .background-grey {
   background-color: #EEF0F4;
 }
