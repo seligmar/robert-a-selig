@@ -8,7 +8,7 @@ export default function Home() {
       <main className="background-grey">
       <h1>To get started, edit the page.tsx file.</h1>
     </main>
-    <footer className="header-footer-inside">Footer</footer>
+    <footer className="header-footer-outside">Footer</footer>
     </>
   );
 }
