@@ -3,6 +3,7 @@
 color: white;
   height: 10vh;
   width: 100%;
+  /* border-bottom: 2px solid #E09911; */
 }
 
 .header-footer-inside {
@@ -14,4 +15,10 @@ color: white;
 
 .background-grey {
   background-color: #EEF0F4;
+}
+
+.orange-border {
+  height: 8px;
+  color: #E09911;
+  background-color: #E09911;;
 }
