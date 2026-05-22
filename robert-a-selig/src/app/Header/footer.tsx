@@ -1,7 +1,10 @@
 import "./header-footer.css"
 
 export default function Footer() {
-  return (   <footer className="header-footer-outside">Footer
+  return (   <footer className="header-footer-outside">
+          <div className="header-footer-inside">Footer
       Copyright 2026. 
-Website by: Mary Selig
+      <div>Website by: Mary Selig</div>
+</div>
+
     </footer>)}
