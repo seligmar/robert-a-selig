@@ -1,7 +1,7 @@
 .background-grey {
-	/* background-color: #eef0f4; */
+	background-color: #eef0f4;
 	/* opacity: 0.3; */
-	background-color: #161c66;
+	/* background-color: #161c66; */
 }
 
 .background-white {
@@ -11,4 +11,7 @@
 .orange-border {
 	height: 8px;
 	background-color: #e09911;
+}
+a {
+	color: #222a99;
 }

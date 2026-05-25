@@ -7,11 +7,14 @@ export default function Header() {
 <header className="header-footer-outside">
       <div className="header-footer-inside"><h1>
         Robert A. Selig, PhD.</h1>
-        {/* <ListIcon size={32} /> */}
-        <Image  src={list}
+        {/* <Image  src={list}
               alt="list-menu"
               className="list-menu"
-              />
+              /> */}
+               <div>
+         <div>About </div> <div>Publications</div><div>Links</div><div>Contact</div>
         </div>
+        </div>
+       
       </header>
     )}
