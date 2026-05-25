@@ -6,19 +6,15 @@ export default function HomePage() {
   return (
      <main className="background-grey">
       <div className="background-white">
+        <div className="home-header">
       <h2>About</h2>
        <Image
        src={portrait}
-      // src="/selig.png"
-     // src="/selig.png"
-      width={500}
-      height={500}
-      alt="Picture of the author"
-      	// fill={true}
-     //   preload={true}
-    />
-      {/* <img src="/Robert_a_Selig.jpg" alt="Robert A. Selig portrait" className="portrait-image"/> */}
-      {/* <portrait  /> */}
+      width={200}
+      height={200}
+      alt="Portrait of Robert A. Selig"
+      className="portrait-image"
+    /></div>
       <div className="home-content"> 
 Robert A. Selig is a historical consultant who received his Ph.D. in history from the Universität Würzburg in Germany in 1988. He published a number of books on the American War of Independence such as Hussars in Lebanon! A Connecticut Town and Lauzun’s Legion during the American Revolution, 1780-1781 (Lebanon, 2004) and a translation of A Treatise on Partisan Warfare by Johann von Ewald. Introduction and Annotation by Robert A. Selig and David Curtis Skaggs (Westport, 1991).
       </div>
