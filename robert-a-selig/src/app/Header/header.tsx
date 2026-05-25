@@ -9,8 +9,8 @@ export default function Header() {
         Robert A. Selig, PhD.</h1>
         {/* <ListIcon size={32} /> */}
         <Image  src={list}
-              alt="Portrait of Robert A. Selig"
-              // className="portrait-image"
+              alt="list-menu"
+              className="list-menu"
               />
         </div>
       </header>
