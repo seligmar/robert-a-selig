@@ -1,9 +1,13 @@
 .background-grey {
-  background-color: #EEF0F4;
+	background-color: #eef0f4;
+}
+
+.background-white {
+	background-color: white;
 }
 
 .orange-border {
-  height: 8px;
-  color: #E09911;
-  background-color: #E09911;;
+	height: 8px;
+	color: #e09911;
+	background-color: #e09911;
 }
