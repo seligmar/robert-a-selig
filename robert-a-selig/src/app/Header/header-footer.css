@@ -1,0 +1,14 @@
+.header-footer-outside {
+  background-color: #161C66;
+color: white;
+  height: 10vh;
+  width: 100%;
+  /* border-bottom: 2px solid #E09911; */
+}
+
+.header-footer-inside {
+background-color: #222A99;
+    height: 10vh;
+  margin-left: 10%;
+  margin-right: 10%;
+}
