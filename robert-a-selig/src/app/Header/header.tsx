@@ -1,3 +1,5 @@
+import Image from 'next/image'
+ import * as list from "./list.svg"
 import "./header-footer.css"
 
 export default function Header() {
@@ -6,6 +8,10 @@ export default function Header() {
       <div className="header-footer-inside"><h1>
         Robert A. Selig, PhD.</h1>
         {/* <ListIcon size={32} /> */}
+        <Image  src={list}
+              alt="Portrait of Robert A. Selig"
+              // className="portrait-image"
+              />
         </div>
       </header>
     )}
