@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <><Header />
       <hr className="orange-border"/>
-      <main className="background-grey">
-      <h1>To get started, edit the page.tsx file.</h1>
+      <main className="background-grey"><div>
+      <h1>To get started, edit the page.tsx file.</h1></div>
     </main>
        <hr className="orange-border"/>
  <Footer />
