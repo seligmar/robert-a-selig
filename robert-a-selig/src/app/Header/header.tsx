@@ -5,17 +5,16 @@ import "./header-footer.css"
 export default function Header() {
   return (   
 <header className="header-footer-outside">
-      <div className="header-footer-inside"><h1>
+      <div className="header-footer-inside header-inside"><h1>
         Robert A. Selig, PhD.</h1>
         {/* <Image  src={list}
               alt="list-menu"
               className="list-menu"
               /> */}
-               <div>
-                <div>
-         <div>About</div> <div>Publications</div><div>Multi-Media</div><div>Links</div><div>Contact</div></div>
-        </div>
-        </div>
-       
+                <div className='menu-outside'>
+         <button className='menu-button'>About</button> <button className='menu-button'>Publications</button><button className='menu-button'>Multi-Media</button><button className='menu-button'>Links</button>
+         <button className='menu-button'>Contact</button>
+         </div>
+        </div>        
       </header>
     )}
