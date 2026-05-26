@@ -22,10 +22,11 @@
 }
 
 .menu-outside {
-	display: flex;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border-top: 0.25px solid #9a1005;
+	display: flex;
+	justify-content: space-between;
 }
 
 .menu-button {
