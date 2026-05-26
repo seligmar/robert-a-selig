@@ -1,5 +1,5 @@
 import Image from 'next/image'
- import * as list from "./list.svg"
+//  import * as list from "./list.svg"
 import "./header-footer.css"
 
 export default function Header() {
@@ -12,7 +12,8 @@ export default function Header() {
               className="list-menu"
               /> */}
                <div>
-         <div>About </div> <div>Publications</div><div>Links</div><div>Contact</div>
+                <div>
+         <div>About</div> <div>Publications</div><div>Multi-Media</div><div>Links</div><div>Contact</div></div>
         </div>
         </div>
        
