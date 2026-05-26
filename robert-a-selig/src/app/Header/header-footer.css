@@ -27,6 +27,8 @@
 	border-top: 0.25px solid #9a1005;
 	display: flex;
 	justify-content: space-between;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 
 .menu-button {
