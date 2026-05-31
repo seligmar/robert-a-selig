@@ -1,23 +1,27 @@
 import HomePage from "./about/page"
 import Contact from "./contact/page"
+import PageLayout from "./layout/pagelayout"; //"../layout/pagelayout"
 import Footer from "./header/footer";
 import Header from "./header/header";
 import "./page.css"
 
 export default function Home() {
+
   return (
-    <><Header />
+    <>
+    {/* <Header />
       <hr className="orange-border"/>
         <main className="background-grey">
-      {/* <div className="background-grey"> */}
+      {/* <div className="background-grey"> 
       <div className="background-white">
-        <div className="home-header">
+        <div className="home-header"> */}
+        <PageLayout>
  <HomePage />
-  <Contact />
-        </div >       </div > 
+  </PageLayout>
+     {/* </div >       </div > 
         </main>
        <hr className="orange-border"/>
  <Footer />
-    </>
+    */} </>
   );
 }

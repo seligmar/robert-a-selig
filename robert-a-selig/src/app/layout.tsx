@@ -8,7 +8,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <title>Dr. Robert A. Selig, PhD.</title>
-      <body>{children}
+      <body>
+        {children}
       </body>
     </html>
   );

@@ -40,6 +40,8 @@
 	/* to change depending on number of buttons */
 	width: 20%;
 	border: 1px solid #e09911;
+	padding-bottom: 3px;
+	padding-top: 3px;
 }
 
 .menu-link:hover,
