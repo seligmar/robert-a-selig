@@ -23,13 +23,6 @@ export default function Contact() {
                 <span className="error-message" id="emailError"></span>
             </div>
             <div className="form-group">
-                <label htmlFor="phone">Phone</label>
-                <input type="tel" id="phone" 
-                       name="phone" 
-                       placeholder="Your Phone Number" required />
-                <span className="error-message" id="phoneError"></span>
-            </div>
-            <div className="form-group">
                 <label htmlFor="message">Message</label>
                 <textarea id="message" 
                           name="message" 
