@@ -1,53 +1,59 @@
 .header-footer-outside {
-	background-color: #161c66;
-	color: white;
-	width: 100%;
-	/* border-bottom: 2px solid #E09911; */
+  background-color: #161c66;
+  color: white;
+  width: 100%;
+  /* border-bottom: 2px solid #E09911; */
 }
 
 .header-footer-inside {
-	background-color: #222a99;
-	margin-left: 5%;
-	margin-right: 5%;
-	align-items: center;
+  background-color: #222a99;
+  margin-left: 5%;
+  margin-right: 5%;
+  align-items: center;
 }
 
 .header-inside {
-	padding-top: 5px;
+  padding-top: 5px;
 }
 
 .footer-inside {
-	display: flex;
-	height: 10vh;
+  display: flex;
+  height: 10vh;
 }
 
 .menu-outside {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	border-top: 0.15px solid #9a1005;
-	display: flex;
-	justify-content: space-between;
-	margin-right: 10px;
-	margin-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 0.15px solid #9a1005;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .menu-link {
-	text-align: center;
-	background-color: inherit;
-	color: white;
-	box-shadow: none;
-	cursor: pointer;
-	/* to change depending on number of buttons */
-	width: 20%;
-	border: 1px solid #e09911;
-	padding-bottom: 3px;
-	padding-top: 3px;
+  text-align: center;
+  background-color: inherit;
+  color: white;
+  box-shadow: none;
+  cursor: pointer;
+  /* to change depending on number of buttons */
+  width: 20%;
+  border: 1px solid #e09911;
+  padding-bottom: 3px;
+  padding-top: 3px;
 }
 
-.menu-link:hover,
-:focus {
-	border: 1px solid #9a1005;
-	background-color: #9a1005;
-	color: white;
-	border: none;
+.menu-link:hover {
+  border: 1px solid #9a1005;
+  background-color: #9a1005;
+  color: white;
+  border: none;
+}
+
+.menu-link:focus {
+  border: 1px solid #9a1005;
+  background-color: #9a1005;
+  color: white;
+  border: none;
 }
