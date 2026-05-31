@@ -24,7 +24,7 @@
 .menu-outside {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	border-top: 0.25px solid #9a1005;
+	border-top: 0.15px solid #9a1005;
 	display: flex;
 	justify-content: space-between;
 	margin-right: 10px;
@@ -36,4 +36,6 @@
 	color: white;
 	box-shadow: none;
 	cursor: pointer;
+	/* to change depending on number of buttons */
+	width: 20%;
 }
