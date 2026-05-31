@@ -2,7 +2,7 @@
 // import Header from "./header/header";
 import Footer from "../header/footer"
 import Header from "../header/header"
-//import "./page.css"
+import "../page.css"
   
   export default function PageLayout({
   children,
