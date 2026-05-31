@@ -15,4 +15,10 @@
 
 a {
 	color: #222a99;
+	cursor: pointer;
+}
+
+a:hover,
+:focus {
+	color: #e09911;
 }
