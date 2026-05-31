@@ -1,17 +1,12 @@
 import "./home-page.css"
 import Image from 'next/image'
- import * as portrait from "./selig.png"
+ import portrait from "./selig.png"
 
 export default function HomePage() { 
   return (
-    //  <main className="background-grey">
-    //   {/* <div className="background-grey"> */}
-    //   <div > 
-    //   <div className="background-white">
-    //     <div className="home-header">
-    //   <h2>About</h2> 
      <>
-      <h2>About</h2><Image
+      <h2>About</h2>
+      <Image
         src={portrait}
         alt="Portrait of Robert A. Selig"
         className="portrait-image" />

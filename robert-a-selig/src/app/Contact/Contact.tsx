@@ -1,4 +1,4 @@
-export default function HomePage() { 
+export default function Contact() { 
   return (
     //  <main className="background-grey">
     //   {/* <div className="background-grey"> */}
@@ -7,4 +7,4 @@ export default function HomePage() {
     //     <div className="home-header">
     //   <h2>About</h2> 
      <>
-      <h2>About</h2></>)}
+      <h2>Contact</h2></>)}
