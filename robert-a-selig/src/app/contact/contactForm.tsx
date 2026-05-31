@@ -11,8 +11,13 @@ export default function ContactForm() {
         className='contact-form'
       >
         <div className='form-group'>
-          <label htmlFor='name'>Name:</label>
-          <span className='error-message' id='nameError'></span>
+          <div>
+            <label htmlFor='name'>Name:</label>
+            <span className='error' id='nameError'>
+              {' '}
+              *{' '}
+            </span>
+          </div>
           <input
             type='text'
             id='name'
@@ -22,8 +27,13 @@ export default function ContactForm() {
           />
         </div>
         <div className='form-group'>
-          <label htmlFor='email'>Email:</label>
-          <span className='error-message' id='nameError'></span>
+          <div>
+            <label htmlFor='email'>Email:</label>
+            <span className='error' id='nameError'>
+              {' '}
+              *{' '}
+            </span>
+          </div>
           <input
             type='email'
             id='email'
@@ -33,8 +43,13 @@ export default function ContactForm() {
           />
         </div>
         <div className='form-group'>
-          <label htmlFor='message'>Message:</label>
-          <span className='error-message' id='nameError'></span>
+          <div>
+            <label htmlFor='message'>Message:</label>
+            <span className='error' id='nameError'>
+              {' '}
+              *{' '}
+            </span>
+          </div>
           <textarea
             id='message'
             name='message'
@@ -42,7 +57,7 @@ export default function ContactForm() {
             required
           ></textarea>
         </div>
-        <button type='submit' className='submit-button'>
+        <button type='submit' className='send-message-button'>
           Send Message
         </button>
       </form>
