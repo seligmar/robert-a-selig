@@ -1,4 +1,4 @@
-import "./globals.css";
+import './globals.css';
 
 export default function RootLayout({
   children,
@@ -6,11 +6,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang='en'>
       <title>Dr. Robert A. Selig, PhD.</title>
-      <body>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

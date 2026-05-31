@@ -1,26 +1,26 @@
 .background-grey {
-	background-color: #eef0f4;
-	/* height: 72vh; */
-	/* opacity: 0.3; */
-	/* background-color: #161c66; */
+  background-color: #eef0f4;
+  /* height: 72vh; */
+  /* opacity: 0.3; */
+  /* background-color: #161c66; */
 }
 
 .background-white {
-	background-color: white;
-	/* height: 72vh; */
+  background-color: white;
+  /* height: 72vh; */
 }
 
 .orange-border {
-	height: 8px;
-	background-color: #e09911;
+  height: 8px;
+  background-color: #e09911;
 }
 
 a {
-	color: #222a99;
-	cursor: pointer;
+  color: #222a99;
+  cursor: pointer;
 }
 
 a:hover,
 :focus {
-	color: #e09911;
+  color: #e09911;
 }
