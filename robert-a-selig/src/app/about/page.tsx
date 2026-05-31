@@ -1,4 +1,3 @@
-import PageLayout from "../layout/pagelayout"; //"../layout/pagelayout"
 import Image from 'next/image'
  import portrait from "./selig.png"
 import "./home-page.css"
@@ -6,9 +5,8 @@ import "./home-page.css"
 export default function HomePage() { 
   return (
      <> 
-     {/* <PageLayout>  */}
       <h2>About</h2>
-      https://nextjs.org/docs/app/api-reference/components/image
+      {/*  https://nextjs.org/docs/app/api-reference/components/image */}
       <Image
         src={portrait}
         alt="Portrait of Robert A. Selig"
@@ -25,7 +23,6 @@ Robert A. Selig is a historical consultant who received his Ph.D. in history fro
       <div className="home-content">
         He has been a regular contributor to German Life magazine for over 20 years and has also published more than 100 articles in American and German scholarly and popular history magazines such as the the William and Mary Quarterly, Eighteenth-Century Studies, the Yearbook of the Society for German-American Studies, Journal of Caribbean History, American Heritage, Naval History, Military History Quarterly, Colonial Williamsburg, German Life, Damals, (in German) and the Journal of the Johannes Schwalm Historical Association as well as chapters in various books and anthologies.
       </div>
-      {/* </PageLayout> */}
       </>
   )
 }     

@@ -1,6 +1,8 @@
 import PageLayout from "../layout/pagelayout";
 import "./contact.css"
 
+//https://www.npmjs.com/package/nodemailer
+
 export default function Contact() { 
   return (
      <>
