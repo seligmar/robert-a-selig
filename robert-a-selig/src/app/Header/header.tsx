@@ -20,7 +20,7 @@ export default function Header() {
                 <div className='menu-outside'>
                   {/* https://blog.logrocket.com/css-style-button-accessibility/#button-accessibility */}
                   {/* <nav> */}
-         <Link className='menu-link' href={"/"}>About</Link>   
+         <Link className='menu-link' href={"/about"}>About</Link>   
          <Link className='menu-link' href={"/publications"}>Publications</Link>
          <Link className='menu-link' href={"/multi-media"}>Multi-Media</Link>
          <Link className='menu-link' href={"/links"}>Links</Link>

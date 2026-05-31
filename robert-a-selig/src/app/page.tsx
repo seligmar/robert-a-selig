@@ -1,5 +1,5 @@
-import HomePage from "./home/about"
-import Contact from "./contactpage/contact"
+import HomePage from "./about/page"
+import Contact from "./contact/page"
 import Footer from "./header/footer";
 import Header from "./header/header";
 import "./page.css"
