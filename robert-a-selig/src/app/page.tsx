@@ -1,7 +1,7 @@
-import HomePage from "./Home/HomePage"
-import Contact from "./Contact/Contact"
-import Footer from "./Header/footer";
-import Header from "./Header/header";
+import HomePage from "./home/about"
+import Contact from "./contactpage/contact"
+import Footer from "./header/footer";
+import Header from "./header/header";
 import "./page.css"
 
 export default function Home() {
@@ -10,7 +10,6 @@ export default function Home() {
       <hr className="orange-border"/>
         <main className="background-grey">
       {/* <div className="background-grey"> */}
-    
       <div className="background-white">
         <div className="home-header">
  <HomePage />
