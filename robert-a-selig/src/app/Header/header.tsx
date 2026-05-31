@@ -12,8 +12,8 @@ export default function Header() {
               className="list-menu"
               /> */}
                 <div className='menu-outside'>
-         <button className='menu-button'>About</button> <button className='menu-button'>Publications</button><button className='menu-button'>Multi-Media</button><button className='menu-button'>Links</button>
-         <button className='menu-button'>Contact</button>
+         <a className='menu-link'>About</a> <a className='menu-link'>Publications</a><a className='menu-link'>Multi-Media</a><a className='menu-link'>Links</a>
+         <a className='menu-link'>Contact</a>
          </div>
         </div>        
       </header>
