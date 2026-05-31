@@ -1,14 +1,7 @@
-//import Image from 'next/image'
 import Link from 'next/link'
-//import { useRouter } from 'next/navigation'
-//  import * as list from "./list.svg"
 import "./header-footer.css"
 
 export default function Header() {
-  // useRouter
-// const router = useRouter()
-//router.push('/dashboard', { scroll: false })
-
   return (   
 <header className="header-footer-outside">
       <div className="header-footer-inside header-inside"><h1>
