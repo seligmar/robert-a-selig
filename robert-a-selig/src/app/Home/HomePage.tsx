@@ -6,6 +6,7 @@ export default function HomePage() {
   return (
      <>
       <h2>About</h2>
+      {/* https://nextjs.org/docs/app/api-reference/components/image */}
       <Image
         src={portrait}
         alt="Portrait of Robert A. Selig"
