@@ -1,7 +1,11 @@
+'use client';
 import Link from 'next/link';
 import './header-footer.css';
+import { useState } from 'react';
 
 export default function Header() {
+  const [active, setActive] = useState('/')<string>;
+
   return (
     <header className='header-footer-outside'>
       <div className='header-footer-inside header-inside'>
@@ -13,19 +17,44 @@ export default function Header() {
         <div className='menu-outside'>
           {/* https://blog.logrocket.com/css-style-button-accessibility/#button-accessibility */}
           {/* <nav> */}
-          <Link className='menu-link' href={'/'}>
+          <Link
+            className='menu-link'
+            href={'/'}
+            onClick={() => setActive('/')}
+            onMouseEnter={() => setActive('/')}
+          >
             About
           </Link>
-          <Link className='menu-link' href={'/publications'}>
+          <Link
+            className='menu-link'
+            href={'/publications'}
+            onClick={() => setActive('publications')}
+            onMouseEnter={() => setActive('publications')}
+          >
             Publications
           </Link>
-          <Link className='menu-link' href={'/multi-media'}>
+          <Link
+            className='menu-link'
+            href={'/multi-media'}
+            onClick={() => setActive('multi-media')}
+            onMouseEnter={() => setActive('multi-media')}
+          >
             Multi-Media
           </Link>
-          <Link className='menu-link' href={'/links'}>
+          <Link
+            className='menu-link'
+            href={'/links'}
+            onClick={() => setActive('links')}
+            onMouseEnter={() => setActive('links')}
+          >
             Links
           </Link>
-          <Link className='menu-link' href={'/contact'}>
+          <Link
+            className='menu-link'
+            href={'/contact'}
+            onClick={() => setActive('contact')}
+            onMouseEnter={() => setActive('contact')}
+          >
             Contact
           </Link>
           {/* </nav> */}
