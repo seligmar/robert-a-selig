@@ -17,8 +17,12 @@
 }
 
 .footer-inside {
-  display: flex;
-  height: 10vh;
+  /* display: flex; */
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  /* height: 10vh; */
 }
 
 .menu-outside {

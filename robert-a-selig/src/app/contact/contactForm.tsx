@@ -11,10 +11,9 @@ export default function ContactForm() {
         className='contact-form'
       >
         <div className='form-group'>
-          <div>
-            <label htmlFor='name'>Name:</label>
+          <div className='form-label-padding'>
+            <label htmlFor='name'>Name</label>
             <span className='error' id='nameError'>
-              {' '}
               *{' '}
             </span>
           </div>
@@ -28,9 +27,8 @@ export default function ContactForm() {
         </div>
         <div className='form-group'>
           <div>
-            <label htmlFor='email'>Email:</label>
+            <label htmlFor='email'>Email</label>
             <span className='error' id='nameError'>
-              {' '}
               *{' '}
             </span>
           </div>
@@ -44,9 +42,8 @@ export default function ContactForm() {
         </div>
         <div className='form-group'>
           <div>
-            <label htmlFor='message'>Message:</label>
+            <label htmlFor='message'>Message</label>
             <span className='error' id='nameError'>
-              {' '}
               *{' '}
             </span>
           </div>

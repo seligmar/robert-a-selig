@@ -14,11 +14,19 @@ export default function Contact() {
         <h2>Contact</h2>
         <div className='contact-grid'>
           {/* https://www.nps.gov/waro/learn/historyculture/washington-rochambeau-revolutionary-route.htm */}
-          <Image
-            src={seige}
-            alt='Portrait of Robert A. Selig'
-            className='seige-image'
-          />
+          <figure>
+            <Image
+              src={seige}
+              alt='Portrait of Robert A. Selig'
+              className='seige-image'
+            />
+            <figcaption>
+              American map of the Siege of Yorktown
+              <div className='image-caption-source'>
+                Geography and Map Division, Library of Congress
+              </div>
+            </figcaption>
+          </figure>
           <ContactForm />{' '}
         </div>
       </PageLayout>
