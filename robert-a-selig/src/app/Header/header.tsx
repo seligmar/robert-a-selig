@@ -5,9 +5,10 @@ import { useState } from 'react';
 import { useRouter } from 'next/compat/router';
 
 export default function Header() {
-  //  const [active, setActive] = useState('/')//<string>;
+  const [active, setActive] = useState('/'); //<string>;
   const router = useRouter();
-  console.log('router?', router?.pathname);
+  // useState(())
+  // console.log('router?', router?.pathname);
 
   return (
     <header className='header-footer-outside'>
@@ -23,7 +24,13 @@ export default function Header() {
           <Link
             className='menu-link'
             href={'/'}
-            onClick={() => setActive('/')}
+            // onNavigate={(e) => {
+            //   // Only executes during SPA navigation
+            //   e.preventDefault();
+            //   setActive('/');
+            //   console.log(e, 'Navigating...');
+            // }}
+            //  onClick={() => router.push('/dashboard')}
             // onClick={() => setActive('/')}
             // onMouseEnter={() => setActive('/')}
           >
@@ -60,6 +67,12 @@ export default function Header() {
             href={'/contact'}
             // onClick={() => setActive('contact')}
             // onMouseEnter={() => setActive('contact')}
+            // onNavigate={(e) => {
+            //   e.preventDefault();
+            //   // Only executes during SPA navigation
+            //   setActive('/contact');
+            //   console.log(e, 'Navigating...', active);
+            // }}
           >
             Contact
           </Link>
