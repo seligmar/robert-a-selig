@@ -9,7 +9,7 @@ export default function Header() {
   const [active, setActive] = useState('/'); //<string>;
   const router = useRouter();
   // useState(())
-  // console.log('router?', router?.pathname);
+   console.log('router?', router?.pathname);
 
   return (
     <header className='header-footer-outside'>
@@ -22,7 +22,6 @@ export default function Header() {
         <div className='menu-outside'>
           {/* https://blog.logrocket.com/css-style-button-accessibility/#button-accessibility */}
           {/* <nav> */}
-
           <LinkComponent linkHref={'/'} linkText={'About'} />
           <LinkComponent linkHref={'/publications'} linkText={'Publications'} />
           <LinkComponent linkHref={'/multi-media'} linkText={'Multi-Media'} />
