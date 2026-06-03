@@ -51,6 +51,9 @@ export default function HomePage() {
         Johannes Schwalm Historical Association as well as chapters in various
         books and anthologies.
       </div>
+      <div className='home-content'>
+        Dr. Robert A. Selig's CV is available<a>here</a>.
+      </div>
     </>
   );
 }
