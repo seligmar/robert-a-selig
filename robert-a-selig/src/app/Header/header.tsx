@@ -2,9 +2,12 @@
 import Link from 'next/link';
 import './header-footer.css';
 import { useState } from 'react';
+import { useRouter } from 'next/compat/router';
 
 export default function Header() {
-  const [active, setActive] = useState('/')<string>;
+  //  const [active, setActive] = useState('/')//<string>;
+  const router = useRouter();
+  console.log('router?', router?.pathname);
 
   return (
     <header className='header-footer-outside'>
@@ -21,39 +24,42 @@ export default function Header() {
             className='menu-link'
             href={'/'}
             onClick={() => setActive('/')}
-            onMouseEnter={() => setActive('/')}
+            // onClick={() => setActive('/')}
+            // onMouseEnter={() => setActive('/')}
           >
             About
           </Link>
           <Link
             className='menu-link'
             href={'/publications'}
-            onClick={() => setActive('publications')}
-            onMouseEnter={() => setActive('publications')}
+            // onClick={() => setActive('publications')}
+            // onMouseEnter={() => setActive('publications')}
           >
             Publications
           </Link>
           <Link
             className='menu-link'
             href={'/multi-media'}
-            onClick={() => setActive('multi-media')}
-            onMouseEnter={() => setActive('multi-media')}
+            // onClick={() => setActive('multi-media')}
+            // onMouseEnter={() => setActive('multi-media')
+
+            // }
           >
             Multi-Media
           </Link>
           <Link
             className='menu-link'
             href={'/links'}
-            onClick={() => setActive('links')}
-            onMouseEnter={() => setActive('links')}
+            // onClick={() => setActive('links')}
+            // onMouseEnter={() => setActive('links')}
           >
             Links
           </Link>
           <Link
             className='menu-link'
             href={'/contact'}
-            onClick={() => setActive('contact')}
-            onMouseEnter={() => setActive('contact')}
+            // onClick={() => setActive('contact')}
+            // onMouseEnter={() => setActive('contact')}
           >
             Contact
           </Link>
