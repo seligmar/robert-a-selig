@@ -3,6 +3,7 @@ import Link from 'next/link';
 import './header-footer.css';
 import { useState } from 'react';
 import { useRouter } from 'next/compat/router';
+import LinkComponent from './LinkComponent';
 
 export default function Header() {
   const [active, setActive] = useState('/'); //<string>;
@@ -21,8 +22,9 @@ export default function Header() {
         <div className='menu-outside'>
           {/* https://blog.logrocket.com/css-style-button-accessibility/#button-accessibility */}
           {/* <nav> */}
-          <Link
-            className='menu-link'
+
+          <LinkComponent linkHref={'/'} linkText={'About'} />
+          {/* className='menu-link'
             href={'/'}
             // onNavigate={(e) => {
             //   // Only executes during SPA navigation
@@ -35,7 +37,7 @@ export default function Header() {
             // onMouseEnter={() => setActive('/')}
           >
             About
-          </Link>
+          </Link> */}
           <Link
             className='menu-link'
             href={'/publications'}
