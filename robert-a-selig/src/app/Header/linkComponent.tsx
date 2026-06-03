@@ -25,3 +25,20 @@ export default function LinkComponent({
     </Link>
   );
 }
+
+{
+  /* className='menu-link'
+            href={'/'}
+            // onNavigate={(e) => {
+            //   // Only executes during SPA navigation
+            //   e.preventDefault();
+            //   setActive('/');
+            //   console.log(e, 'Navigating...');
+            // }}
+            //  onClick={() => router.push('/dashboard')}
+            // onClick={() => setActive('/')}
+            // onMouseEnter={() => setActive('/')}
+          >
+            About
+          </Link> */
+}

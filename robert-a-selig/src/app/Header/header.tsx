@@ -24,60 +24,10 @@ export default function Header() {
           {/* <nav> */}
 
           <LinkComponent linkHref={'/'} linkText={'About'} />
-          {/* className='menu-link'
-            href={'/'}
-            // onNavigate={(e) => {
-            //   // Only executes during SPA navigation
-            //   e.preventDefault();
-            //   setActive('/');
-            //   console.log(e, 'Navigating...');
-            // }}
-            //  onClick={() => router.push('/dashboard')}
-            // onClick={() => setActive('/')}
-            // onMouseEnter={() => setActive('/')}
-          >
-            About
-          </Link> */}
-          <Link
-            className='menu-link'
-            href={'/publications'}
-            // onClick={() => setActive('publications')}
-            // onMouseEnter={() => setActive('publications')}
-          >
-            Publications
-          </Link>
-          <Link
-            className='menu-link'
-            href={'/multi-media'}
-            // onClick={() => setActive('multi-media')}
-            // onMouseEnter={() => setActive('multi-media')
-
-            // }
-          >
-            Multi-Media
-          </Link>
-          <Link
-            className='menu-link'
-            href={'/links'}
-            // onClick={() => setActive('links')}
-            // onMouseEnter={() => setActive('links')}
-          >
-            Links
-          </Link>
-          <Link
-            className='menu-link'
-            href={'/contact'}
-            // onClick={() => setActive('contact')}
-            // onMouseEnter={() => setActive('contact')}
-            // onNavigate={(e) => {
-            //   e.preventDefault();
-            //   // Only executes during SPA navigation
-            //   setActive('/contact');
-            //   console.log(e, 'Navigating...', active);
-            // }}
-          >
-            Contact
-          </Link>
+          <LinkComponent linkHref={'/publications'} linkText={'Publications'} />
+          <LinkComponent linkHref={'/multi-media'} linkText={'Multi-Media'} />
+          <LinkComponent linkHref={'/links'} linkText={'Links'} />
+          <LinkComponent linkHref={'/contact'} linkText={'Contact'} />
           {/* </nav> */}
         </div>
       </div>
