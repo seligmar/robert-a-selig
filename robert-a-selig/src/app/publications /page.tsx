@@ -1,7 +1,7 @@
 import PageLayout from '../layout/pagelayout';
 import './publications.css';
 
-export default function Publication() {
+export default function Publications() {
   return (
     <>
       <PageLayout>

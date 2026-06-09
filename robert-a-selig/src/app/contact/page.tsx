@@ -17,7 +17,7 @@ export default function Contact() {
           <figure>
             <Image
               src={seige}
-              alt='Portrait of Robert A. Selig'
+              alt='American map of the Siege of Yorktown'
               className='seige-image'
             />
             <figcaption>
