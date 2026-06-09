@@ -1,16 +1,8 @@
 'use client';
-import Link from 'next/link';
 import './header-footer.css';
-import { useState } from 'react';
-import { useRouter } from 'next/compat/router';
 import LinkComponent from './LinkComponent';
 
 export default function Header() {
-  const [active, setActive] = useState('/'); //<string>;
-  const router = useRouter();
-  // useState(())
-   console.log('router?', router?.pathname);
-
   return (
     <header className='header-footer-outside'>
       <div className='header-footer-inside header-inside'>
