@@ -15,6 +15,12 @@
   background-color: #e09911;
 }
 
+.image-caption-source {
+  font-size: 0.75rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
 a {
   color: #222a99;
   cursor: pointer;

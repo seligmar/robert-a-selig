@@ -16,6 +16,12 @@ export default function publications() {
             alt='Portrait of Robert A. Selig'
             className='roadmap-image'
           />{' '}
+          <figcaption>
+            French map of the route to Yorktown, 1782
+            <div className='image-caption-source'>
+              Geography and Map Division, Library of Congress
+            </div>
+          </figcaption>
         </figure>
       </PageLayout>
     </>
