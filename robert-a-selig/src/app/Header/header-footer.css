@@ -48,6 +48,10 @@
   padding-top: 3px;
 }
 
+.active-menu-link {
+  background-color: #161c66;
+}
+
 .menu-link:hover {
   border: 1px solid #9a1005;
   background-color: #9a1005;

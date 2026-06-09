@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import './header-footer.css';
+import { usePathname } from 'next/navigation';
 
 export default function LinkComponent({
   linkHref,
@@ -8,37 +9,13 @@ export default function LinkComponent({
   linkHref: string;
   linkText: string;
 }) {
+  const pathname = usePathname();
+  const activeClass =
+    pathname === linkHref ? 'active-menu-link menu-link' : 'menu-link';
+
   return (
-    <Link
-      className='menu-link'
-      href={linkHref}
-      // onClick={() => setActive('contact')}
-      // onMouseEnter={() => setActive('contact')}
-      // onNavigate={(e) => {
-      //   e.preventDefault();
-      //   // Only executes during SPA navigation
-      //   setActive('/contact');
-      //   console.log(e, 'Navigating...', active);
-      // }}
-    >
+    <Link className={activeClass} href={linkHref}>
       {linkText}
     </Link>
   );
-}
-
-{
-  /* className='menu-link'
-            href={'/'}
-            // onNavigate={(e) => {
-            //   // Only executes during SPA navigation
-            //   e.preventDefault();
-            //   setActive('/');
-            //   console.log(e, 'Navigating...');
-            // }}
-            //  onClick={() => router.push('/dashboard')}
-            // onClick={() => setActive('/')}
-            // onMouseEnter={() => setActive('/')}
-          >
-            About
-          </Link> */
 }
