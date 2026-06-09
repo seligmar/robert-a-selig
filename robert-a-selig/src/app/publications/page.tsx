@@ -400,24 +400,40 @@ export default function publications() {
         17, no. 2, (Winter 1994-95), pp. 55-59. "Private Flohr's Other Life: The
         young German fought for American Independence, went home and returned as
         a man of peace." American Heritage vol. 45, no. 6,(October 1994), pp.
-        94-95. "Light Infantry Lessons from America? Johann von Ewald's
-        Experiences in the War for Independence." Studies in Eighteenth-Century
-        Culture 23 (1993), pp. 111-129. "The French Capture of St. Eustatius, 26
-        November 1781." Journal of Caribbean History vol. 27, no. 2, (December
-        1993), pp. 129-143. "A German Soldier in New England During the
-        Revolutionary War: The Account of Georg Daniel Flohr." Newport History
-        vol. 65, no. 223, (Fall 1993), pp. 48-65. "A German Soldier in America,
-        1780-1783: The Journal of Georg Daniel Flohr.” William and Mary
-        Quarterly vol. 50, no. 3, (July 1993), pp. 575-590. Also in "The
-        Periodical Observer" Wilson Quarterly vol. 18, no. 1, (Winter 1994), pp.
-        136-137. "Georg Daniel Flohr's Journal: A New Perspective." Colonial
-        Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
-        15, no. 4, (Summer 1993), pp. 47-53. "Private Flohr's America. From
-        Newport to Yorktown and the Battle that won the War: a German Foot
-        Soldier who fought for American Independence tells all about it in a
-        newly discovered Memoir." American Heritage vol. 43, no. 8, (December
-        1992), pp. 64-71. Repr. in Battles and Leaders F. Allen, ed., (New York:
-        Forbes, 1994), pp. 2-9.
+        94-95.{' '}
+        <div>
+          "Light Infantry Lessons from America? Johann von Ewald's Experiences
+          in the War for Independence." Studies in Eighteenth-Century Culture 23
+          (1993), pp. 111-129.{' '}
+        </div>
+        <div>
+          "The French Capture of St. Eustatius, 26 November 1781." Journal of
+          Caribbean History vol. 27, no. 2, (December 1993), pp. 129-143.{' '}
+        </div>
+        <div>
+          "A German Soldier in New England During the Revolutionary War: The
+          Account of Georg Daniel Flohr." Newport History vol. 65, no. 223,
+          (Fall 1993), pp. 48-65.{' '}
+        </div>
+        <div>
+          "A German Soldier in America, 1780-1783: The Journal of Georg Daniel
+          Flohr.” William and Mary Quarterly vol. 50, no. 3, (July 1993), pp.
+          575-590. Also in "The Periodical Observer" Wilson Quarterly vol. 18,
+          no. 1, (Winter 1994), pp. 136-137.
+        </div>{' '}
+        <div>
+          {' '}
+          "Georg Daniel Flohr's Journal: A New Perspective." Colonial
+          Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
+          15, no. 4, (Summer 1993), pp. 47-53.{' '}
+        </div>
+        <div>
+          "Private Flohr's America. From Newport to Yorktown and the Battle that
+          won the War: a German Foot Soldier who fought for American
+          Independence tells all about it in a newly discovered Memoir."
+          American Heritage vol. 43, no. 8, (December 1992), pp. 64-71. Repr. in
+          Battles and Leaders F. Allen, ed., (New York: Forbes, 1994), pp. 2-9.
+        </div>
         <div>
           "Idea and Practice of the ius emigrandi in the Holy Roman Empire from
           the Reformation to the French Revolution." Yearbook of the Society for
