@@ -12,6 +12,7 @@ export default function LinkComponent({
   const pathname = usePathname();
   const activeClass =
     pathname === linkHref ? 'active-menu-link menu-link' : 'menu-link';
+  console.log(pathname);
 
   return (
     <Link className={activeClass} href={linkHref}>
