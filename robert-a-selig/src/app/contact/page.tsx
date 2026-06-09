@@ -1,7 +1,6 @@
 import PageLayout from '../layout/pagelayout';
 import ContactForm from './contactForm';
 import Image from 'next/image';
-import roadmap from './route-map-vertical.jpg';
 import seige from './american-map-of-siege.webp';
 import './contact.css';
 
