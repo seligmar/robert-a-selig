@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import './header-footer.css';
 import { usePathname } from 'next/navigation';
+import './header-footer.css';
 
 export default function LinkComponent({
   linkHref,
