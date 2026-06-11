@@ -1,5 +1,5 @@
 import PageLayout from '../layout/pagelayout';
-//import cvToShow from './SeligCV.pdf';
+import './cv.css';
 
 export default function cv() {
   return (
@@ -7,7 +7,12 @@ export default function cv() {
       <PageLayout>
         <h2>Curriculum Vitae</h2>
         <div className='centre-cv'>
-          <iframe src={'SeligCV.pdf'} width='600' height='500' />
+          <iframe
+            src={'SeligCV.pdf'}
+            width='700'
+            height='500'
+            className='cv-iframe'
+          />
         </div>
       </PageLayout>
     </>
