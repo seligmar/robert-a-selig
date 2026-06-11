@@ -35,51 +35,71 @@ export default function publications() {
           1780 - June 1781. Published on-line in June 2024 at:
           https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/
         </div>{' '}
-        See also Gloria H. Schmidt, Digging in: Information from Robert Selig’s
-        work on the French at Butts Hill at:
-        https://battleofrhodeisland.org/digging-in-information-from-robert-seligs-work-on-the-french-at-butts-hill/
-        Newport’s Last Slave Auction: Rochambeau’s Prizes. Published on-line in
-        July 2024 at:
-        https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/
-        The Citizens of Westfield and the Coming of the American Revolution,
-        1774-1777 Research report prepared for the Westfield Historical Society
-        (Westfield, NJ 2025) The Historical Record of the March of Continental
-        Army Forces through Westfield, New Jersey, in August 1781. Research
-        report prepared for the Westfield Historical Society (Westfield, NJ
-        2024) "L’expédition particulière and the American War of Independence,
-        1780–1783." In: Waging War in America 1775-1783. Operational Challenges
-        of Five Armies Don N. Hagist, ed. (Warwick: Helion & Company, 2023), pp.
-        171-191. "The Washington-Rochambeau Revolutionary Route National
-        Historic Trail." Newport History. Journal of the Newport Historical
-        Society No. 287 vol. 98, Winter 2022/Spring 2023), pp. 1-30. ”De Newport
-        à Yorktown, à la Victoire et à la Gloire : la Route
-        Washington-Rochambeau et la Victoire du 19 octobre 1781.” In : Actes du
-        Colloque International : Victoire de Yorktown et naissance de l’amitié
-        franco-Américaine Bulletin de la Société Archéologique Scientifique &
-        Littéraire du Vendômois (2022), pp. 99-104. Note: all
-        Washington-Rochambeau Revolutionary Route Resource Studies and Site
-        surveys are available on-line at: https://w3r-us.org/history-by-state/
-        What was he really up to? An Inquiry into the Revolutionary War
-        activities of Col. John Rodgers of Rodger’s Tavern (Perryville: Rodgers
-        Tavern Museum, 2023; revised in October 2025) at:
-        https://www.rodgerstavern.com/post/revolutionarywaractivitiesofjohnrodgers
-        ’…They Have Burned the Greater Part of Stone Arabia…’. Preservation Plan
-        for the Battlefields of Stone Arabia and Klock’s Field, October 19,
-        1780, Montgomery County, New York. Together with Wade P. Catts, RPA,
-        Kevin Bradley, RPA and with contributions by Jon Jasewicz. 2 vols.,
-        (Newark, DE: South River Heritage Consulting LLC: 2023) Cultural
-        Resource Survey and Land and Water Based Route Reconnaissance for the
-        Washington Rochambeau Revolutionary Route National Historic Trail
-        (W3R-NHT) and Lafayette in Charles County, Maryland. (La Plata, MD:
-        Maryland Veterans Museum at Patriot Park, 2023) Rochambeau in Rhode
-        Island July 1780-June 1781. (2022) Available on-line at:
-        https://battleofrhodeisland.org/rochambeau-in-rhode-island/ ‘“No Regular
-        Corps could have maintained its Ground more firmly.” Site Documentation
-        and Preservation Plan for the Battle of the Hook, October 3, 1781.
-        American Battlefield Protection Program Grant prepared for Gloucester
-        Parks, Recreation and Tourism by Wade P. Catts, RPA, Robert A. Selig,
-        Ph.D., Lt. Col. Lewis H. Burruss (ret.), and Kevin Bradley, RPA (Newark,
-        DE: South River Heritage Consulting LLC, 2021) at:
+        <div>
+          {' '}
+          See also Gloria H. Schmidt, Digging in: Information from Robert
+          Selig’s work on the French at Butts Hill at:
+          https://battleofrhodeisland.org/
+        </div>
+        digging-in-information-from-robert-seligs-work-on-the-french-at-butts-hill/
+        <div>
+          {' '}
+          Newport’s Last Slave Auction: Rochambeau’s Prizes. Published on-line
+          in July 2024 at:
+          https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/
+        </div>
+        <div>
+          The Citizens of Westfield and the Coming of the American Revolution,
+          1774-1777 Research report prepared for the Westfield Historical
+          Society (Westfield, NJ 2025) The Historical Record of the March of
+          Continental Army Forces through Westfield, New Jersey, in August 1781.
+          Research report prepared for the Westfield Historical Society
+          (Westfield, NJ 2024) "L’expédition particulière and the American War
+          of Independence, 1780–1783." In: Waging War in
+          America 1775-1783. Operational Challenges of Five Armies Don N.
+          Hagist, ed. (Warwick: Helion & Company, 2023), pp. 171-191.
+        </div>
+        <div>
+          "The Washington-Rochambeau Revolutionary Route National Historic
+          Trail." Newport History. Journal of the Newport Historical Society No.
+          287 vol. 98, Winter 2022/Spring 2023), pp. 1-30.
+        </div>{' '}
+        <div>
+          {' '}
+          ”De Newport à Yorktown, à la Victoire et à la Gloire : la Route
+          Washington-Rochambeau et la Victoire du 19 octobre 1781.” In : Actes
+          du Colloque International : Victoire de Yorktown et naissance de
+          l’amitié franco-Américaine Bulletin de la Société Archéologique
+          Scientifique & Littéraire du Vendômois (2022), pp. 99-104. Note: all
+          Washington-Rochambeau Revolutionary Route Resource Studies and Site
+          surveys are available on-line at: https://w3r-us.org/history-by-state/
+        </div>
+        <div>
+          {' '}
+          What was he really up to? An Inquiry into the Revolutionary War
+          activities of Col. John Rodgers of Rodger’s Tavern (Perryville:
+          Rodgers Tavern Museum, 2023; revised in October 2025) at:
+          https://www.rodgerstavern.com/post/revolutionarywaractivitiesofjohnrodgers
+        </div>
+        <div>
+          ’…They Have Burned the Greater Part of Stone Arabia…’. Preservation
+          Plan for the Battlefields of Stone Arabia and Klock’s Field, October
+          19, 1780, Montgomery County, New York. Together with Wade P. Catts,
+          RPA, Kevin Bradley, RPA and with contributions by Jon Jasewicz. 2
+          vols., (Newark, DE: South River Heritage Consulting LLC: 2023)
+          Cultural Resource Survey and Land and Water Based Route Reconnaissance
+          for the Washington Rochambeau Revolutionary Route National Historic
+          Trail (W3R-NHT) and Lafayette in Charles County, Maryland. (La Plata,
+          MD: Maryland Veterans Museum at Patriot Park, 2023) Rochambeau in
+          Rhode Island July 1780-June 1781. (2022) Available on-line at:
+          https://battleofrhodeisland.org/rochambeau-in-rhode-island/
+        </div>{' '}
+        ‘“No Regular Corps could have maintained its Ground more firmly.” Site
+        Documentation and Preservation Plan for the Battle of the Hook, October
+        3, 1781. American Battlefield Protection Program Grant prepared for
+        Gloucester Parks, Recreation and Tourism by Wade P. Catts, RPA, Robert
+        A. Selig, Ph.D., Lt. Col. Lewis H. Burruss (ret.), and Kevin Bradley,
+        RPA (Newark, DE: South River Heritage Consulting LLC, 2021) at:
         https://www.gloucesterva.info/1352/Battle-of-the-Hook “upwards of 20
         Batteaus all in a Body made a fine Appearance coming down the River, and
         must be very mortifying to those Motionless at a little Distance”. Water
