@@ -1,6 +1,9 @@
+'use client';
 import Image from 'next/image';
 import portrait from './selig.png';
 import './home-page.css';
+// simport LinkComponent from '../header/LinkComponent';
+import Link from 'next/link';
 
 export default function HomePage() {
   return (
@@ -63,7 +66,8 @@ export default function HomePage() {
         books and anthologies.
       </div>
       <div className='home-content'>
-        Dr. Robert A. Selig's CV is available <a>here</a>.
+        Dr. Robert A. Selig's CV is available {''}
+        <Link href={'/cv'}>here</Link>.
       </div>
     </>
   );
