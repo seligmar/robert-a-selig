@@ -687,22 +687,26 @@ export default function publications() {
             <div className='publication-margin'>
               “Involuntary Soldiers for America: Count Friedrich Ludwig zu
               Wertheim-Löwenstein’s Creative Recruitment Practices, 1781-1782.”
-              Journal of the Johannes Schwalm Historical Association vol. 20,
-              (2017), pp. 11-18.{' '}
+              <i>
+                {' '}
+                Journal of the Johannes Schwalm Historical Association{' '}
+              </i>{' '}
+              vol. 20, (2017), pp. 11-18.{' '}
             </div>
             <div className='publication-margin'>
               “Father Ferdinand Farmer’s French-Canadian Connection.”
-              Connecticut Maple Leaf vol. 16, no. 2 (Winter 2013-2014), pp.
-              61-65.{' '}
+              <i> Connecticut Maple Leaf </i>vol. 16, no. 2 (Winter 2013-2014),
+              pp. 61-65.{' '}
             </div>{' '}
             <div className='publication-margin'>
-              “Eighteenth-Century Currencies.” The Brigade Dispatch. Journal Of
-              The Brigade Of The American Revolution vol. 43, no. 3, (Autumn,
-              2013), pp. 16-31.{' '}
+              “Eighteenth-Century Currencies.” The Brigade Dispatch.{' '}
+              <i>Journal Of The Brigade Of The American Revolution </i>vol. 43,
+              no. 3, (Autumn, 2013), pp. 16-31.{' '}
             </div>{' '}
             <div className='publication-margin'>
               “Site Lines: Mapping Rochambeau’s March across Connecticut”
-              Connecticut Explored vol. 10, no. 2 (Spring 2012), pp. 48-49.{' '}
+              <i> Connecticut Explored </i>vol. 10, no. 2 (Spring 2012), pp.
+              48-49.{' '}
             </div>{' '}
             <div className='publication-margin'>
               “How did Yorktown become the largest town in America?” Le
