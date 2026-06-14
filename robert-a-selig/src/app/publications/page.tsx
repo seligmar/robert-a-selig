@@ -734,17 +734,23 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               “Heritage Tourism, Historical Re-Enactments and the Local Economy:
-              A Global Perspective.” The Brigade Dispatch. Journal Of The
-              Brigade Of The American Revolution vol. 40, no. 2, (Summer 2010),
-              pp. 2-11.{' '}
+              A Global Perspective.”{' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 40, no. 2, (Summer 2010), pp. 2-11.{' '}
             </div>
             <div className='publication-margin'>
               “French Horse-Thieves, German Cattle-Rustlers, and Sticky-Fingered
               Virginia Militia: The Seedier Side of Life in Gloucester County
-              during the Siege of October 1781.” The Brigade Dispatch. Journal
-              Of The Brigade Of The American Revolution vol. 39, no. 1, (Spring
-              2009), pp. 2-10. Selig, Robert A., translator, and Donald M.
-              Londahl-Smidt, annotator.{' '}
+              during the Siege of October 1781.”{' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 39, no. 1, (Spring 2009), pp. 2-10. Selig, Robert A.,
+              translator, and Donald M. Londahl-Smidt, annotator.{' '}
             </div>
             <div className='publication-margin'>
               “Extracts from the Diary and Letters of Staff Captain Karl Ludwig,
@@ -754,17 +760,26 @@ export default function publications() {
             </div>{' '}
             <div className='publication-margin'>
               "Global Implications of the Peace of Paris, 3 September 1783." The
-              Brigade Dispatch. Journal Of The Brigade Of The American
-              Revolution vol. 38, no. 4, (Winter 2008), pp. 2-29.{' '}
+              Brigade Dispatch.{' '}
+              <i>Journal Of The Brigade Of The American Revolution </i>vol. 38,
+              no. 4, (Winter 2008), pp. 2-29.{' '}
             </div>
             <div className='publication-margin'>
               {' '}
               "20 October 1781: The Day After the Surrender." The Brigade
-              Dispatch. Journal Of The Brigade Of The American Revolution vol.
-              38, no. 2, (Summer 2008), pp. 2-16. "Old World Meets New:
-              Franco-American Encounters and the expédition particulière,
-              1780-1782." The Brigade Dispatch. Journal Of The Brigade Of The
-              American Revolution vol. 37, no. 1, (Spring 2007), pp. 2-11.
+              Dispatch.{' '}
+              <i>Journal Of The Brigade Of The American Revolution </i>vol. 38,
+              no. 2, (Summer 2008), pp. 2-16.{' '}
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              "Old World Meets New: Franco-American Encounters and the
+              <i> expédition particulière</i>, 1780-1782."{' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 37, no. 1, (Spring 2007), pp. 2-11.
             </div>
             <div className='publication-margin'>
               {' '}
