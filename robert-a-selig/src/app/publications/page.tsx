@@ -60,6 +60,10 @@ export default function publications() {
               {' '}
               Newport’s Last Slave Auction: Rochambeau’s Prizes. Published
               on-line in July 2024 at:
+              <a
+                href=' https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/'
+                target='_blank'
+              ></a>{' '}
               https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/
             </div>
             <div className='publication-margin'>
@@ -110,8 +114,13 @@ export default function publications() {
               Revolutionary Route National Historic Trail (W3R-NHT) and
               Lafayette in Charles County, Maryland. (La Plata, MD: Maryland
               Veterans Museum at Patriot Park, 2023) Rochambeau in Rhode Island
-              July 1780-June 1781. (2022) Available on-line at:
-              https://battleofrhodeisland.org/rochambeau-in-rhode-island/
+              July 1780-June 1781. (2022) Available on-line at:{' '}
+              <a
+                href=' https://battleofrhodeisland.org/rochambeau-in-rhode-island/'
+                target='_blank'
+              >
+                https://battleofrhodeisland.org/rochambeau-in-rhode-island/
+              </a>
             </div>{' '}
             <div className='publication-margin'>
               “
@@ -124,7 +133,10 @@ export default function publications() {
               Wade P. Catts, RPA, Robert A. Selig, Ph.D., Lt. Col. Lewis H.
               Burruss (ret.), and Kevin Bradley, RPA (Newark, DE: South River
               Heritage Consulting LLC, 2021) at:
-              <a href='https://www.gloucesterva.info/1352/Battle-of-the-Hook'></a>{' '}
+              <a
+                href='https://www.gloucesterva.info/1352/Battle-of-the-Hook'
+                target='_blank'
+              ></a>{' '}
               https://www.gloucesterva.info/1352/Battle-of-the-Hook
             </div>
             <div className='publication-margin'>
@@ -134,7 +146,12 @@ export default function publications() {
               Washington-Rochambeau Revolutionary Route National Historic Trail
               in the Hudson River Valley in 1781 and 1782. A Historical Overview
               and Resource Inventory. (Albany, NY: Hudson River Valley National
-              Heritage Area, 2020) at: https://www.hudsonrivervalley.com/trails
+              Heritage Area, 2020) at:{' '}
+              <a
+                href=' https://www.hudsonrivervalley.com/trails'
+                target='_blank'
+              ></a>
+              https://www.hudsonrivervalley.com/trails
             </div>
             <div className='publication-margin'>
               “En Avant to Victory: The Allied March to Yorktown June-October
