@@ -440,246 +440,323 @@ export default function publications() {
             Culture of Death: An Overview of Burial Practices during the
             American War of Independence.” The Brigade Dispatch. Journal Of The
             Brigade Of The American Revolution vol. 50, No. 1, (Winter 2023/24),
-            pp. 3-18. “Rochambeau in Bolton. The Whys and Wherefores of the
-            French Encampment on the farm of the Rev. George Colton, 21 to 24
-            June 1781.” The Brigade Dispatch. Journal Of The Brigade Of The
-            American Revolution vol. 47, no. 2, (Autumn 2020), pp. 3-13.
-            “Severed Heads, Potato-Pits and Fence-Posts: A Cultural Context for
-            the Burial of Casualties at Bennington, 16 August 1777.” Journal of
-            the Johannes Schwalm Historical Association vol. 22, (2019), pp.
-            38-46. “Involuntary Soldiers for America – the Rest of the Story.”
-            Journal of the Johannes Schwalm Historical Association vol. 21,
-            (2018), pp. 85-91. “Involuntary Soldiers for America: Count
-            Friedrich Ludwig zu Wertheim-Löwenstein’s Creative Recruitment
-            Practices, 1781-1782.” Journal of the Johannes Schwalm Historical
-            Association vol. 20, (2017), pp. 11-18. “Father Ferdinand Farmer’s
-            French-Canadian Connection.” Connecticut Maple Leaf vol. 16, no. 2
-            (Winter 2013-2014), pp. 61-65. “Eighteenth-Century Currencies.” The
-            Brigade Dispatch. Journal Of The Brigade Of The American Revolution
-            vol. 43, no. 3, (Autumn, 2013), pp. 16-31. “Site Lines: Mapping
-            Rochambeau’s March across Connecticut” Connecticut Explored vol. 10,
-            no. 2 (Spring 2012), pp. 48-49. “How did Yorktown become the largest
-            town in America?” Le bulletin. Newsletter of l’Alliance Française,
-            Chapitre de Grasse. Norfolk, VA. (January-February 2012), pp. 9-11.
-            “Artillery at Yorktown: A Statistical Overview (Part 2 of 2) The
-            Brigade Dispatch. Journal Of The Brigade Of The American Revolution
-            vol. 40, no. 3, (Winter 2010), pp. 26-32. “Artillery at Yorktown: A
-            Statistical Overview (Part 1 of 2) The Brigade Dispatch. Journal Of
-            The Brigade Of The American Revolution vol. 40, no. 4, (Autumn
-            2010), pp. 1-11. “Heritage Tourism, Historical Re-Enactments and the
-            Local Economy: A Global Perspective.” The Brigade Dispatch. Journal
-            Of The Brigade Of The American Revolution vol. 40, no. 2, (Summer
-            2010), pp. 2-11. “French Horse-Thieves, German Cattle-Rustlers, and
-            Sticky-Fingered Virginia Militia: The Seedier Side of Life in
-            Gloucester County during the Siege of October 1781.” The Brigade
-            Dispatch. Journal Of The Brigade Of The American Revolution vol. 39,
-            no. 1, (Spring 2009), pp. 2-10. Selig, Robert A., translator, and
-            Donald M. Londahl-Smidt, annotator. “Extracts from the Diary and
-            Letters of Staff Captain Karl Ludwig, Freiherr von Doernberg,
-            1779-1781: Part 1 – Germany to Portsmouth, March 28-May 30, 1779.”
-            The Hessians: Journal of the Johannes Schwalm Historical
-            Association. 11 (2008): 91-97. "Global Implications of the Peace of
-            Paris, 3 September 1783." The Brigade Dispatch. Journal Of The
-            Brigade Of The American Revolution vol. 38, no. 4, (Winter 2008),
-            pp. 2-29. "20 October 1781: The Day After the Surrender." The
-            Brigade Dispatch. Journal Of The Brigade Of The American Revolution
-            vol. 38, no. 2, (Summer 2008), pp. 2-16. "Old World Meets New:
-            Franco-American Encounters and the expédition particulière,
-            1780-1782." The Brigade Dispatch. Journal Of The Brigade Of The
-            American Revolution vol. 37, no. 1, (Spring 2007), pp. 2-11.
-            "Tracing the Yorktown Campaign of 1781 - 82." Notes on Virginia no.
-            51 (2007), pp. 47-55. "Walk Where They Fought: Path to Victory!" The
-            Armchair General (July 2006) (with Barnet Schecter) at:
-            http://www.armchairgeneral.com/ "Der Spanische Erbfolgekrieg in
-            Übersee." In: Die Schlacht von Höchstädt/The Battle of Blenheim J.
-            Erichsen and K. Heinemann, eds., (Ostfildern: Jan Thorbecke, 2004),
-            pp. 90-95. "Hessians Fighting for American Independence? German
-            Deserters recruited for Lauzun's Legion in America, 1780 - 1782."
-            Journal of the Johannes Schwalm Historical Association vol. 7, no.
-            4, (2004), pp. 39-51. "Eyewitness to Yorktown." Military History
-            (February 2003), pp. 58-64. (based on the letters of comte Schwerin,
-            a lieutenant in the company of grenadiers in the Royal Deux-Ponts
-            regiment to his uncle the Prince of Neuwied. "Das Deutsche
-            Königlich-Französische Infanterie Regiment von Zweybrücken or Royal
-            Deux-Ponts." Journal of the Johannes Schwalm Historical Association.
-            Part 1: April 1756 - March 1780, in vol. 6, no. 4, (2000), pp.
-            52-59. Part 2: March 1780 - June 1781, in vol. 7, no. 1, (2001), pp.
-            43-53. Part 3: July 1781 - June 1783, in vol. 7, no. 2, (2002), pp.
-            29-43. Part 4: June 1783 - 21 July 1791, in vol. 7, no. 3, (2003),
-            pp. 42-52. "Putting the Washington - Rochambeau Trail on the Map."
-            Flintlock & Powderhorn, Magazine of the Sons of the Revolution vol.
-            21, no. 1, (Spring 2003), pp. 4-15. “The Revolution’s Black
-            Soldiers.” Journal of the Afro-American Historical and Genealogical
-            Society vol. 22, No. 1, (2003), pp. 1-11. "A New View of Old
-            Williamsburg. A Huntington Library Manuscript Provides Another
-            Glimpse of the City in 1781." Colonial Williamsburg. The Journal of
-            the Colonial Williamsburg Foundation vol. 22, no. 1, (Spring 2000),
-            pp. 30-34. The author is an unidentified officer in the Soissonnois
-            Regiment of Infantry. "Traveling On the
-            Washington-Rochambeau-Revolutionary-Route." Daughters of the
-            American Revolution Magazine vol. 135, no. 5, (May 2001), pp.
-            428-435. "The word liberté was frequently heard. The Royal
-            Deux-Ponts in the American and the French Revolutions." Colonial
-            Williamsburg. The Journal of the Colonial Williamsburg Foundation
-            vol. 21, no. 1, (Spring 2001), pp. 80-84. "Johann Georg Wüst. Der
-            König von Ostindien." Damals. Das aktuelle Magazin für Geschichte
-            und Kultur vol. 32, no. 11, (November 2000), pp. 66-71. "The
-            Iconography to Triumph and Surrender." Colonial Williamsburg. The
-            Journal of the Colonial Williamsburg Foundation vol. 23, no. 3
-            (Autumn 2000), pp. 72-77.
-            <div>
+            pp. 3-18.{' '}
+            <div className='publication-margin'>
+              “Rochambeau in Bolton. The Whys and Wherefores of the French
+              Encampment on the farm of the Rev. George Colton, 21 to 24 June
+              1781.” The Brigade Dispatch. Journal Of The Brigade Of The
+              American Revolution vol. 47, no. 2, (Autumn 2020), pp. 3-13.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              “Severed Heads, Potato-Pits and Fence-Posts: A Cultural Context
+              for the Burial of Casualties at Bennington, 16 August 1777.”
+              Journal of the Johannes Schwalm Historical Association vol. 22,
+              (2019), pp. 38-46.{' '}
+            </div>
+            <div className='publication-margin'>
+              “Involuntary Soldiers for America – the Rest of the Story.”
+              Journal of the Johannes Schwalm Historical Association vol. 21,
+              (2018), pp. 85-91.{' '}
+            </div>
+            <div className='publication-margin'>
+              “Involuntary Soldiers for America: Count Friedrich Ludwig zu
+              Wertheim-Löwenstein’s Creative Recruitment Practices, 1781-1782.”
+              Journal of the Johannes Schwalm Historical Association vol. 20,
+              (2017), pp. 11-18.{' '}
+            </div>
+            <div className='publication-margin'>
+              “Father Ferdinand Farmer’s French-Canadian Connection.”
+              Connecticut Maple Leaf vol. 16, no. 2 (Winter 2013-2014), pp.
+              61-65.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              “Eighteenth-Century Currencies.” The Brigade Dispatch. Journal Of
+              The Brigade Of The American Revolution vol. 43, no. 3, (Autumn,
+              2013), pp. 16-31.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              “Site Lines: Mapping Rochambeau’s March across Connecticut”
+              Connecticut Explored vol. 10, no. 2 (Spring 2012), pp. 48-49.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              “How did Yorktown become the largest town in America?” Le
+              bulletin. Newsletter of l’Alliance Française, Chapitre de Grasse.
+              Norfolk, VA. (January-February 2012), pp. 9-11.
+            </div>{' '}
+            <div className='publication-margin'>
+              “Artillery at Yorktown: A Statistical Overview (Part 2 of 2) The
+              Brigade Dispatch. Journal Of The Brigade Of The American
+              Revolution vol. 40, no. 3, (Winter 2010), pp. 26-32.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              “Artillery at Yorktown: A Statistical Overview (Part 1 of 2) The
+              Brigade Dispatch. Journal Of The Brigade Of The American
+              Revolution vol. 40, no. 4, (Autumn 2010), pp. 1-11.{' '}
+            </div>
+            <div className='publication-margin'>
+              “Heritage Tourism, Historical Re-Enactments and the Local Economy:
+              A Global Perspective.” The Brigade Dispatch. Journal Of The
+              Brigade Of The American Revolution vol. 40, no. 2, (Summer 2010),
+              pp. 2-11.{' '}
+            </div>
+            <div className='publication-margin'>
+              “French Horse-Thieves, German Cattle-Rustlers, and Sticky-Fingered
+              Virginia Militia: The Seedier Side of Life in Gloucester County
+              during the Siege of October 1781.” The Brigade Dispatch. Journal
+              Of The Brigade Of The American Revolution vol. 39, no. 1, (Spring
+              2009), pp. 2-10. Selig, Robert A., translator, and Donald M.
+              Londahl-Smidt, annotator.{' '}
+            </div>
+            <div className='publication-margin'>
+              “Extracts from the Diary and Letters of Staff Captain Karl Ludwig,
+              Freiherr von Doernberg, 1779-1781: Part 1 – Germany to Portsmouth,
+              March 28-May 30, 1779.” The Hessians: Journal of the Johannes
+              Schwalm Historical Association. 11 (2008): 91-97.
+            </div>{' '}
+            <div className='publication-margin'>
+              "Global Implications of the Peace of Paris, 3 September 1783." The
+              Brigade Dispatch. Journal Of The Brigade Of The American
+              Revolution vol. 38, no. 4, (Winter 2008), pp. 2-29.{' '}
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              "20 October 1781: The Day After the Surrender." The Brigade
+              Dispatch. Journal Of The Brigade Of The American Revolution vol.
+              38, no. 2, (Summer 2008), pp. 2-16. "Old World Meets New:
+              Franco-American Encounters and the expédition particulière,
+              1780-1782." The Brigade Dispatch. Journal Of The Brigade Of The
+              American Revolution vol. 37, no. 1, (Spring 2007), pp. 2-11.
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              "Tracing the Yorktown Campaign of 1781 - 82." Notes on Virginia
+              no. 51 (2007), pp. 47-55. "Walk Where They Fought: Path to
+              Victory!" The Armchair General (July 2006) (with Barnet Schecter)
+              at:
+              <a href='http://www.armchairgeneral.com/' target='_blank'>
+                {' '}
+                http://www.armchairgeneral.com/
+              </a>
+            </div>
+            <div className='publication-margin'>
+              "Der Spanische Erbfolgekrieg in Übersee." In: Die Schlacht von
+              Höchstädt/The Battle of Blenheim J. Erichsen and K. Heinemann,
+              eds., (Ostfildern: Jan Thorbecke, 2004), pp. 90-95.{' '}
+            </div>
+            <div className='publication-margin'>
+              "Hessians Fighting for American Independence? German Deserters
+              recruited for Lauzun's Legion in America, 1780 - 1782." Journal of
+              the Johannes Schwalm Historical Association vol. 7, no. 4, (2004),
+              pp. 39-51.{' '}
+            </div>
+            <div className='publication-margin'>
+              "Eyewitness to Yorktown." Military History (February 2003), pp.
+              58-64. (based on the letters of comte Schwerin, a lieutenant in
+              the company of grenadiers in the Royal Deux-Ponts regiment to his
+              uncle the Prince of Neuwied.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              "Das Deutsche Königlich-Französische Infanterie Regiment von
+              Zweybrücken or Royal Deux-Ponts." Journal of the Johannes Schwalm
+              Historical Association. Part 1: April 1756 - March 1780, in vol.
+              6, no. 4, (2000), pp. 52-59. Part 2: March 1780 - June 1781, in
+              vol. 7, no. 1, (2001), pp. 43-53. Part 3: July 1781 - June 1783,
+              in vol. 7, no. 2, (2002), pp. 29-43. Part 4: June 1783 - 21 July
+              1791, in vol. 7, no. 3, (2003), pp. 42-52. "Putting the Washington
+              - Rochambeau Trail on the Map." Flintlock & Powderhorn, Magazine
+              of the Sons of the Revolution vol. 21, no. 1, (Spring 2003), pp.
+              4-15.
+            </div>
+            <div className='publication-margin'>
+              “The Revolution’s Black Soldiers.” Journal of the Afro-American
+              Historical and Genealogical Society vol. 22, No. 1, (2003), pp.
+              1-11.
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              "A New View of Old Williamsburg. A Huntington Library Manuscript
+              Provides Another Glimpse of the City in 1781." Colonial
+              Williamsburg. The Journal of the Colonial Williamsburg Foundation
+              vol. 22, no. 1, (Spring 2000), pp. 30-34. The author is an
+              unidentified officer in the Soissonnois Regiment of Infantry.
+            </div>
+            <div className='publication-margin'>
+              "Traveling On the Washington-Rochambeau-Revolutionary-Route."
+              Daughters of the American Revolution Magazine vol. 135, no. 5,
+              (May 2001), pp. 428-435.{' '}
+            </div>
+            <div className='publication-margin'>
+              "The word liberté was frequently heard. The Royal Deux-Ponts in
+              the American and the French Revolutions." Colonial Williamsburg.
+              The Journal of the Colonial Williamsburg Foundation vol. 21, no.
+              1, (Spring 2001), pp. 80-84.
+            </div>
+            <div className='publication-margin'>
+              "Johann Georg Wüst. Der König von Ostindien." Damals. Das aktuelle
+              Magazin für Geschichte und Kultur vol. 32, no. 11, (November
+              2000), pp. 66-71.
+            </div>
+            <div className='publication-margin'>
+              "The Iconography to Triumph and Surrender." Colonial Williamsburg.
+              The Journal of the Colonial Williamsburg Foundation vol. 23, no. 3
+              (Autumn 2000), pp. 72-77.
+            </div>
+            <div className='publication-margin'>
               "From Newport to Yorktown: Following the Road to Victory."
               Colonial Williamsburg. The Journal of the Colonial Williamsburg
               Foundation vol. 22, no. 3 (Autumn 2000), pp. 66-71.
             </div>
-            <div>
+            <div className='publication-margin'>
               “<i>Mon tres cher oncle</i>" Lt. Graf Wilhelm von Schwerin writes
               home from a Virginia Victory. Colonial Williamsburg. The Journal
               of the Colonial Williamsburg Foundation vol. 22, No. 2, Summer
               2000), pp. 48-54.
             </div>
-            <div>
+            <div className='publication-margin'>
               “Mount Vernon After Washington: The Rescue of an American Memory.”
               Colonial Williamsburg. The Journal of the Colonial Williamsburg
               Foundation vol. 22, No. 1, (Spring 2000), pp. 48-54.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Nothing but Sky and Water: Descriptions of Transatlantic Travel
               from the Journal of Georg Daniel Flohr, Grenadier, Royal
               Deux-Ponts, 1780-1783." Naval History vol. 13, no. 5,
               (September/October 1999), pp. 29-34.
             </div>
-            <div>
+            <div className='publication-margin'>
               "The duc de Lauzun and his Légion, Rochambeau's most troublesome,
               colorful soldiers." Colonial Williamsburg. The Journal of the
               Colonial Williamsburg Foundation vol. 21, no. 6, (December
               1999/January 2000), pp. 56-63.
             </div>
-            <div>
+            <div className='publication-margin'>
               "François Joseph Paul Comte de Grasse, the Battle off the Virginia
               Capes, and the American Victory at Yorktown." Colonial
               Williamsburg. The Journal of the Colonial Williamsburg Foundation
               vol. 21, no. 5, (October/November 1999), pp. 26-32.
             </div>
-            <div>
+            <div className='publication-margin'>
               "The Prince and the Pauper: Christian von Zweibrücken and Lucy
               Randolph." German Life vol. 6, no. 2, (August/September 1999), pp.
               40-42.
             </div>
-            <div>
+            <div className='publication-margin'>
               "A French Volunteer who lived to rue America's Revolution: Denis
               Jean Florimond de Langlois, Marquis du Bouchet" Colonial
               Williamsburg. The Journal of the Colonial Williamsburg Foundation
               vol. 21, no. 3, (June/July 1999), pp. 16-25.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Who were the Huguenots?" Colonial Williamsburg. The Journal of
               the Colonial Williamsburg Foundation vol. 21, no. 2, (April/May
               1999), pp. 67-71.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Eighteenth-Century European and American Currencies." Beyond
               Germanna vol. 11, No. 2, (March 1999), pp. 616-617. "Georg Daniel
               Flohr" Beyond Germanna vol. 10, no. 6, (November 1998), pp.
               591-592, and vol. 11, no. 1, (January 1999), pp. 606-607.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Wilhelmsburg in the Year 1702: The Account of Franz Ludwig
               Michel." Colonial Williamsburg. The Journal of the Colonial
               Williamsburg Foundation vol. 20, no. 4, (Summer 1998), pp. 23-31
-              at: www.patc.net/michel2.html
+              at:{' '}
+              <a href='www.patc.net/michel2.html' target='_blank'>
+                www.patc.net/michel2.html
+              </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               "America the Ungrateful: The Not-So-Fond Remembrances of Louis
               François Dupont d'Aubevoye, comte de Lauberdière." American
               Heritage vol. 48, no. 1, (February 1997), pp. 101-106.
             </div>
-            <div>
+            <div className='publication-margin'>
               "The Revolution's Black Soldiers. They fought for both Sides in
               their Quest for Freedom." Colonial Williamsburg. The Journal of
               the Colonial Williamsburg Foundation vol. 19, No. 4, (Summer
               1997), pp. 15-19.
             </div>
-            <div>
+            <div className='publication-margin'>
               “Virginia's Black Codes.” Colonial Williamsburg. The Journal of
               the Colonial Williamsburg Foundation vol. 19, No. 4, (Summer
               1997), pp. 20-21.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Emigration and the Safety-Valve Theory in the Eighteenth Century:
               Some Mathematical Evidence from the Prince-Bishopric of Würzburg"
               Yearbook of the Society for German-American Studies vol. 31,
               (1996), pp. 137-55; together with Dr. Duane Broline.
             </div>
-            <div>
+            <div className='publication-margin'>
               "And is, Alas! The Hour of our Parting Come?" Colonial
               Williamsburg. The Journal of the Colonial Williamsburg Foundation
               vol. 18, no. 4, (Summer 1996), pp. 46-53.
             </div>
-            <div>
+            <div className='publication-margin'>
               "The Freshest Advices (post-script to my essay 'And is, Alas! The
               Hour of our Parting Come')" Colonial Williamsburg. The Journal of
               the Colonial Williamsburg Foundation vol. 19, no. 1, (Fall 1996),
               pp. 14-15.
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               "Lauberdière's Journal. The Revolutionary War Journal of Louis
               François Bertrand d'Aubevoye, comte de Lauberdière." Colonial
               Williamsburg. The Journal of the Colonial Williamsburg Foundation
               vol. 18, no. 1, (Autumn 1995), pp. 33-37.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "The Freshest Advices (post-script to my essay 'Lauberdière's
               Journal')" Colonial Williamsburg. The Journal of the Colonial
               Williamsburg Foundation vol. 18, no. 2, (Winter 1995-96), pp.
               6-7.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "Storming the Redoubts (Yorktown, 14 October 1781)." Military
               History Quarterly vol. 8, no. 1, (Autumn 1995), pp. 18-27.
               "Deux-Ponts Germans. Unsung Heroes of the American Revolution."
               German Life vol. 2, no. 2, (August/September 1995), pp. 50-53.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Finding Fame in Virginia: But Fortune eluded Baron Friedrich
               Wilhelm von Steuben." Colonial Williamsburg. The Journal of the
               Colonial Williamsburg Foundation vol. 17, no. 2, (Winter 1994-95),
               pp. 55-59.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Private Flohr's Other Life: The young German fought for American
               Independence, went home and returned as a man of peace." American
               Heritage vol. 45, no. 6,(October 1994), pp. 94-95.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "Light Infantry Lessons from America? Johann von Ewald's
               Experiences in the War for Independence." Studies in
               Eighteenth-Century Culture 23 (1993), pp. 111-129.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "The French Capture of St. Eustatius, 26 November 1781." Journal
               of Caribbean History vol. 27, no. 2, (December 1993), pp.
               129-143.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "A German Soldier in New England During the Revolutionary War: The
               Account of Georg Daniel Flohr." Newport History vol. 65, no. 223,
               (Fall 1993), pp. 48-65.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "A German Soldier in America, 1780-1783: The Journal of Georg
               Daniel Flohr.” William and Mary Quarterly vol. 50, no. 3, (July
               1993), pp. 575-590. Also in "The Periodical Observer" Wilson
               Quarterly vol. 18, no. 1, (Winter 1994), pp. 136-137.
             </div>{' '}
-            <div>
+            <div className='publication-margin'>
               {' '}
               "Georg Daniel Flohr's Journal: A New Perspective." Colonial
               Williamsburg. The Journal of the Colonial Williamsburg Foundation
               vol. 15, no. 4, (Summer 1993), pp. 47-53.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "Private Flohr's America. From Newport to Yorktown and the Battle
               that won the War: a German Foot Soldier who fought for American
               Independence tells all about it in a newly discovered Memoir."
@@ -687,53 +764,53 @@ export default function publications() {
               Repr. in Battles and Leaders F. Allen, ed., (New York: Forbes,
               1994), pp. 2-9.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Idea and Practice of the ius emigrandi in the Holy Roman Empire
               from the Reformation to the French Revolution." Yearbook of the
               Society for German-American Studies vol. 27, (1992), pp. 15-22.
             </div>
-            <div>
+            <div className='publication-margin'>
               "The Price of Freedom: Poverty, Emigration and Taxation in the
               Prince-Bishopric of Würzburg in the Eighteenth Century." Yearbook
               of the Society for German-American Studies vol. 26, (1991), pp.
               105-126.
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               "Emigration, Fraud, Humanitarianism and the Founding of
               Londonderry, South Carolina, 1763-1765." 18th-Century Studies vol.
               23, no. 1, (Fall 1989), pp. 1- 23.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               "Regulations for the Child-Weavers in the Juliusspital Workhouse
               in Würzburg (1731)." Schatzkammer der deutschen Sprache, Dichtung
               und Geschichte vol. 14, no. 2, (Fall 1988), pp. 117-129.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Eighteenth-Century Last Wills and Testaments as a Source for
               Social History. Winterhausen as a Case Study." Proceedings of the
               Thirteenth Annual European Studies Conference Omaha, Nebraska,
               1988, pp. 317-328.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Underpaid and Overworked': The Plight of Servants in Eighteenth
               Century Franconia." Proceedings of the Twelfth Annual European
               Studies Conference Omaha, Nebraska, 1987, pp. 255-266.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Mangy Sheep and Greedy Shepherds': Emigration from the
               Prince-Bishopric of Würzburg during the Eighteenth Century and its
               Causes." Proceedings of the Eleventh Annual European Studies
               Conference Omaha, Nebraska, 1986, pp. 238-249.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Friedrich Wilhelm von Steubens Kommando in Virginia (1780/81)"
               in: Friedrich Wilhelm von Steuben. Leben, Zeit, und Zeitgenossen.
               W. Giesebrecht, ed., (Würzburg: Handelsdruckerei, 1980), pp.
               115-125.
             </div>
             <h3>ENTRIES IN ENCYCLOPEDIAS AND REFERENCE WORKS: </h3>
-            <div>
+            <div className='publication-margin'>
               "Abatis", "Desertion, Army", "Discipline, Army", "Infantry",
               "Light Infantry", "Manuals, Military", " Recruitment, Army ",
               "Redoubt", "Strategy", "Tactics, Infantry." in: Colonial Wars of
@@ -741,7 +818,7 @@ export default function publications() {
               York: Garland, 1996), pp. 1, 172, 176-77, 308, 383, 412-13,
               624-25, 625, 722-23, 735-36
             </div>
-            <div>
+            <div className='publication-margin'>
               "Augustus II, King of Poland, Elector of Saxony", "Bavaria, Revolt
               in (1705-06)", “Cayenne", "Gertruydenberg", "Maximilian Emanuel
               von Wittelsbach, Elector of Bavaria", "Orsbeck, Johann Hugo von,
@@ -753,7 +830,7 @@ export default function publications() {
               Greenwood Press, 1995), pp. 22-23, 35-36, 88-89, 181-83, 278-81,
               322-23, 343-44, 401-03, 448-49.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Royal-Deux-Ponts", "Friedrich Wilhelm von Steuben." in:
               Encyclopedia of the American Revolution Richard C. Blanco, ed., 2
               Vols. (New York: Garland, 1993), vol. 2, pp. 1436-39, and 1579-85.
