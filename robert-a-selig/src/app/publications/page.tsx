@@ -709,19 +709,28 @@ export default function publications() {
               48-49.{' '}
             </div>{' '}
             <div className='publication-margin'>
-              “How did Yorktown become the largest town in America?” Le
-              bulletin. Newsletter of l’Alliance Française, Chapitre de Grasse.
-              Norfolk, VA. (January-February 2012), pp. 9-11.
+              “How did Yorktown become the largest town in America?”{' '}
+              <i>
+                Le bulletin. Newsletter of l’Alliance Française, Chapitre de
+                Grasse. Norfolk, VA.
+              </i>{' '}
+              (January-February 2012), pp. 9-11.
             </div>{' '}
             <div className='publication-margin'>
-              “Artillery at Yorktown: A Statistical Overview (Part 2 of 2) The
-              Brigade Dispatch. Journal Of The Brigade Of The American
-              Revolution vol. 40, no. 3, (Winter 2010), pp. 26-32.{' '}
+              “Artillery at Yorktown: A Statistical Overview (Part 2 of 2){' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 40, no. 3, (Winter 2010), pp. 26-32.{' '}
             </div>{' '}
             <div className='publication-margin'>
-              “Artillery at Yorktown: A Statistical Overview (Part 1 of 2) The
-              Brigade Dispatch. Journal Of The Brigade Of The American
-              Revolution vol. 40, no. 4, (Autumn 2010), pp. 1-11.{' '}
+              “Artillery at Yorktown: A Statistical Overview (Part 1 of 2){' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 40, no. 4, (Autumn 2010), pp. 1-11.{' '}
             </div>
             <div className='publication-margin'>
               “Heritage Tourism, Historical Re-Enactments and the Local Economy:
