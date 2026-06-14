@@ -163,7 +163,10 @@ export default function publications() {
               The Franco-American Encampment in the Town of Greenburgh, 6 July –
               18 August 1781: A Historical Overview and Resource Inventory.
               (Greenburgh, NY: Town of Greenburgh, 2020) at:
-              <a href='https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now'>
+              <a
+                href='https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now'
+                target='_blank'
+              >
                 {' '}
                 https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now
               </a>
@@ -180,16 +183,21 @@ export default function publications() {
               Conference Proceedings. Fields of Conflict. 10th Biennial
               International Conference 26-30 September 2018. 5
               vols.(Mashantucket, CT: Mashantucket Pequot Museum and Research
-              Center, 2019) vol. 3, pp. 78-92.
+              Center, 2019) vol. 3, pp. 78-92. Together with Wade P. Catts at:
+              <a
+                href='http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf'
+                target='_blank'
+              >
+                http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf
+              </a>
             </div>
             <div>
-              Together with Wade P. Catts at:
-              http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf
+              {' '}
               Battle of Paoli: Documentation and National Historic Landmark
               Nomination. Prepared for the Paoli Battlefield Preservation Fund
               and the American Battlefield Protection Program. (West Chester,
               Pennsylvania: John Milner Associates, Inc., 2014/2019). With Wade
-              P. Catts, Tom McGuire, and Sean Moir
+              P. Catts, Tom McGuire, and Sean Moir.
             </div>
             <div>
               “Left Newport … before Daylight and March’s to Chads Ford.”
@@ -197,8 +205,13 @@ export default function publications() {
               Landscapes Chester County, Pennsylvania. Prepared for the County
               of Chester and the American Battlefield Protection Program.
               (Newark, Delaware: South River Heritage Consulting, LLC., 2019).
-              Together with Wade P. Catts and Sean Moir at:
-              https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daylight.pdf{' '}
+              Together with Wade P. Catts and Sean Moir at:{' '}
+              <a
+                href='https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daylight.pdf'
+                target='_blank'
+              >
+                https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daylight.pdf
+              </a>
             </div>{' '}
             <div>
               “The Politics of Arming America or: Why are there still dozens of
@@ -232,7 +245,12 @@ export default function publications() {
               and the American Battlefield Protection Program. (West Chester,
               Pennsylvania: Commonwealth Heritage Group, Inc., 2017). Together
               with Wade P. Catts and Kevin Bradley at:
-              https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf
+              <a
+                href='https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf'
+                target='_blank'
+              >
+                https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf
+              </a>
             </div>
             <div>
               {' '}
