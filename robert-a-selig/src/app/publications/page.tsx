@@ -68,12 +68,21 @@ export default function publications() {
               </a>
             </div>
             <div className='publication-margin'>
-              The Citizens of Westfield and the Coming of the American
-              Revolution, 1774-1777 Research report prepared for the Westfield
-              Historical Society (Westfield, NJ 2025) The Historical Record of
-              the March of Continental Army Forces through Westfield, New
-              Jersey, in August 1781. Research report prepared for the Westfield
-              Historical Society (Westfield, NJ 2024){' '}
+              <i>
+                {' '}
+                The Citizens of Westfield and the Coming of the American
+                Revolution, 1774-1777{' '}
+              </i>
+              Research report prepared for the Westfield Historical Society
+              (Westfield, NJ 2025){' '}
+            </div>
+            <div className='publication-margin'>
+              <i>
+                The Historical Record of the March of Continental Army Forces
+                through Westfield, New Jersey, in August 1781.
+              </i>{' '}
+              Research report prepared for the Westfield Historical Society
+              (Westfield, NJ 2024){' '}
             </div>
             <div className='publication-margin'>
               "L’expédition particulière and the American War of Independence,
