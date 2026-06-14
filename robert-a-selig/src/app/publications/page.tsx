@@ -594,28 +594,47 @@ export default function publications() {
               </a>
             </div>
             <div className='publication-margin'>
-              'En Avant' With Our French Allies: Sites, Markers, and Monuments
-              in Connecticut Commemorating the Contributions of French Troops
-              under the comte de Rochambeau to the Achievement of American
-              Independence, 1780 to 1782. (Hartford, Connecticut: Connecticut
-              Historical Commission, 2004)
+              <i>
+                'En Avant' With Our French Allies: Sites, Markers, and Monuments
+                in Connecticut Commemorating the Contributions of French Troops
+                under the comte de Rochambeau to the Achievement of American
+                Independence, 1780 to 1782.{' '}
+              </i>{' '}
+              (Hartford, Connecticut: Connecticut Historical Commission, 2004)
             </div>{' '}
             <div className='publication-margin'>
-              Hussars in Lebanon! A Connecticut Town and Lauzun's Legion during
-              the American Revolution, 1780-1781. (Lebanon, Connecticut: Lebanon
-              Historical Society, 2004) The Washington-Rochambeau Revolutionary
-              Route. Statement of National Significance. (Boston, Massachusetts:
-              NPS Northeast and Capital Regions, 2003){' '}
+              <i>
+                {' '}
+                Hussars in Lebanon! A Connecticut Town and Lauzun's Legion
+                during the American Revolution, 1780-1781.{' '}
+              </i>{' '}
+              (Lebanon, Connecticut: Lebanon Historical Society, 2004){' '}
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              <i>
+                {' '}
+                The Washington-Rochambeau Revolutionary Route. Statement of
+                National Significance.{' '}
+              </i>
+              (Boston, Massachusetts: NPS Northeast and Capital Regions,
+              2003){' '}
             </div>{' '}
             <div className='publication-margin'>
-              The Washington-Rochambeau Revolutionary Route in the State of
-              Delaware, 1781-1783. An Historical and Architectural Survey.
+              <i>
+                {' '}
+                The Washington-Rochambeau Revolutionary Route in the State of
+                Delaware, 1781-1783. An Historical and Architectural Survey.
+              </i>{' '}
               (Dover: State of Delaware, 2003){' '}
             </div>
             <div className='publication-margin'>
-              The Washington-Rochambeau Revolutionary Route in the State of New
-              York, 1781-1782. An Historical and Architectural Survey. (Albany,
-              New York: Hudson River Valley Greenway, 2001){' '}
+              <i>
+                The Washington-Rochambeau Revolutionary Route in the State of
+                New York, 1781-1782. An Historical and Architectural
+                Survey.{' '}
+              </i>{' '}
+              (Albany, New York: Hudson River Valley Greenway, 2001){' '}
             </div>
             <div className='publication-margin'>
               Rochambeau's Cavalry: Lauzun's Legion in Connecticut 1780-1781.
@@ -628,33 +647,42 @@ export default function publications() {
               Commission, 2000)
             </div>
             <div className='publication-margin'>
-              Rochambeau in Connecticut: Tracing his Journey. Historic and
-              Architectural Survey. (Hartford, Connecticut: Connecticut
-              Historical Commission, 1999)
+              <i>
+                Rochambeau in Connecticut: Tracing his Journey. Historic and
+                Architectural Survey.{' '}
+              </i>{' '}
+              (Hartford, Connecticut: Connecticut Historical Commission, 1999)
             </div>
             <h3>MINOR PUBLICATIONS AND JOURNAL ARTICLES:</h3>
             <div className='publication-margin'>
               “The Culture of Death: An Overview of Burial Practices during the
-              American War of Independence.” The Brigade Dispatch. Journal Of
-              The Brigade Of The American Revolution vol. 50, No. 1, (Winter
-              2023/24), pp. 3-18.{' '}
+              American War of Independence.”{' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 50, No. 1, (Winter 2023/24), pp. 3-18.{' '}
             </div>
             <div className='publication-margin'>
               “Rochambeau in Bolton. The Whys and Wherefores of the French
               Encampment on the farm of the Rev. George Colton, 21 to 24 June
-              1781.” The Brigade Dispatch. Journal Of The Brigade Of The
-              American Revolution vol. 47, no. 2, (Autumn 2020), pp. 3-13.{' '}
+              1781.”{' '}
+              <i>
+                The Brigade Dispatch. Journal Of The Brigade Of The American
+                Revolution{' '}
+              </i>
+              vol. 47, no. 2, (Autumn 2020), pp. 3-13.{' '}
             </div>{' '}
             <div className='publication-margin'>
               “Severed Heads, Potato-Pits and Fence-Posts: A Cultural Context
               for the Burial of Casualties at Bennington, 16 August 1777.”
-              Journal of the Johannes Schwalm Historical Association vol. 22,
-              (2019), pp. 38-46.{' '}
+              <i> Journal of the Johannes Schwalm Historical Association </i>
+              vol. 22, (2019), pp. 38-46.{' '}
             </div>
             <div className='publication-margin'>
               “Involuntary Soldiers for America – the Rest of the Story.”
-              Journal of the Johannes Schwalm Historical Association vol. 21,
-              (2018), pp. 85-91.{' '}
+              <i> Journal of the Johannes Schwalm Historical Association </i>
+              vol. 21, (2018), pp. 85-91.{' '}
             </div>
             <div className='publication-margin'>
               “Involuntary Soldiers for America: Count Friedrich Ludwig zu
