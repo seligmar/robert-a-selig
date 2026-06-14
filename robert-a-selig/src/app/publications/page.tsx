@@ -290,27 +290,36 @@ export default function publications() {
               {' '}
               “Hessian Savages, Frog-Eating Frenchmen, and Virtuous Americans,
               1776-1783: How Personal Experiences Change Time-honored
-              Perceptions.” in: The American Revolution: A World War David K.
-              Allison and Larrie D. Ferreiro, eds., (Washington, DC: Smithsonian
-              Books, 2018), pp. 170-185.
+              Perceptions.” in: <i>The American Revolution: A World War </i>
+              David K. Allison and Larrie D. Ferreiro, eds., (Washington, DC:
+              Smithsonian Books, 2018), pp. 170-185.
             </div>
             <div className='publication-margin'>
               The Washington-Rochambeau National Historic Trail in the State of
               New Hampshire, 1783. An Historical and Architectural Survey.
               (Washington, DC: Washington- Rochambeau Revolutionary Route
-              National Historic Trail [WaRo], 2018) The Washington-Rochambeau
-              National Historic Trail in the Commonwealth of Massachusetts, 1781
-              - 1783. An Historical and Architectural Survey. (Boston:
-              Washington-Rochambeau Revolutionary Route Association of
+              National Historic Trail [WaRo], 2018){' '}
+            </div>
+            <div className='publication-margin'>
+              <i>
+                {' '}
+                The Washington-Rochambeau National Historic Trail in the
+                Commonwealth of Massachusetts, 1781 - 1783. An Historical and
+                Architectural Survey.{' '}
+              </i>
+              (Boston: Washington-Rochambeau Revolutionary Route Association of
               Massachusetts, 2017)
             </div>
             <div className='publication-margin'>
-              “The Army march’d at Day Break in two Columns.” Military Terrain
-              Analysis for two Brandywine Battlefield Strategic Landscapes
-              Chester County, Pennsylvania. Prepared for the County of Chester
-              and the American Battlefield Protection Program. (West Chester,
-              Pennsylvania: Commonwealth Heritage Group, Inc., 2017). Together
-              with Wade P. Catts and Kevin Bradley at:
+              <i>
+                {' '}
+                “The Army march’d at Day Break in two Columns.” Military Terrain
+                Analysis for two Brandywine Battlefield Strategic Landscapes
+                Chester County, Pennsylvania. Prepared for the County of Chester
+                and the American Battlefield Protection Program.{' '}
+              </i>
+              (West Chester, Pennsylvania: Commonwealth Heritage Group, Inc.,
+              2017). Together with Wade P. Catts and Kevin Bradley at:
               <a
                 href='https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf'
                 target='_blank'
@@ -320,13 +329,16 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              Cultural Resources Survey of the Bennington Battlefield,
-              Walloomsac, New York. Prepared for the New York State Office of
-              Parks, Recreation, and Historic Preservation and the American
-              Battlefield Protection Program. (Jackson, Michigan: Commonwealth
-              Heritage Group, Inc., 2017). Together with Wade P. Catts,
-              Christopher T. Espenshade, Elisabeth Lavigne, and James Montney
-              at:
+              <i>
+                {' '}
+                Cultural Resources Survey of the Bennington Battlefield,
+                Walloomsac, New York. Prepared for the New York State Office of
+                Parks, Recreation, and Historic Preservation and the American
+                Battlefield Protection Program.{' '}
+              </i>
+              (Jackson, Michigan: Commonwealth Heritage Group, Inc., 2017).
+              Together with Wade P. Catts, Christopher T. Espenshade, Elisabeth
+              Lavigne, and James Montney at:
               <a
                 href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
                 target='_blank'
@@ -336,11 +348,14 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              Hubbardton Battlefield National Register Nomination Revision.
-              Prepared for the Vermont Division of Historic Preservation and the
-              American Battlefield Preservation Program. (Jackson, Michigan:
-              Commonwealth Heritage Group, Inc., 2017). Together with Wade P.
-              Catts at:
+              <i>
+                {' '}
+                Hubbardton Battlefield National Register Nomination Revision.
+                Prepared for the Vermont Division of Historic Preservation and
+                the American Battlefield Preservation Program.{' '}
+              </i>{' '}
+              (Jackson, Michigan: Commonwealth Heritage Group, Inc., 2017).
+              Together with Wade P. Catts at:
               <a
                 href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
                 target='_blank'
@@ -350,14 +365,17 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              "It is Painful for Me to Lose so Many Good People”: Report of an
-              Archeological Survey at Red Bank Battlefield Park (Fort Mercer),
-              National Park, Gloucester County, New Jersey. Prepared for
-              Gloucester County Department of Parks and Recreation and the
-              American Battlefield Protection Program. (West Chester,
-              Pennsylvania: Commonwealth Heritage Group, Inc., 2017). Together
-              with Wade P. Catts, Elisabeth Lavigne, Kevin Bradley, Kathryn
-              Wood, and David G. Orr at:{' '}
+              <i>
+                {' '}
+                "It is Painful for Me to Lose so Many Good People”: Report of an
+                Archeological Survey at Red Bank Battlefield Park (Fort Mercer),
+                National Park, Gloucester County, New Jersey. Prepared for
+                Gloucester County Department of Parks and Recreation and the
+                American Battlefield Protection Program.{' '}
+              </i>
+              (West Chester, Pennsylvania: Commonwealth Heritage Group, Inc.,
+              2017). Together with Wade P. Catts, Elisabeth Lavigne, Kevin
+              Bradley, Kathryn Wood, and David G. Orr at:{' '}
               <a
                 href=' https://www.gloucestercountynj.gov/DocumentCenter/View/959/Red-Bank-Battlefield-Archeology-Report-PDF?bidId='
                 target='_blank'
