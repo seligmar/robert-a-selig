@@ -253,17 +253,23 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              Battle of Paoli: Documentation and National Historic Landmark
-              Nomination. Prepared for the Paoli Battlefield Preservation Fund
-              and the American Battlefield Protection Program. (West Chester,
-              Pennsylvania: John Milner Associates, Inc., 2014/2019). With Wade
-              P. Catts, Tom McGuire, and Sean Moir.
+              <i>
+                Battle of Paoli: Documentation and National Historic Landmark
+                Nomination. Prepared for the Paoli Battlefield Preservation Fund
+                and the American Battlefield Protection Program.{' '}
+              </i>{' '}
+              (West Chester, Pennsylvania: John Milner Associates, Inc.,
+              2014/2019). With Wade P. Catts, Tom McGuire, and Sean Moir.
             </div>
             <div className='publication-margin'>
-              “Left Newport … before Daylight and March’s to Chads Ford.”
-              Military Terrain Analysis for two Brandywine Battlefield Strategic
-              Landscapes Chester County, Pennsylvania. Prepared for the County
-              of Chester and the American Battlefield Protection Program.
+              <i>
+                {' '}
+                “Left Newport … before Daylight and March’s to Chads Ford.”
+                Military Terrain Analysis for two Brandywine Battlefield
+                Strategic Landscapes Chester County, Pennsylvania. Prepared for
+                the County of Chester and the American Battlefield Protection
+                Program.{' '}
+              </i>
               (Newark, Delaware: South River Heritage Consulting, LLC., 2019).
               Together with Wade P. Catts and Sean Moir at:{' '}
               <a
@@ -275,10 +281,10 @@ export default function publications() {
             </div>{' '}
             <div className='publication-margin'>
               “The Politics of Arming America or: Why are there still dozens of
-              Vallière 4-lb Cannon à la suédoise in the United States but only
-              four in all of Europe?” in: New Perspectives on the “Last Argument
-              of Kings”. (Ticonderoga, New York: Fort Ticonderoga Press, 2018),
-              pp. 30-51.
+              Vallière 4-lb Cannon <i>à la suédoise </i>in the United States but
+              only four in all of Europe?” in:{' '}
+              <i>New Perspectives on the “Last Argument of Kings”. </i>
+              (Ticonderoga, New York: Fort Ticonderoga Press, 2018), pp. 30-51.
             </div>
             <div className='publication-margin'>
               {' '}
