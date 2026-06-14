@@ -677,9 +677,10 @@ export default function publications() {
               Encyclopedia of the American Revolution Richard C. Blanco, ed., 2
               Vols. (New York: Garland, 1993), vol. 2, pp. 1436-39, and 1579-85.
             </div>
-            <div>
+            <div className='publication-margin'>
               "Franconia", "Artisans", "Peasants", in: Encyclopedia of 1848
               Revolutions J. Chastain, ed., Published only on the Internet at:
+              <a href='www.cats.ohiou.edu/~chastain/'></a>{' '}
               www.cats.ohiou.edu/~chastain/
             </div>
           </div>
