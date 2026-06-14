@@ -947,21 +947,31 @@ export default function publications() {
               vol. 21, no. 3, (June/July 1999), pp. 16-25.
             </div>
             <div className='publication-margin'>
-              "Who were the Huguenots?" Colonial Williamsburg. The Journal of
-              the Colonial Williamsburg Foundation vol. 21, no. 2, (April/May
-              1999), pp. 67-71.
+              "Who were the Huguenots?"{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>{' '}
+              vol. 21, no. 2, (April/May 1999), pp. 67-71.
             </div>
             <div className='publication-margin'>
-              "Eighteenth-Century European and American Currencies." Beyond
-              Germanna vol. 11, No. 2, (March 1999), pp. 616-617. "Georg Daniel
-              Flohr" Beyond Germanna vol. 10, no. 6, (November 1998), pp.
-              591-592, and vol. 11, no. 1, (January 1999), pp. 606-607.
+              "Eighteenth-Century European and American Currencies."{' '}
+              <i>Beyond Germanna</i> vol. 11, No. 2, (March 1999), pp.
+              616-617.{' '}
+            </div>
+            <div className='publication-margin'>
+              "Georg Daniel Flohr" <i>Beyond Germanna</i> vol. 10, no. 6,
+              (November 1998), pp. 591-592, and vol. 11, no. 1, (January 1999),
+              pp. 606-607.
             </div>
             <div className='publication-margin'>
               "Wilhelmsburg in the Year 1702: The Account of Franz Ludwig
-              Michel." Colonial Williamsburg. The Journal of the Colonial
-              Williamsburg Foundation vol. 20, no. 4, (Summer 1998), pp. 23-31
-              at:{' '}
+              Michel."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation{' '}
+              </i>
+              vol. 20, no. 4, (Summer 1998), pp. 23-31 at:{' '}
               <a href='www.patc.net/michel2.html' target='_blank'>
                 www.patc.net/michel2.html
               </a>
