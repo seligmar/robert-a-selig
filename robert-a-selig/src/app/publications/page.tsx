@@ -822,10 +822,20 @@ export default function publications() {
               <p>
                 {' '}
                 Part 1: April 1756 - March 1780, in vol. 6, no. 4, (2000), pp.
-                52-59. Part 2: March 1780 - June 1781, in vol. 7, no. 1, (2001),
-                pp. 43-53. Part 3: July 1781 - June 1783, in vol. 7, no. 2,
-                (2002), pp. 29-43. Part 4: June 1783 - 21 July 1791, in vol. 7,
-                no. 3, (2003), pp. 42-52.
+                52-59.{' '}
+              </p>
+              <p>
+                Part 2: March 1780 - June 1781, in vol. 7, no. 1, (2001), pp.
+                43-53.{' '}
+              </p>
+              <p>
+                Part 3: July 1781 - June 1783, in vol. 7, no. 2, (2002), pp.
+                29-43.
+              </p>{' '}
+              <p>
+                {' '}
+                Part 4: June 1783 - 21 July 1791, in vol. 7, no. 3, (2003), pp.
+                42-52.
               </p>
             </div>
             <div className='publication-margin'>
