@@ -30,14 +30,14 @@ export default function publications() {
             <h3>MAJOR PUBLICATIONS AND RESEARCH REPORTS:</h3>
             <div className='publication-margin'>
               “Damages, Depredations, Sufferings and Destruction: The Landscape
-              of Conflict and the ‘Late War with Great Britain’”. In: The
-              Archaeology of the American Revolution Richard F. Veit and Matthew
-              A. Kalos, eds., (Gainesville: University Press of Florida, 2025
-              pp. 205-227.{' '}
+              of Conflict and the ‘Late War with Great Britain’”. In:{' '}
+              <i>The Archaeology of the American Revolution</i> Richard F. Veit
+              and Matthew A. Kalos, eds., (Gainesville: University Press of
+              Florida, 2025 pp. 205-227.{' '}
             </div>
             <div className='publication-margin'>
               (With Wade P. Catts) Rochambeau's Engineers at Butts Hill Fort,
-              July 1780 - June 1781. Published on-line in June 2024 at:
+              July 1780 - June 1781. Published online in June 2024 at:
               <a
                 href=' https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/'
                 target='_blank'
@@ -63,8 +63,9 @@ export default function publications() {
               <a
                 href=' https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/'
                 target='_blank'
-              ></a>{' '}
-              https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/
+              >
+                https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/
+              </a>
             </div>
             <div className='publication-margin'>
               The Citizens of Westfield and the Coming of the American
@@ -386,7 +387,7 @@ export default function publications() {
                 https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf
               </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               Investigation of the Spencer’s Ordinary (26 June 1781) and Green
               Spring (6 July 1781) Battlefields, James City County, Virginia.
               Prepared for the County of James City and the American Battlefield
@@ -394,39 +395,57 @@ export default function publications() {
               Cultural Solutions, Inc., 2010). Together with Alain C. Outlaw and
               Mary B. Clemons.
             </div>
-            <div></div>
-            Revolutionary War Route and Transportation Survey in the
-            Commonwealth of Virginia, 1781-1782. An Historical and Architectural
-            Survey. (Richmond, Virginia: Virginia Department of Historic
-            Resources, 2009) La Courageuse and La Contrebandiere. A Pair of
-            Bronze 1758 Vallière Light 4-Pounder Cannon from the American War of
-            Independence (privat. printed, 2008) The Washington-Rochambeau
-            Revolutionary Route in the Commonwealth of Pennsylvania, 1781 -
-            1783. An Historical and Architectural Survey. (Philadelphia,
-            Pennsylvania: Pennsylvania Society of Sons of the Revolution, 2007)
-            The Washington-Rochambeau Revolutionary Route in the State of New
-            Jersey, 1781-1783. An Historical and Architectural Survey. 3 vols.
-            (Trenton, New Jersey: New Jersey Historic Trust, Department of
-            Community Affairs, 2006) "Historical Background." In:
-            Washington-Rochambeau Revolutionary Route. Resource Study and
-            Environmental Assessment (Boston, Massachusetts: The National Park
-            Service Northeast and Capital Regions, 2006), pp. 9-26. March to
-            Victory: Washington, Rochambeau, and the Yorktown Campaign of 1781.
-            U.S. Army Center for Military History # 70-104-1 (Washington, DC,
-            2005), free at:
-            https://history.army.mil/html/books/rochambeau/CMH_70-104-1.pdf 'En
-            Avant' With Our French Allies: Sites, Markers, and Monuments in
-            Connecticut Commemorating the Contributions of French Troops under
-            the comte de Rochambeau to the Achievement of American Independence,
-            1780 to 1782. (Hartford, Connecticut: Connecticut Historical
-            Commission, 2004) Hussars in Lebanon! A Connecticut Town and
-            Lauzun's Legion during the American Revolution, 1780-1781. (Lebanon,
-            Connecticut: Lebanon Historical Society, 2004) The
-            Washington-Rochambeau Revolutionary Route. Statement of National
-            Significance. (Boston, Massachusetts: NPS Northeast and Capital
-            Regions, 2003) The Washington-Rochambeau Revolutionary Route in the
-            State of Delaware, 1781-1783. An Historical and Architectural
-            Survey. (Dover: State of Delaware, 2003){' '}
+            <div className='publication-margin'>
+              Revolutionary War Route and Transportation Survey in the
+              Commonwealth of Virginia, 1781-1782. An Historical and
+              Architectural Survey. (Richmond, Virginia: Virginia Department of
+              Historic Resources, 2009) La Courageuse and La Contrebandiere. A
+              Pair of Bronze 1758 Vallière Light 4-Pounder Cannon from the
+              American War of Independence (privat. printed, 2008) The
+              Washington-Rochambeau Revolutionary Route in the Commonwealth of
+              Pennsylvania, 1781 - 1783. An Historical and Architectural Survey.
+              (Philadelphia, Pennsylvania: Pennsylvania Society of Sons of the
+              Revolution, 2007) The Washington-Rochambeau Revolutionary Route in
+              the State of New Jersey, 1781-1783. An Historical and
+              Architectural Survey. 3 vols. (Trenton, New Jersey: New Jersey
+              Historic Trust, Department of Community Affairs, 2006){' '}
+            </div>
+            <div className='publication-margin'>
+              "Historical Background." In: Washington-Rochambeau Revolutionary
+              Route. Resource Study and Environmental Assessment (Boston,
+              Massachusetts: The National Park Service Northeast and Capital
+              Regions, 2006), pp. 9-26.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              March to Victory: Washington, Rochambeau, and the Yorktown
+              Campaign of 1781. U.S. Army Center for Military History # 70-104-1
+              (Washington, DC, 2005), free at:
+              <a
+                href='https://history.army.mil/html/books/rochambeau/CMH_70-104-1.pdf'
+                target='_blank'
+              >
+                https://history.army.mil/html/books/rochambeau/CMH_70-104-1.pdf
+              </a>
+            </div>
+            <div className='publication-margin'>
+              'En Avant' With Our French Allies: Sites, Markers, and Monuments
+              in Connecticut Commemorating the Contributions of French Troops
+              under the comte de Rochambeau to the Achievement of American
+              Independence, 1780 to 1782. (Hartford, Connecticut: Connecticut
+              Historical Commission, 2004)
+            </div>{' '}
+            <div className='publication-margin'>
+              Hussars in Lebanon! A Connecticut Town and Lauzun's Legion during
+              the American Revolution, 1780-1781. (Lebanon, Connecticut: Lebanon
+              Historical Society, 2004) The Washington-Rochambeau Revolutionary
+              Route. Statement of National Significance. (Boston, Massachusetts:
+              NPS Northeast and Capital Regions, 2003){' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              The Washington-Rochambeau Revolutionary Route in the State of
+              Delaware, 1781-1783. An Historical and Architectural Survey.
+              (Dover: State of Delaware, 2003){' '}
+            </div>
             <div className='publication-margin'>
               The Washington-Rochambeau Revolutionary Route in the State of New
               York, 1781-1782. An Historical and Architectural Survey. (Albany,
