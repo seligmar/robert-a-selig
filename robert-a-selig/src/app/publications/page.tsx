@@ -191,7 +191,7 @@ export default function publications() {
                 http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf
               </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               Battle of Paoli: Documentation and National Historic Landmark
               Nomination. Prepared for the Paoli Battlefield Preservation Fund
@@ -199,7 +199,7 @@ export default function publications() {
               Pennsylvania: John Milner Associates, Inc., 2014/2019). With Wade
               P. Catts, Tom McGuire, and Sean Moir.
             </div>
-            <div>
+            <div className='publication-margin'>
               “Left Newport … before Daylight and March’s to Chads Ford.”
               Military Terrain Analysis for two Brandywine Battlefield Strategic
               Landscapes Chester County, Pennsylvania. Prepared for the County
@@ -213,14 +213,14 @@ export default function publications() {
                 https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daylight.pdf
               </a>
             </div>{' '}
-            <div>
+            <div className='publication-margin'>
               “The Politics of Arming America or: Why are there still dozens of
               Vallière 4-lb Cannon à la suédoise in the United States but only
               four in all of Europe?” in: New Perspectives on the “Last Argument
               of Kings”. (Ticonderoga, New York: Fort Ticonderoga Press, 2018),
               pp. 30-51.
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               “Hessian Savages, Frog-Eating Frenchmen, and Virtuous Americans,
               1776-1783: How Personal Experiences Change Time-honored
@@ -228,7 +228,7 @@ export default function publications() {
               Allison and Larrie D. Ferreiro, eds., (Washington, DC: Smithsonian
               Books, 2018), pp. 170-185.
             </div>
-            <div>
+            <div className='publication-margin'>
               The Washington-Rochambeau National Historic Trail in the State of
               New Hampshire, 1783. An Historical and Architectural Survey.
               (Washington, DC: Washington- Rochambeau Revolutionary Route
@@ -238,7 +238,7 @@ export default function publications() {
               Washington-Rochambeau Revolutionary Route Association of
               Massachusetts, 2017)
             </div>
-            <div>
+            <div className='publication-margin'>
               “The Army march’d at Day Break in two Columns.” Military Terrain
               Analysis for two Brandywine Battlefield Strategic Landscapes
               Chester County, Pennsylvania. Prepared for the County of Chester
@@ -252,7 +252,7 @@ export default function publications() {
                 https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf
               </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               Cultural Resources Survey of the Bennington Battlefield,
               Walloomsac, New York. Prepared for the New York State Office of
@@ -268,7 +268,7 @@ export default function publications() {
                 https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx
               </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               Hubbardton Battlefield National Register Nomination Revision.
               Prepared for the Vermont Division of Historic Preservation and the
@@ -278,10 +278,11 @@ export default function publications() {
               <a
                 href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
                 target='_blank'
-              ></a>
-              https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx
+              >
+                https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx
+              </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               "It is Painful for Me to Lose so Many Good People”: Report of an
               Archeological Survey at Red Bank Battlefield Park (Fort Mercer),
@@ -290,10 +291,15 @@ export default function publications() {
               American Battlefield Protection Program. (West Chester,
               Pennsylvania: Commonwealth Heritage Group, Inc., 2017). Together
               with Wade P. Catts, Elisabeth Lavigne, Kevin Bradley, Kathryn
-              Wood, and David G. Orr at:
-              https://www.gloucestercountynj.gov/DocumentCenter/View/959/Red-Bank-Battlefield-Archeology-Report-PDF?bidId=
+              Wood, and David G. Orr at:{' '}
+              <a
+                href=' https://www.gloucestercountynj.gov/DocumentCenter/View/959/Red-Bank-Battlefield-Archeology-Report-PDF?bidId='
+                target='_blank'
+              >
+                https://www.gloucestercountynj.gov/DocumentCenter/View/959/Red-Bank-Battlefield-Archeology-Report-PDF?bidId=
+              </a>
             </div>
-            <div>
+            <div className='publication-margin'>
               {' '}
               “Cheer Up My Boys, the Day is Ours….”: Field Survey, Preparation
               of Maps, and Preparation of Local and National Landmark/National
@@ -308,13 +314,13 @@ export default function publications() {
               (Washington, DC: Washington-Rochambeau National Historic Trail
               [WaRo], 2016){' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               “Rochambeau in New Jersey: The Good French Ally.” in: The American
               Revolution in New Jersey: Where the Battlefront Meets the Home
               Front James J. Gigantino II, ed., (New Brunswick, New Jersey:
               Rutgers University Press, 2015), pp. 85-105.{' '}
             </div>
-            <div>
+            <div className='publication-margin'>
               The Washington-Rochambeau Revolutionary Route in the Commonwealth
               of Rhode Island, 1781 - 1783. An Historical and Architectural
               Survey. (Providence, Rhode Island: W3R Association of Rhode Island
@@ -326,58 +332,82 @@ export default function publications() {
               Yorktown Campaign. (Baltimore, Maryland: Preservation Maryland,
               2014){' '}
             </div>
-            <div></div>The Encampment of French Forces at Scott’s Plantation on
-            17/18 September 1781. Excerpted from Historical Research Report on
-            Belvoir (“Scott’s Plantation”) from the earliest known Date of
-            European Contact to the Present with a particular Focus on the
-            Encampment of French Forces on the Site on 17/18 September 1781.
-            (URS Corporation: Baltimore, Maryland 2014) Historical Research
-            Report on Belvoir (“Scott’s Plantation”) from the earliest known
-            Date of European Contact to the Present with a particular focus on
-            the Encampment of French Forces on the Site on 17/18 September 1781.
-            Prepared for URS Corporation as Part of TO 19: Generals Highway
-            Project located in Anne Arundel County, MD (URS Corporation:
-            Baltimore, Maryland 2014) Cultural Resource Survey and Land and
-            Water Based Route Reconnaissance for the Washington Rochambeau
-            Revolutionary Route National Historic Trail in the Anacostia Trails
-            Heritage Area, Prince George’s County, Maryland (Hyattsville,
-            Maryland: Anacostia Trails Heritage Area, 2013) Cultural Resource
-            Survey and Land and Water-Based Route Investigation of the French
-            Encampments at Bush Town in Harford County, Maryland, on 10/11
-            September 1781 and from 24 to 29 August 1782. (Baltimore, Maryland:
-            W3R National Historic Trail Project in the State of Maryland, 2013)
-            Battle of the Clouds Technical Report and Historical Overview.
-            Prepared for the County of Chester and the American Battlefield
-            Protection Program. (West Chester, Pennsylvania: John Milner
-            Associates, Inc., 2013) Together with Wade P. Catts and Tom McGuire
-            at: https://www.chescoplanning.org/Historic/BattleClouds.cfm
-            Washington, Rochambeau, and the Yorktown Campaign of 1781.” in: A
-            Companion to George Washington. Edward G. Lengel, ed. (Blackwell,
-            2012), pp. 266-287. Battle of Princeton Mapping Project: Report of
-            Military Terrain Analysis and Battle Narrative, Princeton, New
-            Jersey. Prepared for the Princeton Battlefield Society and the
-            American Battlefield Protection Program. (West Chester,
-            Pennsylvania: John Milner Associates, Inc., 2010). Together with
-            Wade P. Catts and M. Harris at:
-            https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf
-            Investigation of the Spencer’s Ordinary (26 June 1781) and Green
-            Spring (6 July 1781) Battlefields, James City County, Virginia.
-            Prepared for the County of James City and the American Battlefield
-            Protection Program. (Williamsburg, Virginia: Archaeological &
-            Cultural Solutions, Inc., 2010). Together with Alain C. Outlaw and
-            Mary B. Clemons. Revolutionary War Route and Transportation Survey
-            in the Commonwealth of Virginia, 1781-1782. An Historical and
-            Architectural Survey. (Richmond, Virginia: Virginia Department of
-            Historic Resources, 2009) La Courageuse and La Contrebandiere. A
-            Pair of Bronze 1758 Vallière Light 4-Pounder Cannon from the
-            American War of Independence (privat. printed, 2008) The
-            Washington-Rochambeau Revolutionary Route in the Commonwealth of
-            Pennsylvania, 1781 - 1783. An Historical and Architectural Survey.
-            (Philadelphia, Pennsylvania: Pennsylvania Society of Sons of the
-            Revolution, 2007) The Washington-Rochambeau Revolutionary Route in
-            the State of New Jersey, 1781-1783. An Historical and Architectural
-            Survey. 3 vols. (Trenton, New Jersey: New Jersey Historic Trust,
-            Department of Community Affairs, 2006) "Historical Background." In:
+            <div className='publication-margin'>
+              The Encampment of French Forces at Scott’s Plantation on 17/18
+              September 1781. Excerpted from Historical Research Report on
+              Belvoir (“Scott’s Plantation”) from the earliest known Date of
+              European Contact to the Present with a particular Focus on the
+              Encampment of French Forces on the Site on 17/18 September 1781.
+              (URS Corporation: Baltimore, Maryland 2014)
+            </div>
+            <div className='publication-margin'>
+              Historical Research Report on Belvoir (“Scott’s Plantation”) from
+              the earliest known Date of European Contact to the Present with a
+              particular focus on the Encampment of French Forces on the Site on
+              17/18 September 1781. Prepared for URS Corporation as Part of TO
+              19: Generals Highway Project located in Anne Arundel County, MD
+              (URS Corporation: Baltimore, Maryland 2014) Cultural Resource
+              Survey and Land and Water Based Route Reconnaissance for the
+              Washington Rochambeau Revolutionary Route National Historic Trail
+              in the Anacostia Trails Heritage Area, Prince George’s County,
+              Maryland (Hyattsville, Maryland: Anacostia Trails Heritage Area,
+              2013)
+            </div>
+            <div className='publication-margin'>
+              Cultural Resource Survey and Land and Water-Based Route
+              Investigation of the French Encampments at Bush Town in Harford
+              County, Maryland, on 10/11 September 1781 and from 24 to 29 August
+              1782. (Baltimore, Maryland: W3R National Historic Trail Project in
+              the State of Maryland, 2013) Battle of the Clouds Technical Report
+              and Historical Overview. Prepared for the County of Chester and
+              the American Battlefield Protection Program. (West Chester,
+              Pennsylvania: John Milner Associates, Inc., 2013) Together with
+              Wade P. Catts and Tom McGuire at:
+              <a
+                href='https://www.chescoplanning.org/Historic/BattleClouds.cfm'
+                target='_blank'
+              >
+                https://www.chescoplanning.org/Historic/BattleClouds.cfm{' '}
+              </a>
+            </div>
+            <div className='publication-margin'>
+              Washington, Rochambeau, and the Yorktown Campaign of 1781.” in: A
+              Companion to George Washington. Edward G. Lengel, ed. (Blackwell,
+              2012), pp. 266-287. Battle of Princeton Mapping Project: Report of
+              Military Terrain Analysis and Battle Narrative, Princeton, New
+              Jersey. Prepared for the Princeton Battlefield Society and the
+              American Battlefield Protection Program. (West Chester,
+              Pennsylvania: John Milner Associates, Inc., 2010). Together with
+              Wade P. Catts and M. Harris at:
+              <a
+                href=' https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf'
+                target='_blank'
+              >
+                https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf
+              </a>
+            </div>
+            <div>
+              Investigation of the Spencer’s Ordinary (26 June 1781) and Green
+              Spring (6 July 1781) Battlefields, James City County, Virginia.
+              Prepared for the County of James City and the American Battlefield
+              Protection Program. (Williamsburg, Virginia: Archaeological &
+              Cultural Solutions, Inc., 2010). Together with Alain C. Outlaw and
+              Mary B. Clemons.
+            </div>
+            <div></div>
+            Revolutionary War Route and Transportation Survey in the
+            Commonwealth of Virginia, 1781-1782. An Historical and Architectural
+            Survey. (Richmond, Virginia: Virginia Department of Historic
+            Resources, 2009) La Courageuse and La Contrebandiere. A Pair of
+            Bronze 1758 Vallière Light 4-Pounder Cannon from the American War of
+            Independence (privat. printed, 2008) The Washington-Rochambeau
+            Revolutionary Route in the Commonwealth of Pennsylvania, 1781 -
+            1783. An Historical and Architectural Survey. (Philadelphia,
+            Pennsylvania: Pennsylvania Society of Sons of the Revolution, 2007)
+            The Washington-Rochambeau Revolutionary Route in the State of New
+            Jersey, 1781-1783. An Historical and Architectural Survey. 3 vols.
+            (Trenton, New Jersey: New Jersey Historic Trust, Department of
+            Community Affairs, 2006) "Historical Background." In:
             Washington-Rochambeau Revolutionary Route. Resource Study and
             Environmental Assessment (Boston, Massachusetts: The National Park
             Service Northeast and Capital Regions, 2006), pp. 9-26. March to
@@ -731,8 +761,9 @@ export default function publications() {
             <div className='publication-margin'>
               "Franconia", "Artisans", "Peasants", in: Encyclopedia of 1848
               Revolutions J. Chastain, ed., Published only on the Internet at:
-              <a href='www.cats.ohiou.edu/~chastain/' target='_blank'></a>{' '}
-              www.cats.ohiou.edu/~chastain/
+              <a href='www.cats.ohiou.edu/~chastain/' target='_blank'>
+                www.cats.ohiou.edu/~chastain/
+              </a>
             </div>
           </div>
         </div>
