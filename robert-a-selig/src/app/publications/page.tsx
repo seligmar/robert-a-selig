@@ -102,7 +102,7 @@ export default function publications() {
               Trail."{' '}
               <i>Newport History. Journal of the Newport Historical Society </i>
               No. 287 vol. 98, Winter 2022/Spring 2023), pp. 1-30.
-            </div>{' '}
+            </div>
             <div className='publication-margin'>
               {' '}
               ”De Newport à Yorktown, à la Victoire et à la Gloire : la Route
@@ -110,29 +110,50 @@ export default function publications() {
               Actes du Colloque International : Victoire de Yorktown et
               naissance de l’amitié franco-Américaine Bulletin de la Société
               Archéologique Scientifique & Littéraire du Vendômois (2022), pp.
-              99-104. Note: all Washington-Rochambeau Revolutionary Route
-              Resource Studies and Site surveys are available on-line at:
-              https://w3r-us.org/history-by-state/
+              99-104.{' '}
+            </div>{' '}
+            <div className='publication-margin'>
+              Note: all Washington-Rochambeau Revolutionary Route Resource
+              Studies and Site surveys are available on-line at:
+              <a href='https://w3r-us.org/history-by-state/' target='_blank'>
+                https://w3r-us.org/history-by-state/
+              </a>
             </div>
             <div className='publication-margin'>
               {' '}
-              What was he really up to? An Inquiry into the Revolutionary War
-              activities of Col. John Rodgers of Rodger’s Tavern (Perryville:
-              Rodgers Tavern Museum, 2023; revised in October 2025) at:
-              https://www.rodgerstavern.com/post/revolutionarywaractivitiesofjohnrodgers
+              <i>
+                What was he really up to? An Inquiry into the Revolutionary War
+                activities of Col. John Rodgers of Rodger’s Tavern{' '}
+              </i>
+              (Perryville: Rodgers Tavern Museum, 2023; revised in October 2025)
+              at:{' '}
+              <a
+                href='https://www.rodgerstavern.com/post/revolutionarywaractivitiesofjohnrodgers'
+                target='_blank'
+              >
+                https://www.rodgerstavern.com/post/revolutionarywaractivitiesofjohnrodgers
+              </a>
             </div>
             <div className='publication-margin'>
-              ’…They Have Burned the Greater Part of Stone Arabia…’.
-              Preservation Plan for the Battlefields of Stone Arabia and Klock’s
-              Field, October 19, 1780, Montgomery County, New York. Together
-              with Wade P. Catts, RPA, Kevin Bradley, RPA and with contributions
-              by Jon Jasewicz. 2 vols., (Newark, DE: South River Heritage
-              Consulting LLC: 2023) Cultural Resource Survey and Land and Water
-              Based Route Reconnaissance for the Washington Rochambeau
-              Revolutionary Route National Historic Trail (W3R-NHT) and
-              Lafayette in Charles County, Maryland. (La Plata, MD: Maryland
-              Veterans Museum at Patriot Park, 2023) Rochambeau in Rhode Island
-              July 1780-June 1781. (2022) Available on-line at:{' '}
+              <i>
+                {' '}
+                ’…They Have Burned the Greater Part of Stone Arabia…’.
+                Preservation Plan for the Battlefields of Stone Arabia and
+                Klock’s Field, October 19, 1780, Montgomery County, New
+                York.{' '}
+              </i>{' '}
+              Together with Wade P. Catts, RPA, Kevin Bradley, RPA and with
+              contributions by Jon Jasewicz. 2 vols., (Newark, DE: South River
+              Heritage Consulting LLC: 2023){' '}
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              Cultural Resource Survey and Land and Water Based Route
+              Reconnaissance for the Washington Rochambeau Revolutionary Route
+              National Historic Trail (W3R-NHT) and Lafayette in Charles County,
+              Maryland. (La Plata, MD: Maryland Veterans Museum at Patriot Park,
+              2023) Rochambeau in Rhode Island July 1780-June 1781. (2022)
+              Available on-line at:{' '}
               <a
                 href=' https://battleofrhodeisland.org/rochambeau-in-rhode-island/'
                 target='_blank'
