@@ -261,7 +261,12 @@ export default function publications() {
               Heritage Group, Inc., 2017). Together with Wade P. Catts,
               Christopher T. Espenshade, Elisabeth Lavigne, and James Montney
               at:
-              https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx
+              <a
+                href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
+                target='_blank'
+              >
+                https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx
+              </a>
             </div>
             <div>
               {' '}
@@ -270,6 +275,10 @@ export default function publications() {
               American Battlefield Preservation Program. (Jackson, Michigan:
               Commonwealth Heritage Group, Inc., 2017). Together with Wade P.
               Catts at:
+              <a
+                href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
+                target='_blank'
+              ></a>
               https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx
             </div>
             <div>
