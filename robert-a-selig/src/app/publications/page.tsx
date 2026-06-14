@@ -819,20 +819,20 @@ export default function publications() {
               "Das Deutsche Königlich-Französische Infanterie Regiment von
               Zweybrücken or Royal Deux-Ponts."{' '}
               <i>Journal of the Johannes Schwalm Historical Association.</i>{' '}
-              <p>
+              <p className='indent-publication'>
                 {' '}
                 Part 1: April 1756 - March 1780, in vol. 6, no. 4, (2000), pp.
                 52-59.{' '}
               </p>
-              <p>
+              <p className='indent-publication'>
                 Part 2: March 1780 - June 1781, in vol. 7, no. 1, (2001), pp.
                 43-53.{' '}
               </p>
-              <p>
+              <p className='indent-publication'>
                 Part 3: July 1781 - June 1783, in vol. 7, no. 2, (2002), pp.
                 29-43.
               </p>{' '}
-              <p>
+              <p className='indent-publication'>
                 {' '}
                 Part 4: June 1783 - 21 July 1791, in vol. 7, no. 3, (2003), pp.
                 42-52.
@@ -848,28 +848,35 @@ export default function publications() {
               vol. 21, no. 1, (Spring 2003), pp. 4-15.
             </div>
             <div className='publication-margin'>
-              “The Revolution’s Black Soldiers.” Journal of the Afro-American
-              Historical and Genealogical Society vol. 22, No. 1, (2003), pp.
-              1-11.
+              “The Revolution’s Black Soldiers.”{' '}
+              <i>
+                Journal of the Afro-American Historical and Genealogical
+                Society{' '}
+              </i>
+              vol. 22, No. 1, (2003), pp. 1-11.
             </div>
             <div className='publication-margin'>
               {' '}
               "A New View of Old Williamsburg. A Huntington Library Manuscript
               Provides Another Glimpse of the City in 1781." Colonial
-              Williamsburg. The Journal of the Colonial Williamsburg Foundation
-              vol. 22, no. 1, (Spring 2000), pp. 30-34. The author is an
-              unidentified officer in the Soissonnois Regiment of Infantry.
+              Williamsburg.{' '}
+              <i>The Journal of the Colonial Williamsburg Foundation</i> vol.
+              22, no. 1, (Spring 2000), pp. 30-34. The author is an unidentified
+              officer in the Soissonnois Regiment of Infantry.
             </div>
             <div className='publication-margin'>
               "Traveling On the Washington-Rochambeau-Revolutionary-Route."
-              Daughters of the American Revolution Magazine vol. 135, no. 5,
-              (May 2001), pp. 428-435.{' '}
+              <i> Daughters of the American Revolution Magazine </i> vol. 135,
+              no. 5, (May 2001), pp. 428-435.{' '}
             </div>
             <div className='publication-margin'>
               "The word liberté was frequently heard. The Royal Deux-Ponts in
-              the American and the French Revolutions." Colonial Williamsburg.
-              The Journal of the Colonial Williamsburg Foundation vol. 21, no.
-              1, (Spring 2001), pp. 80-84.
+              the American and the French Revolutions."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation{' '}
+              </i>
+              vol. 21, no. 1, (Spring 2001), pp. 80-84.
             </div>
             <div className='publication-margin'>
               "Johann Georg Wüst. Der König von Ostindien." Damals. Das aktuelle
