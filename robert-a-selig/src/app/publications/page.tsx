@@ -11,21 +11,21 @@ export default function publications() {
         {/*  https://nextjs.org/docs/app/api-reference/components/image */}
         {/* https://www.nps.gov/waro/learn/historyculture/washington-rochambeau-revolutionary-route.htm */}
         <div className='publications-grid'>
-          <div className='publications-figure'>
-            <figure>
-              <Image
-                src={roadmap}
-                alt='Portrait of Robert A. Selig'
-                className='roadmap-image'
-              />{' '}
-              <figcaption>
-                French map of the route to Yorktown, 1782
-                <div className='image-caption-source'>
-                  Geography and Map Division, Library of Congress
-                </div>
-              </figcaption>
-            </figure>
-          </div>
+          {/* <div className='publications-figure'> */}
+          <figure className='publications-figure'>
+            <Image
+              src={roadmap}
+              alt='Portrait of Robert A. Selig'
+              className='roadmap-image'
+            />{' '}
+            <figcaption className='publications-figure-caption'>
+              French map of the route to Yorktown, 1782
+              <div className='image-caption-source'>
+                Geography and Map Division, Library of Congress
+              </div>
+            </figcaption>
+          </figure>
+          {/* </div> */}
           <div className='publications-grid-column'>
             <h3>MAJOR PUBLICATIONS AND RESEARCH REPORTS:</h3>
             <div className='publication-margin'>
