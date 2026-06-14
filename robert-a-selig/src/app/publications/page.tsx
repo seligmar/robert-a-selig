@@ -992,15 +992,18 @@ export default function publications() {
               vol. 19, No. 4, (Summer 1997), pp. 15-19.
             </div>
             <div className='publication-margin'>
-              “Virginia's Black Codes.” Colonial Williamsburg. The Journal of
-              the Colonial Williamsburg Foundation vol. 19, No. 4, (Summer
-              1997), pp. 20-21.
+              “Virginia's Black Codes.”{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation 
+              </i>
+              vol. 19, No. 4, (Summer 1997), pp. 20-21.
             </div>
             <div className='publication-margin'>
               "Emigration and the Safety-Valve Theory in the Eighteenth Century:
               Some Mathematical Evidence from the Prince-Bishopric of Würzburg"
-              Yearbook of the Society for German-American Studies vol. 31,
-              (1996), pp. 137-55; together with Dr. Duane Broline.
+              <i> Yearbook of the Society for German-American Studies</i> vol.
+              31, (1996), pp. 137-55; together with Dr. Duane Broline.
             </div>
             <div className='publication-margin'>
               "And is, Alas! The Hour of our Parting Come?" Colonial
