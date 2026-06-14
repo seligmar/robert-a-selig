@@ -783,43 +783,59 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              "Tracing the Yorktown Campaign of 1781 - 82." Notes on Virginia
-              no. 51 (2007), pp. 47-55. "Walk Where They Fought: Path to
-              Victory!" The Armchair General (July 2006) (with Barnet Schecter)
-              at:
+              "Tracing the Yorktown Campaign of 1781 - 82."{' '}
+              <i>Notes on Virginia</i>
+              no. 51 (2007), pp. 47-55.{' '}
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              "Walk Where They Fought: Path to Victory!"{' '}
+              <i>The Armchair General</i>
+              (July 2006) (with Barnet Schecter) at:
               <a href='http://www.armchairgeneral.com/' target='_blank'>
                 {' '}
                 http://www.armchairgeneral.com/
               </a>
             </div>
             <div className='publication-margin'>
-              "Der Spanische Erbfolgekrieg in Übersee." In: Die Schlacht von
-              Höchstädt/The Battle of Blenheim J. Erichsen and K. Heinemann,
-              eds., (Ostfildern: Jan Thorbecke, 2004), pp. 90-95.{' '}
+              "Der Spanische Erbfolgekrieg in Übersee." In:{' '}
+              <i>Die Schlacht von Höchstädt/The Battle of Blenheim </i>J.
+              Erichsen and K. Heinemann, eds., (Ostfildern: Jan Thorbecke,
+              2004), pp. 90-95.{' '}
             </div>
             <div className='publication-margin'>
               "Hessians Fighting for American Independence? German Deserters
-              recruited for Lauzun's Legion in America, 1780 - 1782." Journal of
-              the Johannes Schwalm Historical Association vol. 7, no. 4, (2004),
-              pp. 39-51.{' '}
+              recruited for Lauzun's Legion in America, 1780 - 1782."{' '}
+              <i>Journal of the Johannes Schwalm Historical Association </i>vol.
+              7, no. 4, (2004), pp. 39-51.{' '}
             </div>
             <div className='publication-margin'>
-              "Eyewitness to Yorktown." Military History (February 2003), pp.
-              58-64. (based on the letters of comte Schwerin, a lieutenant in
-              the company of grenadiers in the Royal Deux-Ponts regiment to his
-              uncle the Prince of Neuwied.{' '}
+              "Eyewitness to Yorktown." <i>Military History </i>(February 2003),
+              pp. 58-64. (based on the letters of <i>comte Schwerin</i>, a
+              lieutenant in the company of grenadiers in the Royal Deux-Ponts
+              regiment to his uncle the Prince of Neuwied.{' '}
             </div>{' '}
             <div className='publication-margin'>
               "Das Deutsche Königlich-Französische Infanterie Regiment von
-              Zweybrücken or Royal Deux-Ponts." Journal of the Johannes Schwalm
-              Historical Association. Part 1: April 1756 - March 1780, in vol.
-              6, no. 4, (2000), pp. 52-59. Part 2: March 1780 - June 1781, in
-              vol. 7, no. 1, (2001), pp. 43-53. Part 3: July 1781 - June 1783,
-              in vol. 7, no. 2, (2002), pp. 29-43. Part 4: June 1783 - 21 July
-              1791, in vol. 7, no. 3, (2003), pp. 42-52. "Putting the Washington
-              - Rochambeau Trail on the Map." Flintlock & Powderhorn, Magazine
-              of the Sons of the Revolution vol. 21, no. 1, (Spring 2003), pp.
-              4-15.
+              Zweybrücken or Royal Deux-Ponts."{' '}
+              <i>Journal of the Johannes Schwalm Historical Association.</i>{' '}
+              <p>
+                {' '}
+                Part 1: April 1756 - March 1780, in vol. 6, no. 4, (2000), pp.
+                52-59. Part 2: March 1780 - June 1781, in vol. 7, no. 1, (2001),
+                pp. 43-53. Part 3: July 1781 - June 1783, in vol. 7, no. 2,
+                (2002), pp. 29-43. Part 4: June 1783 - 21 July 1791, in vol. 7,
+                no. 3, (2003), pp. 42-52.
+              </p>
+            </div>
+            <div className='publication-margin'>
+              {' '}
+              "Putting the Washington - Rochambeau Trail on the Map."{' '}
+              <i>
+                Flintlock & Powderhorn, Magazine of the Sons of the
+                Revolution{' '}
+              </i>
+              vol. 21, no. 1, (Spring 2003), pp. 4-15.
             </div>
             <div className='publication-margin'>
               “The Revolution’s Black Soldiers.” Journal of the Afro-American
