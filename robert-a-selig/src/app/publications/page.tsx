@@ -426,21 +426,34 @@ export default function publications() {
             Significance. (Boston, Massachusetts: NPS Northeast and Capital
             Regions, 2003) The Washington-Rochambeau Revolutionary Route in the
             State of Delaware, 1781-1783. An Historical and Architectural
-            Survey. (Dover: State of Delaware, 2003) The Washington-Rochambeau
-            Revolutionary Route in the State of New York, 1781-1782. An
-            Historical and Architectural Survey. (Albany, New York: Hudson River
-            Valley Greenway, 2001) Rochambeau's Cavalry: Lauzun's Legion in
-            Connecticut 1780-1781. The Winter Quarters of Lauzun's Legion in
-            Lebanon and its March Through the State in 1781. Rochambeau's
-            Conferences in Hartford and Wethersfield. Historic and Architectural
-            Survey. (Hartford, CT: Connecticut Historical Commission, 2000)
-            Rochambeau in Connecticut: Tracing his Journey. Historic and
-            Architectural Survey. (Hartford, Connecticut: Connecticut Historical
-            Commission, 1999) MINOR PUBLICATIONS AND JOURNAL ARTICLES: “The
-            Culture of Death: An Overview of Burial Practices during the
-            American War of Independence.” The Brigade Dispatch. Journal Of The
-            Brigade Of The American Revolution vol. 50, No. 1, (Winter 2023/24),
-            pp. 3-18.{' '}
+            Survey. (Dover: State of Delaware, 2003){' '}
+            <div className='publication-margin'>
+              The Washington-Rochambeau Revolutionary Route in the State of New
+              York, 1781-1782. An Historical and Architectural Survey. (Albany,
+              New York: Hudson River Valley Greenway, 2001){' '}
+            </div>
+            <div className='publication-margin'>
+              Rochambeau's Cavalry: Lauzun's Legion in Connecticut 1780-1781.
+              The Winter Quarters of Lauzun's Legion in Lebanon and its March
+              Through the State in 1781.{' '}
+            </div>
+            <div className='publication-margin'>
+              Rochambeau's Conferences in Hartford and Wethersfield. Historic
+              and Architectural Survey. (Hartford, CT: Connecticut Historical
+              Commission, 2000)
+            </div>
+            <div className='publication-margin'>
+              Rochambeau in Connecticut: Tracing his Journey. Historic and
+              Architectural Survey. (Hartford, Connecticut: Connecticut
+              Historical Commission, 1999)
+            </div>
+            <h3>MINOR PUBLICATIONS AND JOURNAL ARTICLES:</h3>
+            <div className='publication-margin'>
+              “The Culture of Death: An Overview of Burial Practices during the
+              American War of Independence.” The Brigade Dispatch. Journal Of
+              The Brigade Of The American Revolution vol. 50, No. 1, (Winter
+              2023/24), pp. 3-18.{' '}
+            </div>
             <div className='publication-margin'>
               “Rochambeau in Bolton. The Whys and Wherefores of the French
               Encampment on the farm of the Rev. George Colton, 21 to 24 June
