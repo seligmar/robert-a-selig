@@ -918,10 +918,13 @@ export default function publications() {
               (September/October 1999), pp. 29-34.
             </div>
             <div className='publication-margin'>
-              "The duc de Lauzun and his Légion, Rochambeau's most troublesome,
-              colorful soldiers." Colonial Williamsburg. The Journal of the
-              Colonial Williamsburg Foundation vol. 21, no. 6, (December
-              1999/January 2000), pp. 56-63.
+              "The <i>duc</i> de Lauzun and his <i>Légion</i>, Rochambeau's most
+              troublesome, colorful soldiers."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>{' '}
+              vol. 21, no. 6, (December 1999/January 2000), pp. 56-63.
             </div>
             <div className='publication-margin'>
               "François Joseph Paul Comte de Grasse, the Battle off the Virginia
@@ -931,13 +934,16 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               "The Prince and the Pauper: Christian von Zweibrücken and Lucy
-              Randolph." German Life vol. 6, no. 2, (August/September 1999), pp.
-              40-42.
+              Randolph." <i>German Life</i> vol. 6, no. 2, (August/September
+              1999), pp. 40-42.
             </div>
             <div className='publication-margin'>
               "A French Volunteer who lived to rue America's Revolution: Denis
-              Jean Florimond de Langlois, Marquis du Bouchet" Colonial
-              Williamsburg. The Journal of the Colonial Williamsburg Foundation
+              Jean Florimond de Langlois, Marquis du Bouchet"{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>
               vol. 21, no. 3, (June/July 1999), pp. 16-25.
             </div>
             <div className='publication-margin'>
