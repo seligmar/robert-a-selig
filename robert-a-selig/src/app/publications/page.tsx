@@ -94,20 +94,22 @@ export default function publications() {
           Rhode Island July 1780-June 1781. (2022) Available on-line at:
           https://battleofrhodeisland.org/rochambeau-in-rhode-island/
         </div>{' '}
-        ‘“No Regular Corps could have maintained its Ground more firmly.” Site
-        Documentation and Preservation Plan for the Battle of the Hook, October
-        3, 1781. American Battlefield Protection Program Grant prepared for
-        Gloucester Parks, Recreation and Tourism by Wade P. Catts, RPA, Robert
-        A. Selig, Ph.D., Lt. Col. Lewis H. Burruss (ret.), and Kevin Bradley,
-        RPA (Newark, DE: South River Heritage Consulting LLC, 2021) at:
-        https://www.gloucesterva.info/1352/Battle-of-the-Hook “upwards of 20
-        Batteaus all in a Body made a fine Appearance coming down the River, and
-        must be very mortifying to those Motionless at a little Distance”. Water
-        Trails of the Washington-Rochambeau Revolutionary Route National
-        Historic Trail in the Hudson River Valley in 1781 and 1782. A Historical
-        Overview and Resource Inventory. (Albany, NY: Hudson River Valley
-        National Heritage Area, 2020) at:
-        https://www.hudsonrivervalley.com/trails
+        “<i>No Regular Corps could have maintained its Ground more firmly.</i>
+        ”Site Documentation and Preservation Plan for the Battle of the Hook,
+        October 3, 1781. American Battlefield Protection Program Grant prepared
+        for Gloucester Parks, Recreation and Tourism by Wade P. Catts, RPA,
+        Robert A. Selig, Ph.D., Lt. Col. Lewis H. Burruss (ret.), and Kevin
+        Bradley, RPA (Newark, DE: South River Heritage Consulting LLC, 2021) at:
+        https://www.gloucesterva.info/1352/Battle-of-the-Hook
+        <div>
+          “upwards of 20 Batteaus all in a Body made a fine Appearance coming
+          down the River, and must be very mortifying to those Motionless at a
+          little Distance”. Water Trails of the Washington-Rochambeau
+          Revolutionary Route National Historic Trail in the Hudson River Valley
+          in 1781 and 1782. A Historical Overview and Resource Inventory.
+          (Albany, NY: Hudson River Valley National Heritage Area, 2020) at:
+          https://www.hudsonrivervalley.com/trails
+        </div>
         <div>
           “En Avant to Victory: The Allied March to Yorktown June-October 1781.”
           In: The Ten Key Campaigns of the American Revolution Edward G. Lengel,
@@ -367,39 +369,69 @@ export default function publications() {
         aktuelle Magazin für Geschichte und Kultur vol. 32, no. 11, (November
         2000), pp. 66-71. "The Iconography to Triumph and Surrender." Colonial
         Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
-        23, no. 3 (Autumn 2000), pp. 72-77. "From Newport to Yorktown: Following
-        the Road to Victory." Colonial Williamsburg. The Journal of the Colonial
-        Williamsburg Foundation vol. 22, no. 3 (Autumn 2000), pp. 66-71. “’Mon
-        tres cher oncle’" Lt. Graf Wilhelm von Schwerin writes home from a
-        Virginia Victory. Colonial Williamsburg. The Journal of the Colonial
-        Williamsburg Foundation vol. 22, No. 2, Summer 2000), pp. 48-54. “Mount
-        Vernon After Washington: The Rescue of an American Memory.” Colonial
-        Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
-        22, No. 1, (Spring 2000), pp. 48-54. "Nothing but Sky and Water:
-        Descriptions of Transatlantic Travel from the Journal of Georg Daniel
-        Flohr, Grenadier, Royal Deux-Ponts, 1780-1783." Naval History vol. 13,
-        no. 5, (September/October 1999), pp. 29-34. "The duc de Lauzun and his
-        Légion, Rochambeau's most troublesome, colorful soldiers." Colonial
-        Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
-        21, no. 6, (December 1999/January 2000), pp. 56-63. "François Joseph
-        Paul Comte de Grasse, the Battle off the Virginia Capes, and the
-        American Victory at Yorktown." Colonial Williamsburg. The Journal of the
-        Colonial Williamsburg Foundation vol. 21, no. 5, (October/November
-        1999), pp. 26-32. "The Prince and the Pauper: Christian von Zweibrücken
-        and Lucy Randolph." German Life vol. 6, no. 2, (August/September 1999),
-        pp. 40-42. "A French Volunteer who lived to rue America's Revolution:
-        Denis Jean Florimond de Langlois, Marquis du Bouchet" Colonial
-        Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
-        21, no. 3, (June/July 1999), pp. 16-25. "Who were the Huguenots?"
-        Colonial Williamsburg. The Journal of the Colonial Williamsburg
-        Foundation vol. 21, no. 2, (April/May 1999), pp. 67-71.
-        "Eighteenth-Century European and American Currencies." Beyond Germanna
-        vol. 11, No. 2, (March 1999), pp. 616-617. "Georg Daniel Flohr" Beyond
-        Germanna vol. 10, no. 6, (November 1998), pp. 591-592, and vol. 11, no.
-        1, (January 1999), pp. 606-607. "Wilhelmsburg in the Year 1702: The
-        Account of Franz Ludwig Michel." Colonial Williamsburg. The Journal of
-        the Colonial Williamsburg Foundation vol. 20, no. 4, (Summer 1998), pp.
-        23-31 at: www.patc.net/michel2.html
+        23, no. 3 (Autumn 2000), pp. 72-77.
+        <div>
+          "From Newport to Yorktown: Following the Road to Victory." Colonial
+          Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
+          22, no. 3 (Autumn 2000), pp. 66-71.
+        </div>
+        <div>
+          “<i>Mon tres cher oncle</i>" Lt. Graf Wilhelm von Schwerin writes home
+          from a Virginia Victory. Colonial Williamsburg. The Journal of the
+          Colonial Williamsburg Foundation vol. 22, No. 2, Summer 2000), pp.
+          48-54.
+        </div>
+        <div>
+          “Mount Vernon After Washington: The Rescue of an American Memory.”
+          Colonial Williamsburg. The Journal of the Colonial Williamsburg
+          Foundation vol. 22, No. 1, (Spring 2000), pp. 48-54.
+        </div>
+        <div>
+          "Nothing but Sky and Water: Descriptions of Transatlantic Travel from
+          the Journal of Georg Daniel Flohr, Grenadier, Royal Deux-Ponts,
+          1780-1783." Naval History vol. 13, no. 5, (September/October 1999),
+          pp. 29-34.
+        </div>
+        <div>
+          "The duc de Lauzun and his Légion, Rochambeau's most troublesome,
+          colorful soldiers." Colonial Williamsburg. The Journal of the Colonial
+          Williamsburg Foundation vol. 21, no. 6, (December 1999/January 2000),
+          pp. 56-63.
+        </div>
+        <div>
+          "François Joseph Paul Comte de Grasse, the Battle off the Virginia
+          Capes, and the American Victory at Yorktown." Colonial Williamsburg.
+          The Journal of the Colonial Williamsburg Foundation vol. 21, no. 5,
+          (October/November 1999), pp. 26-32.
+        </div>
+        <div>
+          "The Prince and the Pauper: Christian von Zweibrücken and Lucy
+          Randolph." German Life vol. 6, no. 2, (August/September 1999), pp.
+          40-42.
+        </div>
+        <div>
+          "A French Volunteer who lived to rue America's Revolution: Denis Jean
+          Florimond de Langlois, Marquis du Bouchet" Colonial Williamsburg. The
+          Journal of the Colonial Williamsburg Foundation vol. 21, no. 3,
+          (June/July 1999), pp. 16-25.
+        </div>
+        <div>
+          "Who were the Huguenots?" Colonial Williamsburg. The Journal of the
+          Colonial Williamsburg Foundation vol. 21, no. 2, (April/May 1999), pp.
+          67-71.
+        </div>
+        <div>
+          "Eighteenth-Century European and American Currencies." Beyond Germanna
+          vol. 11, No. 2, (March 1999), pp. 616-617. "Georg Daniel Flohr" Beyond
+          Germanna vol. 10, no. 6, (November 1998), pp. 591-592, and vol. 11,
+          no. 1, (January 1999), pp. 606-607.
+        </div>
+        <div>
+          "Wilhelmsburg in the Year 1702: The Account of Franz Ludwig Michel."
+          Colonial Williamsburg. The Journal of the Colonial Williamsburg
+          Foundation vol. 20, no. 4, (Summer 1998), pp. 23-31 at:
+          www.patc.net/michel2.html
+        </div>
         <div>
           "America the Ungrateful: The Not-So-Fond Remembrances of Louis
           François Dupont d'Aubevoye, comte de Lauberdière." American Heritage
