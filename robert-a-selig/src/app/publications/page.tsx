@@ -1006,85 +1006,108 @@ export default function publications() {
               31, (1996), pp. 137-55; together with Dr. Duane Broline.
             </div>
             <div className='publication-margin'>
-              "And is, Alas! The Hour of our Parting Come?" Colonial
-              Williamsburg. The Journal of the Colonial Williamsburg Foundation
+              "And is, Alas! The Hour of our Parting Come?"{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>
               vol. 18, no. 4, (Summer 1996), pp. 46-53.
             </div>
             <div className='publication-margin'>
               "The Freshest Advices (post-script to my essay 'And is, Alas! The
-              Hour of our Parting Come')" Colonial Williamsburg. The Journal of
-              the Colonial Williamsburg Foundation vol. 19, no. 1, (Fall 1996),
-              pp. 14-15.
+              Hour of our Parting Come')"{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation{' '}
+              </i>
+              vol. 19, no. 1, (Fall 1996), pp. 14-15.
             </div>
             <div className='publication-margin'>
               {' '}
               "Lauberdière's Journal. The Revolutionary War Journal of Louis
-              François Bertrand d'Aubevoye, comte de Lauberdière." Colonial
-              Williamsburg. The Journal of the Colonial Williamsburg Foundation
+              François Bertrand d'Aubevoye, <i>comte </i>de Lauberdière."
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>{' '}
               vol. 18, no. 1, (Autumn 1995), pp. 33-37.{' '}
             </div>
             <div className='publication-margin'>
               "The Freshest Advices (post-script to my essay 'Lauberdière's
-              Journal')" Colonial Williamsburg. The Journal of the Colonial
-              Williamsburg Foundation vol. 18, no. 2, (Winter 1995-96), pp.
-              6-7.{' '}
+              Journal')"{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation{' '}
+              </i>
+              vol. 18, no. 2, (Winter 1995-96), pp. 6-7.{' '}
             </div>
             <div className='publication-margin'>
               "Storming the Redoubts (Yorktown, 14 October 1781)." Military
               History Quarterly vol. 8, no. 1, (Autumn 1995), pp. 18-27.
               "Deux-Ponts Germans. Unsung Heroes of the American Revolution."
-              German Life vol. 2, no. 2, (August/September 1995), pp. 50-53.
+              <i>German Life</i> vol. 2, no. 2, (August/September 1995), pp.
+              50-53.
             </div>
             <div className='publication-margin'>
               "Finding Fame in Virginia: But Fortune eluded Baron Friedrich
-              Wilhelm von Steuben." Colonial Williamsburg. The Journal of the
-              Colonial Williamsburg Foundation vol. 17, no. 2, (Winter 1994-95),
-              pp. 55-59.
+              Wilhelm von Steuben."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation{' '}
+              </i>
+              vol. 17, no. 2, (Winter 1994-95), pp. 55-59.
             </div>
             <div className='publication-margin'>
               "Private Flohr's Other Life: The young German fought for American
-              Independence, went home and returned as a man of peace." American
-              Heritage vol. 45, no. 6,(October 1994), pp. 94-95.{' '}
+              Independence, went home and returned as a man of peace."{' '}
+              <i>American Heritage </i>vol. 45, no. 6,(October 1994), pp.
+              94-95.{' '}
             </div>
             <div className='publication-margin'>
               "Light Infantry Lessons from America? Johann von Ewald's
-              Experiences in the War for Independence." Studies in
-              Eighteenth-Century Culture 23 (1993), pp. 111-129.{' '}
+              Experiences in the War for Independence."{' '}
+              <i>Studies in Eighteenth-Century Culture</i> 23 (1993), pp.
+              111-129.{' '}
             </div>
             <div className='publication-margin'>
-              "The French Capture of St. Eustatius, 26 November 1781." Journal
-              of Caribbean History vol. 27, no. 2, (December 1993), pp.
-              129-143.{' '}
+              "The French Capture of St. Eustatius, 26 November 1781."{' '}
+              <i>Journal of Caribbean History</i> vol. 27, no. 2, (December
+              1993), pp. 129-143.{' '}
             </div>
             <div className='publication-margin'>
               "A German Soldier in New England During the Revolutionary War: The
-              Account of Georg Daniel Flohr." Newport History vol. 65, no. 223,
-              (Fall 1993), pp. 48-65.{' '}
+              Account of Georg Daniel Flohr." <i>Newport History</i> vol. 65,
+              no. 223, (Fall 1993), pp. 48-65.{' '}
             </div>
             <div className='publication-margin'>
               "A German Soldier in America, 1780-1783: The Journal of Georg
-              Daniel Flohr.” William and Mary Quarterly vol. 50, no. 3, (July
-              1993), pp. 575-590. Also in "The Periodical Observer" Wilson
-              Quarterly vol. 18, no. 1, (Winter 1994), pp. 136-137.
+              Daniel Flohr.” <i>William and Mary Quarterly</i> vol. 50, no. 3,
+              (July 1993), pp. 575-590. Also in "The Periodical Observer"{' '}
+              <i>Wilson Quarterly</i> vol. 18, no. 1, (Winter 1994), pp.
+              136-137.
             </div>{' '}
             <div className='publication-margin'>
               {' '}
-              "Georg Daniel Flohr's Journal: A New Perspective." Colonial
-              Williamsburg. The Journal of the Colonial Williamsburg Foundation
+              "Georg Daniel Flohr's Journal: A New Perspective."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>
               vol. 15, no. 4, (Summer 1993), pp. 47-53.{' '}
             </div>
             <div className='publication-margin'>
               "Private Flohr's America. From Newport to Yorktown and the Battle
               that won the War: a German Foot Soldier who fought for American
               Independence tells all about it in a newly discovered Memoir."
-              American Heritage vol. 43, no. 8, (December 1992), pp. 64-71.
-              Repr. in Battles and Leaders F. Allen, ed., (New York: Forbes,
-              1994), pp. 2-9.
+              <i> American Heritage </i> vol. 43, no. 8, (December 1992), pp.
+              64-71. Repr. in Battles and Leaders F. Allen, ed., (New York:
+              Forbes, 1994), pp. 2-9.
             </div>
             <div className='publication-margin'>
-              "Idea and Practice of the ius emigrandi in the Holy Roman Empire
-              from the Reformation to the French Revolution." Yearbook of the
-              Society for German-American Studies vol. 27, (1992), pp. 15-22.
+              "Idea and Practice of the <i>ius emigrandi</i> in the Holy Roman
+              Empire from the Reformation to the French Revolution."{' '}
+              <i>Yearbook of the Society for German-American Studies </i>vol.
+              27, (1992), pp. 15-22.
             </div>
             <div className='publication-margin'>
               "The Price of Freedom: Poverty, Emigration and Taxation in the
