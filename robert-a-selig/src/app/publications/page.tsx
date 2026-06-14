@@ -85,15 +85,23 @@ export default function publications() {
               (Westfield, NJ 2024){' '}
             </div>
             <div className='publication-margin'>
-              "L’expédition particulière and the American War of Independence,
-              1780–1783." In: Waging War in America 1775-1783. Operational
-              Challenges of Five Armies Don N. Hagist, ed. (Warwick: Helion &
-              Company, 2023), pp. 171-191.
+              <i>
+                "L’expédition particulière and the American War of Independence,
+                1780–1783."{' '}
+              </i>
+              In:
+              <i>
+                 Waging War in America 1775-1783. Operational Challenges of Five
+                Armies
+              </i>
+               Don N. Hagist, ed. (Warwick: Helion & Company, 2023), pp.
+              171-191.
             </div>
             <div className='publication-margin'>
               "The Washington-Rochambeau Revolutionary Route National Historic
-              Trail." Newport History. Journal of the Newport Historical
-              Society No. 287 vol. 98, Winter 2022/Spring 2023), pp. 1-30.
+              Trail."{' '}
+              <i>Newport History. Journal of the Newport Historical Society </i>
+              No. 287 vol. 98, Winter 2022/Spring 2023), pp. 1-30.
             </div>{' '}
             <div className='publication-margin'>
               {' '}
