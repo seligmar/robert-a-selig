@@ -1111,41 +1111,56 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               "The Price of Freedom: Poverty, Emigration and Taxation in the
-              Prince-Bishopric of Würzburg in the Eighteenth Century." Yearbook
-              of the Society for German-American Studies vol. 26, (1991), pp.
-              105-126.
+              Prince-Bishopric of Würzburg in the Eighteenth Century."{' '}
+              <i>Yearbook of the Society for German-American Studies </i>vol.
+              26, (1991), pp. 105-126.
             </div>
             <div className='publication-margin'>
               {' '}
               "Emigration, Fraud, Humanitarianism and the Founding of
-              Londonderry, South Carolina, 1763-1765." 18th-Century Studies vol.
-              23, no. 1, (Fall 1989), pp. 1- 23.{' '}
+              Londonderry, South Carolina, 1763-1765."{' '}
+              <i>18th-Century Studies </i>vol. 23, no. 1, (Fall 1989), pp. 1-
+              23.{' '}
             </div>
             <div className='publication-margin'>
               "Regulations for the Child-Weavers in the Juliusspital Workhouse
-              in Würzburg (1731)." Schatzkammer der deutschen Sprache, Dichtung
-              und Geschichte vol. 14, no. 2, (Fall 1988), pp. 117-129.
+              in Würzburg (1731)."
+              <i>
+                Schatzkammer der deutschen Sprache, Dichtung und Geschichte
+              </i>{' '}
+              vol. 14, no. 2, (Fall 1988), pp. 117-129.
             </div>
             <div className='publication-margin'>
               "Eighteenth-Century Last Wills and Testaments as a Source for
-              Social History. Winterhausen as a Case Study." Proceedings of the
-              Thirteenth Annual European Studies Conference Omaha, Nebraska,
-              1988, pp. 317-328.
+              Social History. Winterhausen as a Case Study."{' '}
+              <i>
+                Proceedings of the Thirteenth Annual European Studies Conference
+              </i>{' '}
+              Omaha, Nebraska, 1988, pp. 317-328.
             </div>
             <div className='publication-margin'>
               "Underpaid and Overworked': The Plight of Servants in Eighteenth
-              Century Franconia." Proceedings of the Twelfth Annual European
-              Studies Conference Omaha, Nebraska, 1987, pp. 255-266.
+              Century Franconia."{' '}
+              <i>
+                Proceedings of the Twelfth Annual European Studies Conference
+              </i>{' '}
+              Omaha, Nebraska, 1987, pp. 255-266.
             </div>
             <div className='publication-margin'>
               "Mangy Sheep and Greedy Shepherds': Emigration from the
               Prince-Bishopric of Würzburg during the Eighteenth Century and its
-              Causes." Proceedings of the Eleventh Annual European Studies
-              Conference Omaha, Nebraska, 1986, pp. 238-249.
+              Causes."{' '}
+              <i>
+                Proceedings of the Eleventh Annual European Studies Conference
+              </i>{' '}
+              Omaha, Nebraska, 1986, pp. 238-249.
             </div>
             <div className='publication-margin'>
               "Friedrich Wilhelm von Steubens Kommando in Virginia (1780/81)"
-              in: Friedrich Wilhelm von Steuben. Leben, Zeit, und Zeitgenossen.
+              in:{' '}
+              <i>
+                Friedrich Wilhelm von Steuben. Leben, Zeit, und Zeitgenossen.
+              </i>
               W. Giesebrecht, ed., (Würzburg: Handelsdruckerei, 1980), pp.
               115-125.
             </div>
@@ -1153,10 +1168,10 @@ export default function publications() {
             <div className='publication-margin'>
               "Abatis", "Desertion, Army", "Discipline, Army", "Infantry",
               "Light Infantry", "Manuals, Military", " Recruitment, Army ",
-              "Redoubt", "Strategy", "Tactics, Infantry." in: Colonial Wars of
-              North America 1512-1763. An Encyclopedia Alan Gallay, ed., (New
-              York: Garland, 1996), pp. 1, 172, 176-77, 308, 383, 412-13,
-              624-25, 625, 722-23, 735-36
+              "Redoubt", "Strategy", "Tactics, Infantry." in:{' '}
+              <i>Colonial Wars of North America 1512-1763.</i> An Encyclopedia
+              Alan Gallay, ed., (New York: Garland, 1996), pp. 1, 172, 176-77,
+              308, 383, 412-13, 624-25, 625, 722-23, 735-36
             </div>
             <div className='publication-margin'>
               "Augustus II, King of Poland, Elector of Saxony", "Bavaria, Revolt
@@ -1165,15 +1180,20 @@ export default function publications() {
               and Lothringen, Karl Joseph von, Electors of Treves",
               "Pfalz-Neuburg, Johann Wilhelm von der, Elector Palatinate",
               “Schönborn, Lothar Franz von, Elector of Mainz", "Tyrol, Revolt in
-              (1703)." in: Historical Dictionary of the Treaties of the War of
-              the Spanish Succession Linda and Marsha Frey, eds.(Westport:
-              Greenwood Press, 1995), pp. 22-23, 35-36, 88-89, 181-83, 278-81,
-              322-23, 343-44, 401-03, 448-49.
+              (1703)." in:{' '}
+              <i>
+                Historical Dictionary of the Treaties of the War of the Spanish
+                Succession
+              </i>{' '}
+              Linda and Marsha Frey, eds.(Westport: Greenwood Press, 1995), pp.
+              22-23, 35-36, 88-89, 181-83, 278-81, 322-23, 343-44, 401-03,
+              448-49.
             </div>
             <div className='publication-margin'>
               "Royal-Deux-Ponts", "Friedrich Wilhelm von Steuben." in:
-              Encyclopedia of the American Revolution Richard C. Blanco, ed., 2
-              Vols. (New York: Garland, 1993), vol. 2, pp. 1436-39, and 1579-85.
+              <i> Encyclopedia of the American Revolution</i> Richard C. Blanco,
+              ed., 2 Vols. (New York: Garland, 1993), vol. 2, pp. 1436-39, and
+              1579-85.
             </div>
             <div className='publication-margin'>
               "Franconia", "Artisans", "Peasants", in: Encyclopedia of 1848
