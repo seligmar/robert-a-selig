@@ -978,14 +978,18 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               "America the Ungrateful: The Not-So-Fond Remembrances of Louis
-              François Dupont d'Aubevoye, comte de Lauberdière." American
-              Heritage vol. 48, no. 1, (February 1997), pp. 101-106.
+              François Dupont d'Aubevoye, <i>comte</i> de Lauberdière."{' '}
+              <i>American Heritage</i> vol. 48, no. 1, (February 1997), pp.
+              101-106.
             </div>
             <div className='publication-margin'>
               "The Revolution's Black Soldiers. They fought for both Sides in
-              their Quest for Freedom." Colonial Williamsburg. The Journal of
-              the Colonial Williamsburg Foundation vol. 19, No. 4, (Summer
-              1997), pp. 15-19.
+              their Quest for Freedom."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation{' '}
+              </i>
+              vol. 19, No. 4, (Summer 1997), pp. 15-19.
             </div>
             <div className='publication-margin'>
               “Virginia's Black Codes.” Colonial Williamsburg. The Journal of
