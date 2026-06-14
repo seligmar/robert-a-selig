@@ -148,12 +148,18 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              Cultural Resource Survey and Land and Water Based Route
-              Reconnaissance for the Washington Rochambeau Revolutionary Route
-              National Historic Trail (W3R-NHT) and Lafayette in Charles County,
-              Maryland. (La Plata, MD: Maryland Veterans Museum at Patriot Park,
-              2023) Rochambeau in Rhode Island July 1780-June 1781. (2022)
-              Available on-line at:{' '}
+              <i>
+                {' '}
+                Cultural Resource Survey and Land and Water Based Route
+                Reconnaissance for the Washington Rochambeau Revolutionary Route
+                National Historic Trail (W3R-NHT) and Lafayette in Charles
+                County, Maryland.{' '}
+              </i>{' '}
+              (La Plata, MD: Maryland Veterans Museum at Patriot Park, 2023)
+            </div>
+            <div className='publication-margin'>
+              Rochambeau in Rhode Island July 1780-June 1781. (2022) Available
+              on-line at:{' '}
               <a
                 href=' https://battleofrhodeisland.org/rochambeau-in-rhode-island/'
                 target='_blank'
@@ -165,42 +171,51 @@ export default function publications() {
               “
               <i>
                 No Regular Corps could have maintained its Ground more firmly.
+                ”Site Documentation and Preservation Plan for the Battle of the
+                Hook, October 3, 1781.{' '}
               </i>
-              ”Site Documentation and Preservation Plan for the Battle of the
-              Hook, October 3, 1781. American Battlefield Protection Program
-              Grant prepared for Gloucester Parks, Recreation and Tourism by
-              Wade P. Catts, RPA, Robert A. Selig, Ph.D., Lt. Col. Lewis H.
-              Burruss (ret.), and Kevin Bradley, RPA (Newark, DE: South River
-              Heritage Consulting LLC, 2021) at:
+              American Battlefield Protection Program Grant prepared for
+              Gloucester Parks, Recreation and Tourism by Wade P. Catts, RPA,
+              Robert A. Selig, Ph.D., Lt. Col. Lewis H. Burruss (ret.), and
+              Kevin Bradley, RPA (Newark, DE: South River Heritage Consulting
+              LLC, 2021) at:
               <a
                 href='https://www.gloucesterva.info/1352/Battle-of-the-Hook'
                 target='_blank'
-              ></a>{' '}
-              https://www.gloucesterva.info/1352/Battle-of-the-Hook
+              >
+                https://www.gloucesterva.info/1352/Battle-of-the-Hook
+              </a>{' '}
             </div>
             <div className='publication-margin'>
-              “upwards of 20 Batteaus all in a Body made a fine Appearance
-              coming down the River, and must be very mortifying to those
-              Motionless at a little Distance”. Water Trails of the
-              Washington-Rochambeau Revolutionary Route National Historic Trail
-              in the Hudson River Valley in 1781 and 1782. A Historical Overview
-              and Resource Inventory. (Albany, NY: Hudson River Valley National
-              Heritage Area, 2020) at:{' '}
+              <i>
+                “upwards of 20 Batteaus all in a Body made a fine Appearance
+                coming down the River, and must be very mortifying to those
+                Motionless at a little Distance”. Water Trails of the
+                Washington-Rochambeau Revolutionary Route National Historic
+                Trail in the Hudson River Valley in 1781 and 1782. A Historical
+                Overview and Resource Inventory.{' '}
+              </i>
+              (Albany, NY: Hudson River Valley National Heritage Area, 2020) at:{' '}
               <a
                 href=' https://www.hudsonrivervalley.com/trails'
                 target='_blank'
-              ></a>
-              https://www.hudsonrivervalley.com/trails
+              >
+                https://www.hudsonrivervalley.com/trails
+              </a>
             </div>
             <div className='publication-margin'>
-              “En Avant to Victory: The Allied March to Yorktown June-October
-              1781.” In: The Ten Key Campaigns of the American Revolution Edward
-              G. Lengel, ed. (Washington, D.C.: Regnery Publishing, 2020), pp.
+              <i>“En Avant </i>to Victory: The Allied March to Yorktown
+              June-October 1781.” In:{' '}
+              <i>The Ten Key Campaigns of the American Revolution</i> Edward G.
+              Lengel, ed. (Washington, D.C.: Regnery Publishing, 2020), pp.
               199-215.{' '}
             </div>
             <div className='publication-margin'>
-              The Franco-American Encampment in the Town of Greenburgh, 6 July –
-              18 August 1781: A Historical Overview and Resource Inventory.
+              <i>
+                {' '}
+                The Franco-American Encampment in the Town of Greenburgh, 6 July
+                – 18 August 1781: A Historical Overview and Resource Inventory.
+              </i>
               (Greenburgh, NY: Town of Greenburgh, 2020) at:
               <a
                 href='https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now'
@@ -212,16 +227,22 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               {' '}
-              African-Americans, the Rhode Island Regiments, and the Battle of
-              Fort Red Bank, 22 October 1777. (Gloucester, New Jersey: County of
-              Gloucester, 2019)
+              <i>
+                {' '}
+                African-Americans, the Rhode Island Regiments, and the Battle of
+                Fort Red Bank, 22 October 1777.{' '}
+              </i>{' '}
+              (Gloucester, New Jersey: County of Gloucester, 2019)
             </div>
             <div className='publication-margin'>
               “In the Morning We Began to Strip and Bury the Dead:” A Context
               for Burial Practices During the American War for Independence” in:
-              Conference Proceedings. Fields of Conflict. 10th Biennial
-              International Conference 26-30 September 2018. 5
-              vols.(Mashantucket, CT: Mashantucket Pequot Museum and Research
+              <i>
+                {' '}
+                Conference Proceedings. Fields of Conflict. 10th Biennial
+                International Conference 26-30 September 2018.{' '}
+              </i>
+              5 vols.(Mashantucket, CT: Mashantucket Pequot Museum and Research
               Center, 2019) vol. 3, pp. 78-92. Together with Wade P. Catts at:
               <a
                 href='http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf'
