@@ -33,7 +33,9 @@ export default function publications() {
         <div>
           (With Wade P. Catts) Rochambeau's Engineers at Butts Hill Fort, July
           1780 - June 1781. Published on-line in June 2024 at:
-          https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/
+          <a href=' https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/'>
+            https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/
+          </a>
         </div>{' '}
         <div>
           {' '}
@@ -54,10 +56,13 @@ export default function publications() {
           Society (Westfield, NJ 2025) The Historical Record of the March of
           Continental Army Forces through Westfield, New Jersey, in August 1781.
           Research report prepared for the Westfield Historical Society
-          (Westfield, NJ 2024) "L’expédition particulière and the American War
-          of Independence, 1780–1783." In: Waging War in
-          America 1775-1783. Operational Challenges of Five Armies Don N.
-          Hagist, ed. (Warwick: Helion & Company, 2023), pp. 171-191.
+          (Westfield, NJ 2024){' '}
+        </div>
+        <div>
+          "L’expédition particulière and the American War of Independence,
+          1780–1783." In: Waging War in America 1775-1783. Operational
+          Challenges of Five Armies Don N. Hagist, ed. (Warwick: Helion &
+          Company, 2023), pp. 171-191.
         </div>
         <div>
           "The Washington-Rochambeau Revolutionary Route National Historic
@@ -135,13 +140,15 @@ export default function publications() {
           CT: Mashantucket Pequot Museum and Research Center, 2019) vol. 3, pp.
           78-92.
         </div>
-        Together with Wade P. Catts at:
-        http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf
-        Battle of Paoli: Documentation and National Historic Landmark
-        Nomination. Prepared for the Paoli Battlefield Preservation Fund and the
-        American Battlefield Protection Program. (West Chester, Pennsylvania:
-        John Milner Associates, Inc., 2014/2019). With Wade P. Catts, Tom
-        McGuire, and Sean Moir
+        <div>
+          Together with Wade P. Catts at:
+          http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf
+          Battle of Paoli: Documentation and National Historic Landmark
+          Nomination. Prepared for the Paoli Battlefield Preservation Fund and
+          the American Battlefield Protection Program. (West Chester,
+          Pennsylvania: John Milner Associates, Inc., 2014/2019). With Wade P.
+          Catts, Tom McGuire, and Sean Moir
+        </div>
         <div>
           “Left Newport … before Daylight and March’s to Chads Ford.” Military
           Terrain Analysis for two Brandywine Battlefield Strategic Landscapes
@@ -166,13 +173,15 @@ export default function publications() {
           D. Ferreiro, eds., (Washington, DC: Smithsonian Books, 2018), pp.
           170-185.
         </div>
-        The Washington-Rochambeau National Historic Trail in the State of New
-        Hampshire, 1783. An Historical and Architectural Survey. (Washington,
-        DC: Washington- Rochambeau Revolutionary Route National Historic Trail
-        [WaRo], 2018) The Washington-Rochambeau National Historic Trail in the
-        Commonwealth of Massachusetts, 1781 - 1783. An Historical and
-        Architectural Survey. (Boston: Washington-Rochambeau Revolutionary Route
-        Association of Massachusetts, 2017)
+        <div>
+          The Washington-Rochambeau National Historic Trail in the State of New
+          Hampshire, 1783. An Historical and Architectural Survey. (Washington,
+          DC: Washington- Rochambeau Revolutionary Route National Historic Trail
+          [WaRo], 2018) The Washington-Rochambeau National Historic Trail in the
+          Commonwealth of Massachusetts, 1781 - 1783. An Historical and
+          Architectural Survey. (Boston: Washington-Rochambeau Revolutionary
+          Route Association of Massachusetts, 2017)
+        </div>
         <div>
           “The Army march’d at Day Break in two Columns.” Military Terrain
           Analysis for two Brandywine Battlefield Strategic Landscapes Chester
@@ -231,37 +240,40 @@ export default function publications() {
           James J. Gigantino II, ed., (New Brunswick, New Jersey: Rutgers
           University Press, 2015), pp. 85-105.{' '}
         </div>
-        The Washington-Rochambeau Revolutionary Route in the Commonwealth of
-        Rhode Island, 1781 - 1783. An Historical and Architectural Survey.
-        (Providence, Rhode Island: W3R Association of Rhode Island and
-        Providence Plantations, 2015) Cultural Resource Survey and Land and
-        Water Based Route Reconnaissance for the Washington Rochambeau
-        Revolutionary Route National Historic Trail (W3R-NHT) in Maryland,
-        focusing on the Contributions of the Eastern Shore to the Victory at
-        Yorktown and the Role of Western Maryland in the Yorktown Campaign.
-        (Baltimore, Maryland: Preservation Maryland, 2014) The Encampment of
-        French Forces at Scott’s Plantation on 17/18 September 1781. Excerpted
-        from Historical Research Report on Belvoir (“Scott’s Plantation”) from
-        the earliest known Date of European Contact to the Present with a
-        particular Focus on the Encampment of French Forces on the Site on 17/18
-        September 1781. (URS Corporation: Baltimore, Maryland 2014) Historical
-        Research Report on Belvoir (“Scott’s Plantation”) from the earliest
-        known Date of European Contact to the Present with a particular focus on
-        the Encampment of French Forces on the Site on 17/18 September 1781.
-        Prepared for URS Corporation as Part of TO 19: Generals Highway Project
-        located in Anne Arundel County, MD (URS Corporation: Baltimore, Maryland
-        2014) Cultural Resource Survey and Land and Water Based Route
-        Reconnaissance for the Washington Rochambeau Revolutionary Route
-        National Historic Trail in the Anacostia Trails Heritage Area, Prince
-        George’s County, Maryland (Hyattsville, Maryland: Anacostia Trails
-        Heritage Area, 2013) Cultural Resource Survey and Land and Water-Based
-        Route Investigation of the French Encampments at Bush Town in Harford
-        County, Maryland, on 10/11 September 1781 and from 24 to 29 August 1782.
-        (Baltimore, Maryland: W3R National Historic Trail Project in the State
-        of Maryland, 2013) Battle of the Clouds Technical Report and Historical
-        Overview. Prepared for the County of Chester and the American
-        Battlefield Protection Program. (West Chester, Pennsylvania: John Milner
-        Associates, Inc., 2013) Together with Wade P. Catts and Tom McGuire at:
+        <div>
+          The Washington-Rochambeau Revolutionary Route in the Commonwealth of
+          Rhode Island, 1781 - 1783. An Historical and Architectural Survey.
+          (Providence, Rhode Island: W3R Association of Rhode Island and
+          Providence Plantations, 2015) Cultural Resource Survey and Land and
+          Water Based Route Reconnaissance for the Washington Rochambeau
+          Revolutionary Route National Historic Trail (W3R-NHT) in Maryland,
+          focusing on the Contributions of the Eastern Shore to the Victory at
+          Yorktown and the Role of Western Maryland in the Yorktown Campaign.
+          (Baltimore, Maryland: Preservation Maryland, 2014){' '}
+        </div>
+        <div></div>The Encampment of French Forces at Scott’s Plantation on
+        17/18 September 1781. Excerpted from Historical Research Report on
+        Belvoir (“Scott’s Plantation”) from the earliest known Date of European
+        Contact to the Present with a particular Focus on the Encampment of
+        French Forces on the Site on 17/18 September 1781. (URS Corporation:
+        Baltimore, Maryland 2014) Historical Research Report on Belvoir
+        (“Scott’s Plantation”) from the earliest known Date of European Contact
+        to the Present with a particular focus on the Encampment of French
+        Forces on the Site on 17/18 September 1781. Prepared for URS Corporation
+        as Part of TO 19: Generals Highway Project located in Anne Arundel
+        County, MD (URS Corporation: Baltimore, Maryland 2014) Cultural Resource
+        Survey and Land and Water Based Route Reconnaissance for the Washington
+        Rochambeau Revolutionary Route National Historic Trail in the Anacostia
+        Trails Heritage Area, Prince George’s County, Maryland (Hyattsville,
+        Maryland: Anacostia Trails Heritage Area, 2013) Cultural Resource Survey
+        and Land and Water-Based Route Investigation of the French Encampments
+        at Bush Town in Harford County, Maryland, on 10/11 September 1781 and
+        from 24 to 29 August 1782. (Baltimore, Maryland: W3R National Historic
+        Trail Project in the State of Maryland, 2013) Battle of the Clouds
+        Technical Report and Historical Overview. Prepared for the County of
+        Chester and the American Battlefield Protection Program. (West Chester,
+        Pennsylvania: John Milner Associates, Inc., 2013) Together with Wade P.
+        Catts and Tom McGuire at:
         https://www.chescoplanning.org/Historic/BattleClouds.cfm Washington,
         Rochambeau, and the Yorktown Campaign of 1781.” in: A Companion to
         George Washington. Edward G. Lengel, ed. (Blackwell, 2012), pp. 266-287.
