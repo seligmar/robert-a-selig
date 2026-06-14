@@ -870,8 +870,8 @@ export default function publications() {
               no. 5, (May 2001), pp. 428-435.{' '}
             </div>
             <div className='publication-margin'>
-              "The word liberté was frequently heard. The Royal Deux-Ponts in
-              the American and the French Revolutions."{' '}
+              "The word <i>liberté</i> was frequently heard. The Royal
+              Deux-Ponts in the American and the French Revolutions."{' '}
               <i>
                 Colonial Williamsburg. The Journal of the Colonial Williamsburg
                 Foundation{' '}
@@ -879,14 +879,17 @@ export default function publications() {
               vol. 21, no. 1, (Spring 2001), pp. 80-84.
             </div>
             <div className='publication-margin'>
-              "Johann Georg Wüst. Der König von Ostindien." Damals. Das aktuelle
-              Magazin für Geschichte und Kultur vol. 32, no. 11, (November
-              2000), pp. 66-71.
+              "Johann Georg Wüst. Der König von Ostindien."{' '}
+              <i>Damals. Das aktuelle Magazin für Geschichte und Kultur </i>vol.
+              32, no. 11, (November 2000), pp. 66-71.
             </div>
             <div className='publication-margin'>
-              "The Iconography to Triumph and Surrender." Colonial Williamsburg.
-              The Journal of the Colonial Williamsburg Foundation vol. 23, no. 3
-              (Autumn 2000), pp. 72-77.
+              "The Iconography to Triumph and Surrender."{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>{' '}
+              vol. 23, no. 3 (Autumn 2000), pp. 72-77.
             </div>
             <div className='publication-margin'>
               "From Newport to Yorktown: Following the Road to Victory."
@@ -894,20 +897,24 @@ export default function publications() {
               Foundation vol. 22, no. 3 (Autumn 2000), pp. 66-71.
             </div>
             <div className='publication-margin'>
-              “<i>Mon tres cher oncle</i>" Lt. Graf Wilhelm von Schwerin writes
-              home from a Virginia Victory. Colonial Williamsburg. The Journal
-              of the Colonial Williamsburg Foundation vol. 22, No. 2, Summer
-              2000), pp. 48-54.
+              “Mon tres cher oncle" Lt. Graf Wilhelm von Schwerin writes home
+              from a Virginia Victory.{' '}
+              <i>
+                Colonial Williamsburg. The Journal of the Colonial Williamsburg
+                Foundation
+              </i>{' '}
+              vol. 22, No. 2, Summer 2000), pp. 48-54.
             </div>
             <div className='publication-margin'>
               “Mount Vernon After Washington: The Rescue of an American Memory.”
-              Colonial Williamsburg. The Journal of the Colonial Williamsburg
-              Foundation vol. 22, No. 1, (Spring 2000), pp. 48-54.
+              Colonial Williamsburg.{' '}
+              <i>The Journal of the Colonial Williamsburg Foundation</i> vol.
+              22, No. 1, (Spring 2000), pp. 48-54.
             </div>
             <div className='publication-margin'>
               "Nothing but Sky and Water: Descriptions of Transatlantic Travel
               from the Journal of Georg Daniel Flohr, Grenadier, Royal
-              Deux-Ponts, 1780-1783." Naval History vol. 13, no. 5,
+              Deux-Ponts, 1780-1783." <i>Naval History</i> vol. 13, no. 5,
               (September/October 1999), pp. 29-34.
             </div>
             <div className='publication-margin'>
