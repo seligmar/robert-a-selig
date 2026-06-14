@@ -38,17 +38,24 @@ export default function publications() {
             <div className='publication-margin'>
               (With Wade P. Catts) Rochambeau's Engineers at Butts Hill Fort,
               July 1780 - June 1781. Published on-line in June 2024 at:
-              <a href=' https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/'>
+              <a
+                href=' https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/'
+                target='_blank'
+              >
                 https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/
               </a>
             </div>{' '}
             <div className='publication-margin'>
               {' '}
               See also Gloria H. Schmidt, Digging in: Information from Robert
-              Selig’s work on the French at Butts Hill at:
-              https://battleofrhodeisland.org/
+              Selig’s work on the French at Butts Hill at:{' '}
+              <a
+                href='https://battleofrhodeisland.org/digging-in-information-from-robert-seligs-work-on-the-french-at-butts-hill/'
+                target='_blank'
+              >
+                https://battleofrhodeisland.org/digging-in-information-from-robert-seligs-work-on-the-french-at-butts-hill/
+              </a>
             </div>
-            digging-in-information-from-robert-seligs-work-on-the-french-at-butts-hill/
             <div className='publication-margin'>
               {' '}
               Newport’s Last Slave Auction: Rochambeau’s Prizes. Published
@@ -680,7 +687,7 @@ export default function publications() {
             <div className='publication-margin'>
               "Franconia", "Artisans", "Peasants", in: Encyclopedia of 1848
               Revolutions J. Chastain, ed., Published only on the Internet at:
-              <a href='www.cats.ohiou.edu/~chastain/'></a>{' '}
+              <a href='www.cats.ohiou.edu/~chastain/' target='_blank'></a>{' '}
               www.cats.ohiou.edu/~chastain/
             </div>
           </div>
