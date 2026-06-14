@@ -107,21 +107,32 @@ export default function publications() {
         Historic Trail in the Hudson River Valley in 1781 and 1782. A Historical
         Overview and Resource Inventory. (Albany, NY: Hudson River Valley
         National Heritage Area, 2020) at:
-        https://www.hudsonrivervalley.com/trails “En Avant to Victory: The
-        Allied March to Yorktown June-October 1781.” In: The Ten Key Campaigns
-        of the American Revolution Edward G. Lengel, ed. (Washington, D.C.:
-        Regnery Publishing, 2020), pp. 199-215. The Franco-American Encampment
-        in the Town of Greenburgh, 6 July – 18 August 1781: A Historical
-        Overview and Resource Inventory. (Greenburgh, NY: Town of Greenburgh,
-        2020) at:
-        https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now
-        African-Americans, the Rhode Island Regiments, and the Battle of Fort
-        Red Bank, 22 October 1777. (Gloucester, New Jersey: County of
-        Gloucester, 2019) “In the Morning We Began to Strip and Bury the Dead:”
-        A Context for Burial Practices During the American War for Independence”
-        in: Conference Proceedings. Fields of Conflict. 10th Biennial
-        International Conference 26-30 September 2018. 5 vols.(Mashantucket, CT:
-        Mashantucket Pequot Museum and Research Center, 2019) vol. 3, pp. 78-92.
+        https://www.hudsonrivervalley.com/trails
+        <div>
+          “En Avant to Victory: The Allied March to Yorktown June-October 1781.”
+          In: The Ten Key Campaigns of the American Revolution Edward G. Lengel,
+          ed. (Washington, D.C.: Regnery Publishing, 2020), pp. 199-215.{' '}
+        </div>
+        <div>
+          The Franco-American Encampment in the Town of Greenburgh, 6 July – 18
+          August 1781: A Historical Overview and Resource Inventory.
+          (Greenburgh, NY: Town of Greenburgh, 2020) at:
+          https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now
+        </div>
+        <div>
+          {' '}
+          African-Americans, the Rhode Island Regiments, and the Battle of Fort
+          Red Bank, 22 October 1777. (Gloucester, New Jersey: County of
+          Gloucester, 2019)
+        </div>
+        <div>
+          “In the Morning We Began to Strip and Bury the Dead:” A Context for
+          Burial Practices During the American War for Independence” in:
+          Conference Proceedings. Fields of Conflict. 10th Biennial
+          International Conference 26-30 September 2018. 5 vols.(Mashantucket,
+          CT: Mashantucket Pequot Museum and Research Center, 2019) vol. 3, pp.
+          78-92.
+        </div>
         Together with Wade P. Catts at:
         http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf
         Battle of Paoli: Documentation and National Historic Landmark
@@ -388,39 +399,68 @@ export default function publications() {
         1, (January 1999), pp. 606-607. "Wilhelmsburg in the Year 1702: The
         Account of Franz Ludwig Michel." Colonial Williamsburg. The Journal of
         the Colonial Williamsburg Foundation vol. 20, no. 4, (Summer 1998), pp.
-        23-31 at: www.patc.net/michel2.html "America the Ungrateful: The
-        Not-So-Fond Remembrances of Louis François Dupont d'Aubevoye, comte de
-        Lauberdière." American Heritage vol. 48, no. 1, (February 1997), pp.
-        101-106. "The Revolution's Black Soldiers. They fought for both Sides in
-        their Quest for Freedom." Colonial Williamsburg. The Journal of the
-        Colonial Williamsburg Foundation vol. 19, No. 4, (Summer 1997), pp.
-        15-19.   “Virginia's Black Codes.” Colonial Williamsburg. The Journal of
-        the Colonial Williamsburg Foundation vol. 19, No. 4, (Summer 1997), pp.
-        20-21. "Emigration and the Safety-Valve Theory in the Eighteenth
-        Century: Some Mathematical Evidence from the Prince-Bishopric of
-        Würzburg" Yearbook of the Society for German-American Studies vol. 31,
-        (1996), pp. 137-55; together with Dr. Duane Broline. "And is, Alas! The
-        Hour of our Parting Come?" Colonial Williamsburg. The Journal of the
-        Colonial Williamsburg Foundation vol. 18, no. 4, (Summer 1996), pp.
-        46-53. "The Freshest Advices (post-script to my essay 'And is, Alas! The
-        Hour of our Parting Come')" Colonial Williamsburg. The Journal of the
-        Colonial Williamsburg Foundation vol. 19, no. 1, (Fall 1996), pp. 14-15.
-        "Lauberdière's Journal. The Revolutionary War Journal of Louis François
-        Bertrand d'Aubevoye, comte de Lauberdière." Colonial Williamsburg. The
-        Journal of the Colonial Williamsburg Foundation vol. 18, no. 1, (Autumn
-        1995), pp. 33-37. "The Freshest Advices (post-script to my essay
-        'Lauberdière's Journal')" Colonial Williamsburg. The Journal of the
-        Colonial Williamsburg Foundation vol. 18, no. 2, (Winter 1995-96), pp.
-        6-7. "Storming the Redoubts (Yorktown, 14 October 1781)." Military
-        History Quarterly vol. 8, no. 1, (Autumn 1995), pp. 18-27. "Deux-Ponts
-        Germans. Unsung Heroes of the American Revolution." German Life vol. 2,
-        no. 2, (August/September 1995), pp. 50-53. "Finding Fame in Virginia:
-        But Fortune eluded Baron Friedrich Wilhelm von Steuben." Colonial
-        Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
-        17, no. 2, (Winter 1994-95), pp. 55-59. "Private Flohr's Other Life: The
-        young German fought for American Independence, went home and returned as
-        a man of peace." American Heritage vol. 45, no. 6,(October 1994), pp.
-        94-95.{' '}
+        23-31 at: www.patc.net/michel2.html
+        <div>
+          "America the Ungrateful: The Not-So-Fond Remembrances of Louis
+          François Dupont d'Aubevoye, comte de Lauberdière." American Heritage
+          vol. 48, no. 1, (February 1997), pp. 101-106.
+        </div>
+        <div>
+          "The Revolution's Black Soldiers. They fought for both Sides in their
+          Quest for Freedom." Colonial Williamsburg. The Journal of the Colonial
+          Williamsburg Foundation vol. 19, No. 4, (Summer 1997), pp. 15-19.
+        </div>
+        <div>
+          “Virginia's Black Codes.” Colonial Williamsburg. The Journal of the
+          Colonial Williamsburg Foundation vol. 19, No. 4, (Summer 1997), pp.
+          20-21.
+        </div>
+        <div>
+          "Emigration and the Safety-Valve Theory in the Eighteenth Century:
+          Some Mathematical Evidence from the Prince-Bishopric of Würzburg"
+          Yearbook of the Society for German-American Studies vol. 31, (1996),
+          pp. 137-55; together with Dr. Duane Broline.
+        </div>
+        <div>
+          "And is, Alas! The Hour of our Parting Come?" Colonial Williamsburg.
+          The Journal of the Colonial Williamsburg Foundation vol. 18, no. 4,
+          (Summer 1996), pp. 46-53.
+        </div>
+        <div>
+          "The Freshest Advices (post-script to my essay 'And is, Alas! The Hour
+          of our Parting Come')" Colonial Williamsburg. The Journal of the
+          Colonial Williamsburg Foundation vol. 19, no. 1, (Fall 1996), pp.
+          14-15.
+        </div>
+        <div>
+          {' '}
+          "Lauberdière's Journal. The Revolutionary War Journal of Louis
+          François Bertrand d'Aubevoye, comte de Lauberdière." Colonial
+          Williamsburg. The Journal of the Colonial Williamsburg Foundation vol.
+          18, no. 1, (Autumn 1995), pp. 33-37.{' '}
+        </div>
+        <div>
+          "The Freshest Advices (post-script to my essay 'Lauberdière's
+          Journal')" Colonial Williamsburg. The Journal of the Colonial
+          Williamsburg Foundation vol. 18, no. 2, (Winter 1995-96), pp.
+          6-7.{' '}
+        </div>
+        <div>
+          "Storming the Redoubts (Yorktown, 14 October 1781)." Military History
+          Quarterly vol. 8, no. 1, (Autumn 1995), pp. 18-27. "Deux-Ponts
+          Germans. Unsung Heroes of the American Revolution." German Life vol.
+          2, no. 2, (August/September 1995), pp. 50-53.
+        </div>
+        <div>
+          "Finding Fame in Virginia: But Fortune eluded Baron Friedrich Wilhelm
+          von Steuben." Colonial Williamsburg. The Journal of the Colonial
+          Williamsburg Foundation vol. 17, no. 2, (Winter 1994-95), pp. 55-59.
+        </div>
+        <div>
+          "Private Flohr's Other Life: The young German fought for American
+          Independence, went home and returned as a man of peace." American
+          Heritage vol. 45, no. 6,(October 1994), pp. 94-95.{' '}
+        </div>
         <div>
           "Light Infantry Lessons from America? Johann von Ewald's Experiences
           in the War for Independence." Studies in Eighteenth-Century Culture 23
