@@ -27,7 +27,7 @@
 }
 
 .indent-publication {
-  text-align: center;
+  margin-left: 20px;
 }
 
 .publications-figure {
@@ -36,5 +36,5 @@
 
 .publications-figure-caption {
   width: 250px;
-  text-align: center;
+  /* text-align: center; */
 }
