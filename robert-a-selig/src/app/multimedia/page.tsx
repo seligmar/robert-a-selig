@@ -10,10 +10,13 @@ export default function multimedia() {
           height='315'
           src='https://www.youtube.com/watch?v=yoAHlGDjINI'
         ></iframe>
-        Waging War in America, 1775-1783: Operational Challenges of Five Armies.
-        Panel discussion hosted by the American Revolution Institute of The
-        Society of the Cincinnati on 1 August 2024:
-        https://www.youtube.com/watch?v=yoAHlGDjINI
+        <div>
+          {' '}
+          Waging War in America, 1775-1783: Operational Challenges of Five
+          Armies. Panel discussion hosted by the American Revolution Institute
+          of The Society of the Cincinnati on 1 August 2024:
+          https://www.youtube.com/watch?v=yoAHlGDjINI
+        </div>
         <div>Rochambeau at Morven: https://youtu.be/nkx64Q5ACgc</div>{' '}
         <div>
           The March to Yorktown:
