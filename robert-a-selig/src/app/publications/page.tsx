@@ -27,7 +27,9 @@ export default function publications() {
           </figure>
           {/* </div> */}
           <div className='publications-grid-column'>
-            <h3>MAJOR PUBLICATIONS AND RESEARCH REPORTS:</h3>
+            <h3 className='publication-margin'>
+              MAJOR PUBLICATIONS AND RESEARCH REPORTS:
+            </h3>
             <div className='publication-margin'>
               “Damages, Depredations, Sufferings and Destruction: The Landscape
               of Conflict and the ‘Late War with Great Britain’”. In:{' '}
@@ -653,7 +655,9 @@ export default function publications() {
               </i>{' '}
               (Hartford, Connecticut: Connecticut Historical Commission, 1999)
             </div>
-            <h3>MINOR PUBLICATIONS AND JOURNAL ARTICLES:</h3>
+            <h3 className='publication-margin'>
+              MINOR PUBLICATIONS AND JOURNAL ARTICLES:
+            </h3>
             <div className='publication-margin'>
               “The Culture of Death: An Overview of Burial Practices during the
               American War of Independence.”{' '}
@@ -1164,7 +1168,9 @@ export default function publications() {
               W. Giesebrecht, ed., (Würzburg: Handelsdruckerei, 1980), pp.
               115-125.
             </div>
-            <h3>ENTRIES IN ENCYCLOPEDIAS AND REFERENCE WORKS: </h3>
+            <h3 className='publication-margin'>
+              ENTRIES IN ENCYCLOPEDIAS AND REFERENCE WORKS:{' '}
+            </h3>
             <div className='publication-margin'>
               "Abatis", "Desertion, Army", "Discipline, Army", "Infantry",
               "Light Infantry", "Manuals, Military", " Recruitment, Army ",
