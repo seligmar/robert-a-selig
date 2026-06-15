@@ -16,7 +16,7 @@ export default function Header() {
           {/* <nav> */}
           <LinkComponent linkHref={'/'} linkText={'About'} />
           <LinkComponent linkHref={'/publications'} linkText={'Publications'} />
-          <LinkComponent linkHref={'/multi-media'} linkText={'Multi-Media'} />
+          <LinkComponent linkHref={'/multimedia'} linkText={'Multi-Media'} />
           <LinkComponent linkHref={'/links'} linkText={'Links'} />
           <LinkComponent linkHref={'/cv'} linkText='Curriculum Vitae' />
           <LinkComponent linkHref={'/contact'} linkText={'Contact'} />
