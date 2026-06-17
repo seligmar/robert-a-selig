@@ -133,7 +133,7 @@ export default function multimedia() {
             Wednesday, 16 August 2023: George Washington Slept Here - Or Did He?
           </a>
         </div>
-        <div>
+        <div className='media-div'>
           <iframe
             className='media-div-iframe'
             title='Hungarian Soldiers Spend a Winter in New England'
@@ -151,7 +151,7 @@ export default function multimedia() {
             Connecticut for the Winter
           </a>{' '}
         </div>
-        <div>
+        <div className='media-div'>
           <iframe
             className='media-div-iframe'
             title='PART 1: A Trail Like No Other - It Brought Us Freedom'
@@ -169,7 +169,7 @@ export default function multimedia() {
             Freedom (Part 2){' '}
           </a>{' '}
         </div>
-        <div>
+        <div className='media-div'>
           <iframe
             className='media-div-iframe'
             title='PART 1: A Trail Like No Other - It Brought Us Freedom'
