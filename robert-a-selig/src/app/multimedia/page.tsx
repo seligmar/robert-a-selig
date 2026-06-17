@@ -29,8 +29,8 @@ export default function multimedia() {
         </div>{' '}
         <div className='media-div'>
           <iframe
-            width='757'
-            height='473'
+            width='809'
+            height='455'
             src='https://www.youtube.com/embed/nkx64Q5ACgc'
             title='Rochambeau at Morven with Dr. Peter A. Selig'
             // frameborder='0'
@@ -42,14 +42,45 @@ export default function multimedia() {
         <div className='media-div-text'>
           <a href='https://youtu.be/nkx64Q5ACgc'>Rochambeau at Morven</a>
         </div>{' '}
-        <div>
-          The March to Yorktown:
-          https://www.c-span.org/video/?327130-1/discussion-march-yorktown
+        <div className='media-div'>
+          <iframe
+            src='https://cdn.jwplayer.com/players/g1LLTbXU-xS4RtpB7.html'
+            // width='100%'
+            // height='100%'
+            width='809'
+            height='455'
+            //  frameborder='0'
+            scrolling='auto'
+            title='March%20to%20Yorktown%20%7C%20C-SPAN.org'
+            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+            referrerPolicy='strict-origin-when-cross-origin'
+            //  style='position:absolute;'
+            allowFullScreen
+          ></iframe>
         </div>
-        <div>
-          {' '}
-          Revolutionary War Military Burials:
-          https://www.c-span.org/video/?453830-2/revolutionary-war-military-burials
+        <div className='media-div-text'>
+          <a href=' https://www.c-span.org/video/?327130-1/discussion-march-yorktown'>
+            The March to Yorktown
+          </a>
+        </div>
+        <div className='media-div'>
+          <iframe
+            src='https://cdn.jwplayer.com/players/BGJTHQ2a-xS4RtpB7.html'
+            width='809'
+            height='455'
+            // frameborder='0'
+            scrolling='auto'
+            title='Revolutionary%20War%20Military%20Burials%20%7C%20C-SPAN.org'
+            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+            referrerPolicy='strict-origin-when-cross-origin'
+            // style='position:absolute;'
+            allowFullScreen
+          ></iframe>
+        </div>{' '}
+        <div className='media-div-text'>
+          <a href='  https://www.c-span.org/video/?453830-2/revolutionary-war-military-burials'>
+            Revolutionary War Military Burials
+          </a>
         </div>
         <div>
           Tuesday, 14 August 1781. The Day That Shook The World:
