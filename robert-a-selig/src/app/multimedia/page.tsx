@@ -133,9 +133,12 @@ export default function multimedia() {
           </a>
         </div>
         <div>
-          Wednesday, 22 March 2023: When Hungarian Soldiers Came to Rural
-          Connecticut for the Winter Wednesday, 2 February 2022: A Trail Like No
-          Other - It Brought Us Freedom (Part 2) Wednesday, 26 January 2022:{' '}
+          <a href='https://amazingtalesct.podbean.com/e/when-hungarian-soldiers-came-to-rural-connecticut-for-the-winter/'>
+            Wednesday, 22 March 2023: When Hungarian Soldiers Came to Rural
+            Connecticut for the Winter
+          </a>{' '}
+          Wednesday, 2 February 2022: A Trail Like No Other - It Brought Us
+          Freedom (Part 2) Wednesday, 26 January 2022:{' '}
           <a>A Trail Like No Other - It Brought Us Freedom </a>(Part 1; about
           the Washington-Rochambeau Revolutionary Route National Historic Trail)
         </div>
