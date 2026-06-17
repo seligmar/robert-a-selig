@@ -118,6 +118,7 @@ export default function multimedia() {
         <div className='media-div'>
           {' '}
           <iframe
+            className='media-div-iframe'
             title='George Washington Slept Here - Or Did He?'
             width='809'
             height='455'
@@ -134,6 +135,7 @@ export default function multimedia() {
         </div>
         <div>
           <iframe
+            className='media-div-iframe'
             title='Hungarian Soldiers Spend a Winter in New England'
             width='809'
             height='455'
@@ -151,6 +153,7 @@ export default function multimedia() {
         </div>
         <div>
           <iframe
+            className='media-div-iframe'
             title='PART 1: A Trail Like No Other - It Brought Us Freedom'
             width='809'
             height='455'
@@ -168,6 +171,7 @@ export default function multimedia() {
         </div>
         <div>
           <iframe
+            className='media-div-iframe'
             title='PART 1: A Trail Like No Other - It Brought Us Freedom'
             width='809'
             height='455'
