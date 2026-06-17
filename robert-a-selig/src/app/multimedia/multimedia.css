@@ -1,0 +1,11 @@
+.media-div {
+  text-align: center;
+}
+
+.media-div > iframe {
+  border: 5px solid #9a1005;
+}
+
+.media-div-text {
+  margin: 10px;
+}

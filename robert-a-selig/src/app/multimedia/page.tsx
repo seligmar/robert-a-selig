@@ -1,21 +1,31 @@
 import PageLayout from '../layout/pagelayout';
+import './multimedia.css';
 
 export default function multimedia() {
   return (
     <>
       <PageLayout>
         <h2>Multi-Media Presentations</h2>
-        <iframe
-          width='420'
-          height='315'
-          src='https://www.youtube.com/watch?v=yoAHlGDjINI'
-        ></iframe>
-        <div>
+        <div className='media-div'>
+          <iframe
+            width='809'
+            height='455'
+            src='https://www.youtube.com/embed/yoAHlGDjINI'
+            title='Waging War In America: Operational Challenges of Armies During the American Revolution'
+            // frameBorder='0'
+            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+            referrerPolicy='strict-origin-when-cross-origin'
+            allowFullScreen
+          ></iframe>{' '}
+        </div>
+        <div className='media-div-text'>
           {' '}
-          Waging War in America, 1775-1783: Operational Challenges of Five
-          Armies. Panel discussion hosted by the American Revolution Institute
-          of The Society of the Cincinnati on 1 August 2024:
-          https://www.youtube.com/watch?v=yoAHlGDjINI
+          <a href='https://www.youtube.com/watch?v=yoAHlGDjINI'>
+            {' '}
+            Waging War in America, 1775-1783: Operational Challenges of Five
+            Armies. Panel discussion hosted by the American Revolution Institute
+            of The Society of the Cincinnati on 1 August 2024
+          </a>
         </div>
         <div>Rochambeau at Morven: https://youtu.be/nkx64Q5ACgc</div>{' '}
         <div>
