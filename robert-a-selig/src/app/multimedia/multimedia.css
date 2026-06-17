@@ -1,5 +1,7 @@
 .media-div {
   text-align: center;
+  margin: 10px;
+  /* background-color: #9a1005;; */
 }
 
 .media-div > iframe {

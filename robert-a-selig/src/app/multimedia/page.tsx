@@ -26,8 +26,22 @@ export default function multimedia() {
             Armies. Panel discussion hosted by the American Revolution Institute
             of The Society of the Cincinnati on 1 August 2024
           </a>
+        </div>{' '}
+        <div className='media-div'>
+          <iframe
+            width='757'
+            height='473'
+            src='https://www.youtube.com/embed/nkx64Q5ACgc'
+            title='Rochambeau at Morven with Dr. Peter A. Selig'
+            // frameborder='0'
+            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+            referrerPolicy='strict-origin-when-cross-origin'
+            allowFullScreen
+          ></iframe>
         </div>
-        <div>Rochambeau at Morven: https://youtu.be/nkx64Q5ACgc</div>{' '}
+        <div className='media-div-text'>
+          <a href='https://youtu.be/nkx64Q5ACgc'>Rochambeau at Morven</a>
+        </div>{' '}
         <div>
           The March to Yorktown:
           https://www.c-span.org/video/?327130-1/discussion-march-yorktown
