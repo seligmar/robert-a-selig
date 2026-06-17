@@ -164,10 +164,25 @@ export default function multimedia() {
           <a href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'>
             Wednesday, 2 February 2022: A Trail Like No Other - It Brought Us
             Freedom (Part 2){' '}
+          </a>{' '}
+        </div>
+        <div>
+          <iframe
+            title='PART 1: A Trail Like No Other - It Brought Us Freedom'
+            width='809'
+            height='455'
+            data-name='pb-iframe-player'
+            src='https://www.podbean.com/player-v2/?from=embed&i=rre43-118cc8a-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300'
+            allowFullScreen
+          ></iframe>
+        </div>
+        Wednesday, 26 January 2022:{' '}
+        <div className='media-div-text'>
+          <a href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'>
+            A Trail Like No Other - It Brought Us Freedom (Part 1; about the
+            Washington-Rochambeau Revolutionary Route National Historic
+            Trail){' '}
           </a>
-          Wednesday, 26 January 2022:{' '}
-          <a>A Trail Like No Other - It Brought Us Freedom </a>(Part 1; about
-          the Washington-Rochambeau Revolutionary Route National Historic Trail)
         </div>
       </PageLayout>
     </>
