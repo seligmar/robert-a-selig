@@ -152,15 +152,12 @@ export default function multimedia() {
         <div>
           <iframe
             title='PART 1: A Trail Like No Other - It Brought Us Freedom'
-            allowtransparency='true'
-            height='300'
-            width='100%'
-            style='border: none; min-width: min(100%, 430px);height:300px;'
-            scrolling='no'
+            width='809'
+            height='455'
             data-name='pb-iframe-player'
             src='https://www.podbean.com/player-v2/?from=embed&i=rre43-118cc8a-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300'
             loading='lazy'
-            allowfullscreen=''
+            allowFullScreen
           ></iframe>
         </div>{' '}
         <div className='media-div-text'>
