@@ -176,12 +176,11 @@ export default function multimedia() {
             allowFullScreen
           ></iframe>
         </div>
-        Wednesday, 26 January 2022:{' '}
         <div className='media-div-text'>
           <a href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'>
-            A Trail Like No Other - It Brought Us Freedom (Part 1; about the
-            Washington-Rochambeau Revolutionary Route National Historic
-            Trail){' '}
+            Wednesday, 26 January 2022: A Trail Like No Other - It Brought Us
+            Freedom (Part 1; about the Washington-Rochambeau Revolutionary Route
+            National Historic Trail){' '}
           </a>
         </div>
       </PageLayout>
