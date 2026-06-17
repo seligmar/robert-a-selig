@@ -48,8 +48,6 @@ export default function multimedia() {
           <iframe
             className='media-div-iframe'
             src='https://cdn.jwplayer.com/players/g1LLTbXU-xS4RtpB7.html'
-            // width='100%'
-            // height='100%'
             width='809'
             height='455'
             //  frameborder='0'
@@ -57,7 +55,6 @@ export default function multimedia() {
             title='March%20to%20Yorktown%20%7C%20C-SPAN.org'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
             referrerPolicy='strict-origin-when-cross-origin'
-            //  style='position:absolute;'
             allowFullScreen
           ></iframe>
         </div>
@@ -72,12 +69,9 @@ export default function multimedia() {
             src='https://cdn.jwplayer.com/players/BGJTHQ2a-xS4RtpB7.html'
             width='809'
             height='455'
-            // frameborder='0'
-            scrolling='auto'
             title='Revolutionary%20War%20Military%20Burials%20%7C%20C-SPAN.org'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
             referrerPolicy='strict-origin-when-cross-origin'
-            // style='position:absolute;'
             allowFullScreen
           ></iframe>
         </div>{' '}
@@ -93,7 +87,6 @@ export default function multimedia() {
             height='455'
             src='https://www.youtube.com/embed/r0qGvd2P7qI'
             title='Dr. Robert Selig&#39;s Odell House Webinar'
-            // frameborder='0'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
             referrerPolicy='strict-origin-when-cross-origin'
             allowFullScreen
