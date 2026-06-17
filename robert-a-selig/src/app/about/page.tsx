@@ -19,7 +19,10 @@ export default function HomePage() {
         Robert A. Selig is a historical consultant who received his Ph.D. in
         history from the Universität Würzburg in Germany in 1988. He published a
         number of books on the American War of Independence such as{' '}
-        <a href='https://www.abebooks.com/first-edition/Hussars-Lebanon-Connecticut-town-Lauzuns-legion/32276164237/bd'>
+        <a
+          href='https://www.abebooks.com/first-edition/Hussars-Lebanon-Connecticut-town-Lauzuns-legion/32276164237/bd'
+          target='_blank'
+        >
           <i>Hussars in Lebanon! A Connecticut Town</i>
         </a>{' '}
         and <i>Lauzun’s Legion during the American Revolution, 1780-1781</i>{' '}
@@ -32,7 +35,7 @@ export default function HomePage() {
         He is a specialist on the role of French forces under the comte de
         Rochambeau during the American Revolutionary War and serves as project
         historian to the National Park Service for the{' '}
-        <a href='https://www.nps.gov/waro/index.htm'>
+        <a href='https://www.nps.gov/waro/index.htm' target='_blank'>
           Washington-Rochambeau Revolutionary Route National Historic Trail
           Project
         </a>
@@ -45,7 +48,7 @@ export default function HomePage() {
       </div>
       <div className='home-content'>
         He also served and serves as Project Historian for{' '}
-        <a href='https://www.nps.gov/orgs/2287/index.htm'>
+        <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
           American Battlefield Protection Program
         </a>{' '}
         projects such as the “Battle of Princeton”, “Battle of Green Spring and
@@ -55,15 +58,17 @@ export default function HomePage() {
       </div>
       <div className='home-content'>
         He has been a regular contributor to{' '}
-        <a href='https://germanlife.com/'>German Life</a> magazine for over 20
-        years and has also published more than 100 articles in American and
-        German scholarly and popular history magazines such as the the William
-        and Mary Quarterly, Eighteenth-Century Studies, the Yearbook of the
-        Society for German-American Studies, Journal of Caribbean History,
-        American Heritage, Naval History, Military History Quarterly, Colonial
-        Williamsburg, German Life, Damals, (in German) and the Journal of the
-        Johannes Schwalm Historical Association as well as chapters in various
-        books and anthologies.
+        <a href='https://germanlife.com/' target='_blank'>
+          German Life
+        </a>{' '}
+        magazine for over 20 years and has also published more than 100 articles
+        in American and German scholarly and popular history magazines such as
+        the the William and Mary Quarterly, Eighteenth-Century Studies, the
+        Yearbook of the Society for German-American Studies, Journal of
+        Caribbean History, American Heritage, Naval History, Military History
+        Quarterly, Colonial Williamsburg, German Life, Damals, (in German) and
+        the Journal of the Johannes Schwalm Historical Association as well as
+        chapters in various books and anthologies.
       </div>
       <div className='home-content'>
         Dr. Robert A. Selig's CV is available {''}

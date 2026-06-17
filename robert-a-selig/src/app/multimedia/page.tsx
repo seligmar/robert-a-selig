@@ -21,7 +21,7 @@ export default function multimedia() {
         </div>
         <div className='media-div-text'>
           {' '}
-          <a href='https://www.youtube.com/watch?v=yoAHlGDjINI'>
+          <a href='https://www.youtube.com/watch?v=yoAHlGDjINI' target='_blank'>
             {' '}
             Waging War in America, 1775-1783: Operational Challenges of Five
             Armies. Panel discussion hosted by the American Revolution Institute
@@ -42,7 +42,9 @@ export default function multimedia() {
           ></iframe>
         </div>
         <div className='media-div-text'>
-          <a href='https://youtu.be/nkx64Q5ACgc'>Rochambeau at Morven</a>
+          <a href='https://youtu.be/nkx64Q5ACgc' target='_blank'>
+            Rochambeau at Morven
+          </a>
         </div>{' '}
         <div className='media-div'>
           <iframe
@@ -59,7 +61,10 @@ export default function multimedia() {
           ></iframe>
         </div>
         <div className='media-div-text'>
-          <a href=' https://www.c-span.org/video/?327130-1/discussion-march-yorktown'>
+          <a
+            href=' https://www.c-span.org/video/?327130-1/discussion-march-yorktown'
+            target='_blank'
+          >
             The March to Yorktown
           </a>
         </div>
@@ -76,7 +81,10 @@ export default function multimedia() {
           ></iframe>
         </div>{' '}
         <div className='media-div-text'>
-          <a href='  https://www.c-span.org/video/?453830-2/revolutionary-war-military-burials'>
+          <a
+            href='  https://www.c-span.org/video/?453830-2/revolutionary-war-military-burials'
+            target='_blank'
+          >
             Revolutionary War Military Burials
           </a>
         </div>
@@ -93,7 +101,7 @@ export default function multimedia() {
           ></iframe>{' '}
         </div>
         <div className='media-div-text'>
-          <a href='https://youtu.be/r0qGvd2P7qI'>
+          <a href='https://youtu.be/r0qGvd2P7qI' target='_blank'>
             Tuesday, 14 August 1781. The Day That Shook The World
           </a>
         </div>
@@ -110,7 +118,10 @@ export default function multimedia() {
           ></iframe>{' '}
         </div>
         <div>
-          <a href=' https://amazingtalesct.podbean.com/e/could-you-move-a-5000-man-foreign-speaking-army-across-colonial-ct/'>
+          <a
+            href=' https://amazingtalesct.podbean.com/e/could-you-move-a-5000-man-foreign-speaking-army-across-colonial-ct/'
+            target='_blank'
+          >
             Five podcasts in the series Amazing Tales from Off and On
             Connecticut‘s Beaten Path broadcast by Mike Allen
           </a>
@@ -129,7 +140,10 @@ export default function multimedia() {
           ></iframe>{' '}
         </div>
         <div className='media-div-text'>
-          <a href='https://amazingtalesct.podbean.com/e/george-washington-slept-here-or-did-he/'>
+          <a
+            href='https://amazingtalesct.podbean.com/e/george-washington-slept-here-or-did-he/'
+            target='_blank'
+          >
             Wednesday, 16 August 2023: George Washington Slept Here - Or Did He?
           </a>
         </div>
@@ -146,7 +160,10 @@ export default function multimedia() {
           ></iframe>
         </div>
         <div className='media-div-text'>
-          <a href='https://amazingtalesct.podbean.com/e/when-hungarian-soldiers-came-to-rural-connecticut-for-the-winter/'>
+          <a
+            href='https://amazingtalesct.podbean.com/e/when-hungarian-soldiers-came-to-rural-connecticut-for-the-winter/'
+            target='_blank'
+          >
             Wednesday, 22 March 2023: When Hungarian Soldiers Came to Rural
             Connecticut for the Winter
           </a>{' '}
@@ -164,7 +181,10 @@ export default function multimedia() {
           ></iframe>
         </div>{' '}
         <div className='media-div-text'>
-          <a href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'>
+          <a
+            href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'
+            target='_blank'
+          >
             Wednesday, 2 February 2022: A Trail Like No Other - It Brought Us
             Freedom (Part 2){' '}
           </a>{' '}
@@ -181,7 +201,10 @@ export default function multimedia() {
           ></iframe>
         </div>
         <div className='media-div-text'>
-          <a href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'>
+          <a
+            href='https://amazingtalesct.podbean.com/e/a-trail-like-no-other-it-brought-us-freedom/'
+            target='_blank'
+          >
             Wednesday, 26 January 2022: A Trail Like No Other - It Brought Us
             Freedom (Part 1; about the Washington-Rochambeau Revolutionary Route
             National Historic Trail){' '}
