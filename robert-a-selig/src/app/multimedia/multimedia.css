@@ -1,11 +1,12 @@
 .media-div {
   text-align: center;
   margin: 10px;
-  /* background-color: #9a1005;; */
+  background-color: #9a1005;
+  padding: 10px;
 }
 
-.media-div > iframe {
-  border: 5px solid #9a1005;
+.media-div-iframe {
+  border: 1px solid white;
 }
 
 .media-div-text {

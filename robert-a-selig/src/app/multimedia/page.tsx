@@ -8,6 +8,7 @@ export default function multimedia() {
         <h2>Multi-Media Presentations</h2>
         <div className='media-div'>
           <iframe
+            className='media-div-iframe'
             width='809'
             height='455'
             src='https://www.youtube.com/embed/yoAHlGDjINI'
@@ -29,6 +30,7 @@ export default function multimedia() {
         </div>{' '}
         <div className='media-div'>
           <iframe
+            className='media-div-iframe'
             width='809'
             height='455'
             src='https://www.youtube.com/embed/nkx64Q5ACgc'
@@ -44,6 +46,7 @@ export default function multimedia() {
         </div>{' '}
         <div className='media-div'>
           <iframe
+            className='media-div-iframe'
             src='https://cdn.jwplayer.com/players/g1LLTbXU-xS4RtpB7.html'
             // width='100%'
             // height='100%'
@@ -65,6 +68,7 @@ export default function multimedia() {
         </div>
         <div className='media-div'>
           <iframe
+            className='media-div-iframe'
             src='https://cdn.jwplayer.com/players/BGJTHQ2a-xS4RtpB7.html'
             width='809'
             height='455'
@@ -84,6 +88,7 @@ export default function multimedia() {
         </div>
         <div className='media-div'>
           <iframe
+            className='media-div-iframe'
             width='809'
             height='455'
             src='https://www.youtube.com/embed/r0qGvd2P7qI'
