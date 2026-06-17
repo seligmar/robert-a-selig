@@ -97,19 +97,47 @@ export default function multimedia() {
             Tuesday, 14 August 1781. The Day That Shook The World
           </a>
         </div>
-        <div>
-          Five podcasts in the series Amazing Tales from Off and On
-          Connecticut‘s Beaten Path broadcast by Mike Allen:
-          https://amazingtalesct.podbean.com/e/could-you-move-a-5000-man-foreign-speaking-army-across-colonial-ct/
+        <div className='media-div'>
+          <iframe
+            title='The Logistics of Moving a Foreign-Speaking, 5,000-Man Army'
+            className='media-div-iframe'
+            width='809'
+            height='455'
+            data-name='pb-iframe-player'
+            src='https://www.podbean.com/player-v2/?from=embed&i=mwert-1523c45-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300'
+            loading='lazy'
+            allowFullScreen
+          ></iframe>{' '}
         </div>
         <div>
+          <a href=' https://amazingtalesct.podbean.com/e/could-you-move-a-5000-man-foreign-speaking-army-across-colonial-ct/'>
+            Five podcasts in the series Amazing Tales from Off and On
+            Connecticut‘s Beaten Path broadcast by Mike Allen
+          </a>
+        </div>
+        <div className='media-div'>
           {' '}
-          Wednesday, 16 August 2023: George Washington Slept Here - Or Did He?
+          <iframe
+            title='George Washington Slept Here - Or Did He?'
+            width='809'
+            height='455'
+            data-name='pb-iframe-player'
+            src='https://www.podbean.com/player-v2/?from=embed&i=wda3u-1480ba2-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=3ab278&size=300'
+            loading='lazy'
+            allowFullScreen
+          ></iframe>{' '}
+        </div>
+        <div className='media-div-text'>
+          <a href='https://amazingtalesct.podbean.com/e/george-washington-slept-here-or-did-he/'>
+            Wednesday, 16 August 2023: George Washington Slept Here - Or Did He?
+          </a>
+        </div>
+        <div>
           Wednesday, 22 March 2023: When Hungarian Soldiers Came to Rural
           Connecticut for the Winter Wednesday, 2 February 2022: A Trail Like No
-          Other - It Brought Us Freedom (Part 2) Wednesday, 26 January 2022: A
-          Trail Like No Other - It Brought Us Freedom (Part 1; about the
-          Washington-Rochambeau Revolutionary Route National Historic Trail)
+          Other - It Brought Us Freedom (Part 2) Wednesday, 26 January 2022:{' '}
+          <a>A Trail Like No Other - It Brought Us Freedom </a>(Part 1; about
+          the Washington-Rochambeau Revolutionary Route National Historic Trail)
         </div>
       </PageLayout>
     </>
