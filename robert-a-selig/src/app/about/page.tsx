@@ -27,7 +27,15 @@ export default function HomePage() {
         </a>
         . For this project he researched and wrote surveys and resource
         inventories for the nine states through which American and French forces
-        marched in 1781 and 1782.
+        marched in 1781 and 1782. He also served and serves as Project Historian
+        for{' '}
+        <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
+          American Battlefield Protection Program
+        </a>{' '}
+        projects such as the “Battle of Princeton”, “Battle of Green Spring and
+        Spencer’s Ordinary”, the “Paoli Massacre”, “Battle of the Clouds”,
+        “Battle of Red Bank”, “Battle of Bennington”, “Battle of Hubbardton” and
+        the “Battle of Brandywine”.
       </div>
       <div className='home-content'>
         Among his publications are{' '}
@@ -69,6 +77,23 @@ export default function HomePage() {
         , pp. 99-104.
       </div>
       <div className='home-content'>
+        {' '}
+        Honors and awards include the French <i>
+          Ordre national du Mérite
+        </i>{' '}
+        (February 2022),{' '}
+        <i>
+          La Médaille d’Or des Valeurs Francophones of La Renaissance
+          Française{' '}
+        </i>
+        (2019), the Erick Kurz Memorial Award for German-American History of the
+        Steuben Society of America (2015), and the Distinguished Patriot Award,
+        National Society of the Sons of the American Revolution (2012), as well
+        as 2023, 2024 and 2025 Society of the Cincinnati Fellowships to conduct
+        research in the library of the Society of the Cincinnati in Washington,
+        DC.{' '}
+      </div>
+      {/* <div className='home-content'>
         He is a specialist on the role of French forces under the comte de
         Rochambeau during the American Revolutionary War and serves as project
         historian to the National Park Service for the . For this project he
@@ -78,18 +103,8 @@ export default function HomePage() {
         through which American and French forces marched in 1781 and 1782. These
         reports are available on the internet at:{' '}
         <a>https://w3r-us.org/history-by-state/.</a>
-      </div>
-      <div className='home-content'>
-        He also served and serves as Project Historian for{' '}
-        <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
-          American Battlefield Protection Program
-        </a>{' '}
-        projects such as the “Battle of Princeton”, “Battle of Green Spring and
-        Spencer’s Ordinary”, the “Paoli Massacre”, “Battle of the Clouds”,
-        “Battle of Red Bank”, “Battle of Bennington”, “Battle of Hubbardton” and
-        the “Battle of Brandywine”.
-      </div>
-      <div className='home-content'>
+      </div> */}
+      {/* <div className='home-content'>
         He has been a regular contributor to{' '}
         <a href='https://germanlife.com/' target='_blank'>
           German Life
@@ -102,7 +117,7 @@ export default function HomePage() {
         Quarterly, Colonial Williamsburg, German Life, Damals, (in German) and
         the Journal of the Johannes Schwalm Historical Association as well as
         chapters in various books and anthologies.
-      </div>
+      </div> */}
       <div className='home-content'>
         Dr. Robert A. Selig's CV is available {''}
         <Link href={'/cv'}>here</Link>.
