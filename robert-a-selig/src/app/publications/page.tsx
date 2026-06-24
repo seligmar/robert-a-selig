@@ -275,10 +275,10 @@ export default function publications() {
               (Newark, Delaware: South River Heritage Consulting, LLC., 2019).
               Together with Wade P. Catts and Sean Moir at:{' '}
               <a
-                href='https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daylight.pdf'
+                href='https://www.chescoplanning.org/Historic/Campaign1777/South-TechReport-Daylight.pdf'
                 target='_blank'
               >
-                https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daylight.pdf
+                https://www.chescoplanning.org/Historic/Campaign1777/South-TechReport-Daylight.pdf
               </a>
             </div>{' '}
             <div className='publication-margin'>
@@ -323,10 +323,10 @@ export default function publications() {
               (West Chester, Pennsylvania: Commonwealth Heritage Group, Inc.,
               2017). Together with Wade P. Catts and Kevin Bradley at:
               <a
-                href='https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf'
+                href='https://www.chescoplanning.org/Historic/Campaign1777/South-TechReport-Daybreak.pdf#:~:text=This%20report%20provides%20detailed,and%20the%20road%20network'
                 target='_blank'
               >
-                https://www.chescoplanning.org/Historic/pdf/BB-TechReport-South-Daybreak.pdf
+                https://www.chescoplanning.org/Historic/Campaign1777/South-TechReport-Daybreak.pdf#:~:text=This%20report%20provides%20detailed,and%20the%20road%20network
               </a>
             </div>
             <div className='publication-margin'>
@@ -976,9 +976,6 @@ export default function publications() {
                 Foundation{' '}
               </i>
               vol. 20, no. 4, (Summer 1998), pp. 23-31 at:{' '}
-              <a href='www.patc.net/michel2.html' target='_blank'>
-                www.patc.net/michel2.html
-              </a>
             </div>
             <div className='publication-margin'>
               "America the Ungrateful: The Not-So-Fond Remembrances of Louis
