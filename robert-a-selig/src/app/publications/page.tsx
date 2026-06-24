@@ -589,10 +589,10 @@ export default function publications() {
               U.S. Army Center for Military History # 70-104-1 (Washington, DC,
               2005), free at:
               <a
-                href='https://history.army.mil/html/books/rochambeau/CMH_70-104-1.pdf'
+                href='https://history.army.mil/Publications/Publications-Catalog/The-March-to-Victory/'
                 target='_blank'
               >
-                https://history.army.mil/html/books/rochambeau/CMH_70-104-1.pdf
+                https://history.army.mil/Publications/Publications-Catalog/The-March-to-Victory/
               </a>
             </div>
             <div className='publication-margin'>
