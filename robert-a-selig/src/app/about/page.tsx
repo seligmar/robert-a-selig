@@ -44,23 +44,30 @@ export default function HomePage() {
         the <i>Yearbook of the Society for German-American Studies</i>, as well
         as chapters in books and anthologies. His most recent publications
         include “Damages, Depredations, Sufferings and Destruction: The
-        Landscape of Conflict and the ‘Late War with Great Britain’”. In: The
-        Archaeology of the American Revolution Richard F. Veit and Matthew A.
-        Kalos, eds., (Gainesville: University Press of Florida, 2025 pp.
-        205-227. (with Wade P. Catts); “The Culture of Death: An Overview of
-        Burial Practices during the American War of Independence.” The Brigade
-        Dispatch. Journal Of The Brigade Of The American Revolution vol. 50 No.
-        1, (Winter 2023-2024), pp. 3-18; “L’expédition particulière and the
-        American War of Independence, 1780–1783." in: Waging War in
-        America 1775-1783. Operational Challenges of Five Armies Don N. Hagist,
-        ed. (Warwick: Helion & Company, 2023), pp. 171-191; « De Newport à
-        Yorktown, à la Victoire et à la Gloire: la Route Washington-Rochambeau
-        et la Victoire du 19 octobre » 1781 Bulletin Société de la Archéologique
-        Scientifique et Littéraire du Vendômois Année 2022, pp. 99-104.
+        Landscape of Conflict and the ‘Late War with Great Britain’” in:{' '}
+        <i>The Archaeology of the American Revolution</i> Richard F. Veit and
+        Matthew A. Kalos, eds., (Gainesville: University Press of Florida, 2025
+        pp. 205-227. (with Wade P. Catts); “The Culture of Death: An Overview of
+        Burial Practices during the American War of Independence.”{' '}
+        <i>
+          The Brigade Dispatch. Journal Of The Brigade Of The American
+          Revolution
+        </i>{' '}
+        vol. 50 No. 1, (Winter 2023-2024), pp. 3-18;{' '}
+        <i>“L’expédition particulière</i> and the American War of Independence,
+        1780–1783." in:{' '}
+        <i>
+          Waging War in America 1775-1783. Operational Challenges of Five Armies
+        </i>
+         Don N. Hagist, ed. (Warwick: Helion & Company, 2023), pp. 171-191; « De
+        Newport à Yorktown, à la Victoire et à la Gloire: la Route
+        Washington-Rochambeau et la Victoire du 19 octobre » 1781{' '}
+        <i>
+          Bulletin Société de la Archéologique Scientifique et Littéraire du
+          Vendômois Année 2022{' '}
+        </i>
+        , pp. 99-104.
       </div>
-      (Lebanon, 2004) and a translation of <i>A Treatise on Partisan Warfare</i>{' '}
-      by Johann von Ewald, Introduction and Annotation by Robert A. Selig and
-      David Curtis Skaggs (Westport, 1991).
       <div className='home-content'>
         He is a specialist on the role of French forces under the comte de
         Rochambeau during the American Revolutionary War and serves as project
