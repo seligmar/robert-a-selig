@@ -55,7 +55,7 @@ export default function HomePage() {
         Landscape of Conflict and the ‘Late War with Great Britain’” in:{' '}
         <i>The Archaeology of the American Revolution</i> Richard F. Veit and
         Matthew A. Kalos, eds., (Gainesville: University Press of Florida, 2025
-        pp. 205-227. (with Wade P. Catts); “The Culture of Death: An Overview of
+        pp. 205-227 (with Wade P. Catts); “The Culture of Death: An Overview of
         Burial Practices during the American War of Independence.”{' '}
         <i>
           The Brigade Dispatch. Journal Of The Brigade Of The American
