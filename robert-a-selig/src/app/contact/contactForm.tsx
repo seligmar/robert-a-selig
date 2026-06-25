@@ -1,3 +1,4 @@
+//'use client';
 import SubmitButton from './submitButton';
 import transporter from './transporter';
 import './contact.css';
@@ -63,6 +64,13 @@ export default function ContactForm() {
           ></textarea>
         </div>
         <SubmitButton onSubmit={onSubmit} />
+        {/* <button
+          type='submit'
+          className='send-message-button'
+          onClick={() => onSubmit}
+        >
+          Send Message
+        </button> */}
       </form>
     </>
   );

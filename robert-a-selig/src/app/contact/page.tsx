@@ -1,3 +1,4 @@
+//'use client';
 import PageLayout from '../layout/pagelayout';
 import ContactForm from './contactForm';
 import Image from 'next/image';

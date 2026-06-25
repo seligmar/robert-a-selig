@@ -1,14 +1,18 @@
 'use client';
 import './contact.css';
 
-export default SubmitButton = (onSubmit: Function) => {
+interface submitButtonTypes {
+  onSubmit: () => void;
+}
+
+export default function SubmitButton(onSubmit: { onSubmit: () => void }) {
   return (
     <button
       type='submit'
       className='send-message-button'
-      onClick={() => onSubmit()}
+      onClick={() => onSubmit}
     >
       Send Message
     </button>
   );
-};
+}
