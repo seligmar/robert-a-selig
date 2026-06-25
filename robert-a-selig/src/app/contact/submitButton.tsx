@@ -5,16 +5,10 @@ interface submitButtonTypes {
   onSubmit: () => void;
 }
 
-export default function SubmitButton(onSubmit: { onSubmit: () => void }) {
+//onSubmit: { onSubmit: () => void }
+export default function SubmitButton() {
   return (
-    <button
-      type='submit'
-      className='send-message-button'
-      // onClick={(e) => {
-      //    e.preventDefault();
-      // onSubmit;
-      // }}
-    >
+    <button type='submit' className='send-message-button'>
       Send Message
     </button>
   );

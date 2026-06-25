@@ -9,6 +9,10 @@ export default function ContactForm() {
   console.log(transporter);
 
   function onSubmit(e: any) {
+    const userName = e.target['name'].value;
+    const userEmail = e.target['email'].value;
+    const userMessage = e.target['message'].value;
+
     console.log(e);
     console.log(e.target['name'].value);
     e.preventDefault();
@@ -71,14 +75,7 @@ export default function ContactForm() {
             required
           ></textarea>
         </div>
-        <SubmitButton onSubmit={onSubmit} />
-        {/* <button
-          type='submit'
-          className='send-message-button'
-          onClick={() => onSubmit}
-        >
-          Send Message
-        </button> */}
+        <SubmitButton />
       </form>
     </>
   );
