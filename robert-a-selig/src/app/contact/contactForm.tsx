@@ -1,4 +1,4 @@
-//'use client';
+'use client';
 import SubmitButton from './submitButton';
 import transporter from './transporter';
 import './contact.css';
@@ -16,6 +16,7 @@ export default function ContactForm() {
     <>
       <form
         id='contact-form'
+        action={onSubmit}
         // action='mailto:seligmar@gmail.com'
         className='contact-form'
       >
