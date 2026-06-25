@@ -10,7 +10,10 @@ export default function SubmitButton(onSubmit: { onSubmit: () => void }) {
     <button
       type='submit'
       className='send-message-button'
-      onClick={() => onSubmit}
+      // onClick={(e) => {
+      //    e.preventDefault();
+      // onSubmit;
+      // }}
     >
       Send Message
     </button>

@@ -8,17 +8,23 @@ import './contact.css';
 export default function ContactForm() {
   console.log(transporter);
 
-  function onSubmit() {
-    console.log('submit?');
+  function onSubmit(e: any) {
+    console.log(e);
+    console.log(e.target['name'].value);
+    e.preventDefault();
+    const form = e.target;
+    const formData = new FormData(form);
+    console.log('submit?', formData);
   }
 
   return (
     <>
       <form
         id='contact-form'
-        action={onSubmit}
+        // action={onSubmit}
         // action='mailto:seligmar@gmail.com'
         className='contact-form'
+        onSubmit={onSubmit}
       >
         <div className='form-group'>
           <div className='form-label-padding'>
@@ -33,6 +39,7 @@ export default function ContactForm() {
             name='name'
             placeholder='Your Name'
             required
+            // onChange={(e) => console.log(e)}
           />
         </div>
         <div className='form-group'>
