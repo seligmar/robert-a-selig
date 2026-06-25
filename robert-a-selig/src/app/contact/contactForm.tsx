@@ -1,13 +1,21 @@
+import SubmitButton from './submitButton';
+import transporter from './transporter';
 import './contact.css';
 
 //https://www.npmjs.com/package/nodemailer
 
 export default function ContactForm() {
+  console.log(transporter);
+
+  function onSubmit() {
+    console.log('submit?');
+  }
+
   return (
     <>
       <form
         id='contact-form'
-        action='mailto:seligmar@gmail.com'
+        // action='mailto:seligmar@gmail.com'
         className='contact-form'
       >
         <div className='form-group'>
@@ -54,9 +62,7 @@ export default function ContactForm() {
             required
           ></textarea>
         </div>
-        <button type='submit' className='send-message-button'>
-          Send Message
-        </button>
+        <SubmitButton onSubmit={onSubmit} />
       </form>
     </>
   );
