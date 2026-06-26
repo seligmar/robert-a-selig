@@ -19,6 +19,8 @@ export default function Contact() {
               src='/american-map-of-siege.png'
               alt='American map of the Siege of Yorktown'
               className='seige-image'
+              width={358}
+              height={350}
             />
             <figcaption>
               American map of the Siege of Yorktown

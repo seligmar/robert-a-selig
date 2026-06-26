@@ -16,8 +16,8 @@ export default function publications() {
               src='/route-map-vertical.jpg'
               alt='French map of the route to Yorktown, 1782'
               className='roadmap-image'
-              width={undefined}
-              height={undefined}
+              width={250}
+              height={700}
             />{' '}
             <figcaption className='publications-figure-caption'>
               French map of the route to Yorktown, 1782
