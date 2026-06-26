@@ -1,10 +1,6 @@
 'use client';
 import './contact.css';
 
-interface submitButtonTypes {
-  onSubmit: () => void;
-}
-
 //onSubmit: { onSubmit: () => void }
 export default function SubmitButton() {
   return (
