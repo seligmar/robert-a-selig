@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import PageLayout from '../layout/pagelayout';
-import roadmap from './route-map-vertical.jpg';
+//import roadmap from './route-map-vertical.jpg';
 import './publications.css';
 
 export default function publications() {
@@ -14,7 +14,7 @@ export default function publications() {
           {/* <div className='publications-figure'> */}
           <figure className='publications-figure'>
             <Image
-              src={roadmap}
+              src='/route-map-vertical.jpg'
               alt='Portrait of Robert A. Selig'
               className='roadmap-image'
             />{' '}
