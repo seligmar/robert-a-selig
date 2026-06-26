@@ -1,6 +1,6 @@
 'use client';
 import Image from 'next/image';
-import portrait from './selig.png';
+//import portrait from './selig.png';
 import './home-page.css';
 // simport LinkComponent from '../header/LinkComponent';
 import Link from 'next/link';
@@ -11,9 +11,11 @@ export default function HomePage() {
       <h2>About</h2>
       {/*  https://nextjs.org/docs/app/api-reference/components/image */}
       <Image
-        src={portrait}
+        src='/selig.png'
         alt='Portrait of Robert A. Selig'
         className='portrait-image'
+        height={350}
+        width={350}
       />
       <div className='home-content'>
         Robert A. Selig is a historical consultant who received his Ph.D. in

@@ -5,7 +5,7 @@ export default function Links() {
     <>
       is this owrking?{' '}
       <PageLayout>
-        <h2>Publications</h2>
+        <h2>Links</h2>
         {/*  https://nextjs.org/docs/app/api-reference/components/image */}
       </PageLayout>
     </>
