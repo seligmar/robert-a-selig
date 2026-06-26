@@ -2,7 +2,7 @@
 import PageLayout from '../layout/pagelayout';
 import ContactForm from './contactForm';
 import Image from 'next/image';
-import seige from './american-map-of-siege.webp';
+//import seige from './american-map-of-siege.png';
 import './contact.css';
 
 //https://www.npmjs.com/package/nodemailer
@@ -16,7 +16,7 @@ export default function Contact() {
           {/* https://www.nps.gov/waro/learn/historyculture/washington-rochambeau-revolutionary-route.htm */}
           <figure>
             <Image
-              src={seige}
+              src='/american-map-of-siege.png'
               alt='American map of the Siege of Yorktown'
               className='seige-image'
             />
