@@ -11,12 +11,13 @@ export default function publications() {
         {/*  https://nextjs.org/docs/app/api-reference/components/image */}
         {/* https://www.nps.gov/waro/learn/historyculture/washington-rochambeau-revolutionary-route.htm */}
         <div className='publications-grid'>
-          {/* <div className='publications-figure'> */}
           <figure className='publications-figure'>
             <Image
               src='/route-map-vertical.jpg'
-              alt='Portrait of Robert A. Selig'
+              alt='French map of the route to Yorktown, 1782'
               className='roadmap-image'
+              width={undefined}
+              height={undefined}
             />{' '}
             <figcaption className='publications-figure-caption'>
               French map of the route to Yorktown, 1782

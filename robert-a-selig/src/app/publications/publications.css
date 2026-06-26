@@ -2,16 +2,6 @@
   border: 5px solid #9a1005;
 }
 
-.publications-grid {
-  /* grid-template-columns: 1fr 3fr;
-  gap: 5px;
-  padding: 10px;
-  display: grid; */
-  /*  ///
-  display: flex; 
-  ///
-  */
-}
 
 .publications-figure {
   margin: 10px;
