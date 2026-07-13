@@ -7,12 +7,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <link
-        rel='icon'
-        href='/w3rShieldLogo.ico'
-        type='image/w3rShieldLogo.ico'
-        //  sizes='<generated>'
-      />
+   <link
+  rel="icon"
+  href="/icon?<generated>"
+  type="image/<generated>"
+  sizes="<generated>"
+/>
       <title>Dr. Robert A. Selig, PhD.</title>
       <body>{children}</body>
     </html>

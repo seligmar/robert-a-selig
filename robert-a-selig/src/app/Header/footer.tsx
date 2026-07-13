@@ -6,12 +6,12 @@ export default function Footer() {
   return (
     <footer className='header-footer-outside'>
       <div className='header-footer-inside footer-inside'>
-        <link
+        {/* <link
           rel='icon'
-          href='/w3rShieldLogo.ico'
-          type='image/w3rShieldLogo.ico'
+          href='/w3rShieldLogo.svg'
+          type='image/w3rShieldLogo.svg'
           // sizes='<generated>'
-        />
+        /> */}
         {/* <link
           rel='icon'
           href='/linkedinLogo.svg'
