@@ -8,10 +8,16 @@ export default function Footer() {
       <div className='header-footer-inside footer-inside'>
         <link
           rel='icon'
-          href='/W3rShieldLogo.svg'
-          type='image/W3rShieldLogo.svg'
+          href='/w3rShieldLogo.ico'
+          type='image/w3rShieldLogo.ico'
           // sizes='<generated>'
         />
+        {/* <link
+          rel='icon'
+          href='/linkedinLogo.svg'
+          type='image/linkedinLogo.svg'
+          // sizes='<generated>'
+        /> */}
         <Camera />;<div> Copyright 2026</div>
         <div>Website by: Mary Selig</div>
       </div>
