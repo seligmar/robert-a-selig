@@ -18,10 +18,12 @@
 
 .footer-inside {
   /* display: flex; */
-  text-align: center;
+  /* text-align: center; */
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 14px;
+  justify-content: space-between;
+  display: flex;
   /* height: 10vh; */
 }
 

@@ -6,20 +6,8 @@ export default function Footer() {
   return (
     <footer className='header-footer-outside'>
       <div className='header-footer-inside footer-inside'>
-        {/* <link
-          rel='icon'
-          href='/w3rShieldLogo.svg'
-          type='image/w3rShieldLogo.svg'
-          // sizes='<generated>'
-        /> */}
-        {/* <link
-          rel='icon'
-          href='/linkedinLogo.svg'
-          type='image/linkedinLogo.svg'
-          // sizes='<generated>'
-        /> */}
-        <Camera />;<div> Copyright 2026</div>
-        <div>Website by: Mary Selig</div>
+        <Camera />
+        <div> Copyright 2026 Website by: Mary Selig</div>
       </div>
     </footer>
   );
