@@ -45,9 +45,11 @@ export default function HomePage() {
           href='https://www.abebooks.com/first-edition/Hussars-Lebanon-Connecticut-town-Lauzuns-legion/32276164237/bd'
           target='_blank'
         >
-          <i>Hussars in Lebanon! A Connecticut Town</i>
+          <i>
+            Hussars in Lebanon: a Connecticut town and Lauzun's legion during
+            the American Revolution
+          </i>{' '}
         </a>{' '}
-        and <i>Lauzun’s Legion during the American Revolution, 1780-1781</i>{' '}
         (Lebanon, 2004), and some 150 articles in American, German, and French
         scholarly and popular history magazines such as the{' '}
         <i>William and Mary Quarterly</i>, <i>Eighteenth-Century Studies</i>,
