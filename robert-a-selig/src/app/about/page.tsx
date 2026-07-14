@@ -25,12 +25,15 @@ export default function HomePage() {
         historian for the{' '}
         <a href='https://www.nps.gov/waro/index.htm' target='_blank'>
           Washington-Rochambeau Revolutionary Route National Historic Trail
-          Project
+          Project (W3R)
         </a>
         . For this project he researched and wrote surveys and resource
         inventories for the nine states through which American and French forces
-        marched in 1781 and 1782. He also served and serves as Project Historian
-        for{' '}
+        marched in 1781 and 1782. These reports are available throught the{' '}
+        <a href='https://w3r-us.org/' target='_blank'>
+          W3R website
+        </a>
+        . He also served and serves as Project Historian for{' '}
         <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
           American Battlefield Protection Program
         </a>{' '}
