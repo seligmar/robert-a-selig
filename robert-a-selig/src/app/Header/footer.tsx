@@ -26,11 +26,14 @@ export default function Footer() {
               alt='facebook'
               width={40}
               height={40}
-              // className='footer-link'
+              className='footer-link'
             />
           </a>
         </div>
-        <div> Copyright 2026 Website by: Mary Selig</div>
+        <div className='footer-text'>
+          <div> Copyright 2026 </div>
+          <div>Website by: Mary Selig</div>
+        </div>
       </div>
     </footer>
   );

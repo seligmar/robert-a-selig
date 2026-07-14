@@ -38,10 +38,16 @@ export default function HomePage() {
         <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
           American Battlefield Protection Program
         </a>{' '}
-        projects such as the “Battle of Princeton”, “Battle of Green Spring and
-        Spencer’s Ordinary”, the “Paoli Massacre”, “Battle of the Clouds”,
-        “Battle of Red Bank”, “Battle of Bennington”, “Battle of Hubbardton” and
-        the “Battle of Brandywine”.
+        projects such as the{' '}
+        <a
+          href=' https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf'
+          target='_blank'
+        >
+          “Battle of Princeton”
+        </a>
+        , “Battle of Green Spring and Spencer’s Ordinary”, the “Paoli Massacre”,
+        “Battle of the Clouds”, “Battle of Red Bank”, “Battle of Bennington”,
+        “Battle of Hubbardton” and the “Battle of Brandywine”.
       </div>
       <div className='home-content'>
         Among his publications are{' '}
@@ -52,7 +58,7 @@ export default function HomePage() {
           <i>
             Hussars in Lebanon: a Connecticut town and Lauzun's legion during
             the American Revolution
-          </i>{' '}
+          </i>
         </a>{' '}
         (Lebanon, 2004), and some 150 articles in American, German, and French
         scholarly and popular history magazines such as the{' '}
