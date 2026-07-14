@@ -25,15 +25,16 @@ export default function HomePage() {
         historian for the{' '}
         <a href='https://www.nps.gov/waro/index.htm' target='_blank'>
           Washington-Rochambeau Revolutionary Route National Historic Trail
-          Project (W3R)
+          Project
         </a>
         . For this project he researched and wrote surveys and resource
         inventories for the nine states through which American and French forces
         marched in 1781 and 1782. These reports are available throught the{' '}
         <a href='https://w3r-us.org/' target='_blank'>
-          W3R website
-        </a>
-        . He also served and serves as Project Historian for{' '}
+          Washington-Rochambeau Revolutionary Route (W3R) US website
+        </a>{' '}
+        and can be searched by State. He also served and serves as Project
+        Historian for{' '}
         <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
           American Battlefield Protection Program
         </a>{' '}
@@ -61,7 +62,7 @@ export default function HomePage() {
         include “Damages, Depredations, Sufferings and Destruction: The
         Landscape of Conflict and the ‘Late War with Great Britain’” in:{' '}
         <i>The Archaeology of the American Revolution</i> Richard F. Veit and
-        Matthew A. Kalos, eds., (Gainesville: University Press of Florida, 2025
+        Matthew A. Kalos, eds., (Gainesville: University Press of Florida, 2025)
         pp. 205-227 (with Wade P. Catts); “The Culture of Death: An Overview of
         Burial Practices during the American War of Independence.”{' '}
         <i>
