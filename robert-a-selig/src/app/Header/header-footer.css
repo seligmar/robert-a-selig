@@ -54,6 +54,18 @@
   background-color: #161c66;
 }
 
+.footer-link {
+  background-color: white;
+}
+
+.linkedin-link {
+  padding-right: 10px;
+}
+
+.icon-div {
+  padding-left: 10px;
+}
+
 .menu-link:hover {
   border: 1px solid #9a1005;
   background-color: #9a1005;
