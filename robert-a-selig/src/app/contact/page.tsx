@@ -23,7 +23,7 @@ export default function Contact() {
               height={350}
             />
             <figcaption>
-              Robert A. Selig, PhD
+              Robert A. Selig, PhD.
               <div className='image-caption-source'>
                 Royal Deux-Ponts Grenadier
               </div>
