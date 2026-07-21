@@ -16,16 +16,16 @@ export default function Contact() {
           {/* https://www.nps.gov/waro/learn/historyculture/washington-rochambeau-revolutionary-route.htm */}
           <figure>
             <Image
-              src='/american-map-of-siege.png'
+              src='/contactPage.png'
               alt='American map of the Siege of Yorktown'
               className='seige-image'
-              width={358}
+              width={231}
               height={350}
             />
             <figcaption>
-              American map of the Siege of Yorktown
+              Robert A. Selig, PhD
               <div className='image-caption-source'>
-                Geography and Map Division, Library of Congress
+                Royal Deux-Ponts Grenadier
               </div>
             </figcaption>
           </figure>
