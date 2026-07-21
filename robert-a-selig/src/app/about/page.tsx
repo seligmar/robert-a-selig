@@ -38,16 +38,16 @@ export default function HomePage() {
         <a href='https://www.nps.gov/orgs/2287/index.htm' target='_blank'>
           American Battlefield Protection Program
         </a>{' '}
-        projects such as the{' '}
+        projects such as the “{' '}
         <a
           href=' https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf'
           target='_blank'
         >
-          “Battle of Princeton”
+          Battle of Princeton
         </a>
-        , “Battle of Green Spring and Spencer’s Ordinary”, the “Paoli Massacre”,
-        “Battle of the Clouds”, “Battle of Red Bank”, “Battle of Bennington”,
-        “Battle of Hubbardton” and the “Battle of Brandywine”.
+        ”, “Battle of Green Spring and Spencer’s Ordinary”, the “Paoli
+        Massacre”, “Battle of the Clouds”, “Battle of Red Bank”, “Battle of
+        Bennington”, “Battle of Hubbardton” and the “Battle of Brandywine”.
       </div>
       <div className='home-content'>
         Among his publications are{' '}
