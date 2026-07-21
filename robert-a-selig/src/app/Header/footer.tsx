@@ -10,6 +10,7 @@ export default function Footer() {
             href='https://www.linkedin.com/in/robert-a-selig-492b7612/'
             target='_blank'
             className='linkedin-link'
+            title='LinkedIn'
           >
             {' '}
             <Image
@@ -20,7 +21,11 @@ export default function Footer() {
               className='footer-link'
             />
           </a>
-          <a href='https://www.facebook.com/robert.a.selig.7'>
+          <a
+            href='https://www.facebook.com/robert.a.selig.7'
+            title='Facebook'
+            target='_blank'
+          >
             <Image
               src='/facebookIcon.png'
               alt='facebook'
