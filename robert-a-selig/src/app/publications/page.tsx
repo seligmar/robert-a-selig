@@ -32,6 +32,19 @@ export default function publications() {
               MAJOR PUBLICATIONS AND RESEARCH REPORTS:
             </h3>
             <div className='publication-margin'>
+              French Engineers at Butts Hill Fort: Results of Research in the
+              Archives du Génie, Service Historique de la Defense (SHD) and in
+              the Archives Nationales de France (ANF) for Manuscripts and Maps
+              related to French Engineers at Butts Hill Fort in Portsmouth,
+              Rhode Island. Published online in July 2026 at:{' '}
+              <a
+                href='https://battleofrhodeisland.org/butts-hill-fort-frenchengineers/'
+                target='_blank'
+              >
+                https://battleofrhodeisland.org/butts-hill-fort-frenchengineers/
+              </a>
+            </div>
+            <div className='publication-margin'>
               “Damages, Depredations, Sufferings and Destruction: The Landscape
               of Conflict and the ‘Late War with Great Britain’”. In:{' '}
               <i>The Archaeology of the American Revolution</i> Richard F. Veit
