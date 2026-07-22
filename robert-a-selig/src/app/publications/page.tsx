@@ -117,7 +117,7 @@ export default function publications() {
               "The Washington-Rochambeau Revolutionary Route National Historic
               Trail."{' '}
               <i>Newport History. Journal of the Newport Historical Society </i>
-              No. 287 vol. 98, Winter 2022/Spring 2023), pp. 1-30.
+              no. 287 vol. 98, Winter 2022/Spring 2023), pp. 1-30.
             </div>
             <div className='publication-margin'>
               {' '}
@@ -677,7 +677,7 @@ export default function publications() {
                 The Brigade Dispatch. Journal Of The Brigade Of The American
                 Revolution{' '}
               </i>
-              vol. 50, No. 1, (Winter 2023/24), pp. 3-18.{' '}
+              vol. 50, no. 1, (Winter 2023/24), pp. 3-18.{' '}
             </div>
             <div className='publication-margin'>
               “Rochambeau in Bolton. The Whys and Wherefores of the French
@@ -711,17 +711,17 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               “Father Ferdinand Farmer’s French-Canadian Connection.”
-              <i> Connecticut Maple Leaf </i>vol. 16, no. 2 (Winter 2013-2014),
+              <i> Connecticut Maple Leaf </i> vol. 16, no. 2 (Winter 2013-2014),
               pp. 61-65.{' '}
             </div>{' '}
             <div className='publication-margin'>
               “Eighteenth-Century Currencies.” The Brigade Dispatch.{' '}
-              <i>Journal Of The Brigade Of The American Revolution </i>vol. 43,
+              <i>Journal Of The Brigade Of The American Revolution </i> vol. 43,
               no. 3, (Autumn, 2013), pp. 16-31.{' '}
             </div>{' '}
             <div className='publication-margin'>
               “Site Lines: Mapping Rochambeau’s March across Connecticut”
-              <i> Connecticut Explored </i>vol. 10, no. 2 (Spring 2012), pp.
+              <i> Connecticut Explored </i> vol. 10, no. 2 (Spring 2012), pp.
               48-49.{' '}
             </div>{' '}
             <div className='publication-margin'>
@@ -776,7 +776,7 @@ export default function publications() {
                 The Hessians: Journal of the Johannes Schwalm Historical
                 Association.
               </i>{' '}
-              Vol. 11 (2008): 91-97.
+              vol. 11 (2008): 91-97.
             </div>{' '}
             <div className='publication-margin'>
               "Global Implications of the Peace of Paris, 3 September 1783." The
@@ -870,7 +870,7 @@ export default function publications() {
                 Journal of the Afro-American Historical and Genealogical
                 Society{' '}
               </i>
-              vol. 22, No. 1, (2003), pp. 1-11.
+              vol. 22, no. 1, (2003), pp. 1-11.
             </div>
             <div className='publication-margin'>
               {' '}
@@ -920,13 +920,13 @@ export default function publications() {
                 Colonial Williamsburg. The Journal of the Colonial Williamsburg
                 Foundation
               </i>{' '}
-              vol. 22, No. 2, Summer 2000), pp. 48-54.
+              vol. 22, no. 2, Summer 2000), pp. 48-54.
             </div>
             <div className='publication-margin'>
               “Mount Vernon After Washington: The Rescue of an American Memory.”
               Colonial Williamsburg.{' '}
               <i>The Journal of the Colonial Williamsburg Foundation</i> vol.
-              22, No. 1, (Spring 2000), pp. 48-54.
+              22, no. 1, (Spring 2000), pp. 48-54.
             </div>
             <div className='publication-margin'>
               "Nothing but Sky and Water: Descriptions of Transatlantic Travel
@@ -946,8 +946,9 @@ export default function publications() {
             <div className='publication-margin'>
               "François Joseph Paul Comte de Grasse, the Battle off the Virginia
               Capes, and the American Victory at Yorktown." Colonial
-              Williamsburg. The Journal of the Colonial Williamsburg Foundation
-              vol. 21, no. 5, (October/November 1999), pp. 26-32.
+              Williamsburg.{' '}
+              <i>The Journal of the Colonial Williamsburg Foundation</i> vol.
+              21, no. 5, (October/November 1999), pp. 26-32.
             </div>
             <div className='publication-margin'>
               "The Prince and the Pauper: Christian von Zweibrücken and Lucy
@@ -973,7 +974,7 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               "Eighteenth-Century European and American Currencies."{' '}
-              <i>Beyond Germanna</i> vol. 11, No. 2, (March 1999), pp.
+              <i>Beyond Germanna</i> vol. 11, no. 2, (March 1999), pp.
               616-617.{' '}
             </div>
             <div className='publication-margin'>
@@ -1003,7 +1004,7 @@ export default function publications() {
                 Colonial Williamsburg. The Journal of the Colonial Williamsburg
                 Foundation{' '}
               </i>
-              vol. 19, No. 4, (Summer 1997), pp. 15-19.
+              vol. 19, no. 4, (Summer 1997), pp. 15-19.
             </div>
             <div className='publication-margin'>
               “Virginia's Black Codes.”{' '}
@@ -1011,7 +1012,7 @@ export default function publications() {
                 Colonial Williamsburg. The Journal of the Colonial Williamsburg
                 Foundation 
               </i>
-              vol. 19, No. 4, (Summer 1997), pp. 20-21.
+              vol. 19, no. 4, (Summer 1997), pp. 20-21.
             </div>
             <div className='publication-margin'>
               "Emigration and the Safety-Valve Theory in the Eighteenth Century:
@@ -1074,7 +1075,7 @@ export default function publications() {
             <div className='publication-margin'>
               "Private Flohr's Other Life: The young German fought for American
               Independence, went home and returned as a man of peace."{' '}
-              <i>American Heritage </i>vol. 45, no. 6,(October 1994), pp.
+              <i>American Heritage </i> vol. 45, no. 6,(October 1994), pp.
               94-95.{' '}
             </div>
             <div className='publication-margin'>
@@ -1120,20 +1121,20 @@ export default function publications() {
             <div className='publication-margin'>
               "Idea and Practice of the <i>ius emigrandi</i> in the Holy Roman
               Empire from the Reformation to the French Revolution."{' '}
-              <i>Yearbook of the Society for German-American Studies </i>vol.
+              <i>Yearbook of the Society for German-American Studies </i> vol.
               27, (1992), pp. 15-22.
             </div>
             <div className='publication-margin'>
               "The Price of Freedom: Poverty, Emigration and Taxation in the
               Prince-Bishopric of Würzburg in the Eighteenth Century."{' '}
-              <i>Yearbook of the Society for German-American Studies </i>vol.
+              <i>Yearbook of the Society for German-American Studies </i> vol.
               26, (1991), pp. 105-126.
             </div>
             <div className='publication-margin'>
               {' '}
               "Emigration, Fraud, Humanitarianism and the Founding of
               Londonderry, South Carolina, 1763-1765."{' '}
-              <i>18th-Century Studies </i>vol. 23, no. 1, (Fall 1989), pp. 1-
+              <i>18th-Century Studies </i> vol. 23, no. 1, (Fall 1989), pp. 1-
               23.{' '}
             </div>
             <div className='publication-margin'>
@@ -1208,7 +1209,7 @@ export default function publications() {
             <div className='publication-margin'>
               "Royal-Deux-Ponts", "Friedrich Wilhelm von Steuben." in:
               <i> Encyclopedia of the American Revolution</i> Richard C. Blanco,
-              ed., 2 Vols. (New York: Garland, 1993), vol. 2, pp. 1436-39, and
+              ed., 2 vols. (New York: Garland, 1993), vol. 2, pp. 1436-39, and
               1579-85.
             </div>
             <div className='publication-margin'>
