@@ -652,14 +652,13 @@ export default function publications() {
               (Albany, New York: Hudson River Valley Greenway, 2001){' '}
             </div>
             <div className='publication-margin'>
-              Rochambeau's Cavalry: Lauzun's Legion in Connecticut 1780-1781.
-              The Winter Quarters of Lauzun's Legion in Lebanon and its March
-              Through the State in 1781.{' '}
-            </div>
-            <div className='publication-margin'>
-              Rochambeau's Conferences in Hartford and Wethersfield. Historic
-              and Architectural Survey. (Hartford, CT: Connecticut Historical
-              Commission, 2000)
+              <i>
+                Rochambeau's Cavalry: Lauzun's Legion in Connecticut 1780-1781.
+                The Winter Quarters of Lauzun's Legion in Lebanon and its March
+                Through the State in 1781. Rochambeau's Conferences in Hartford
+                and Wethersfield. Historic and Architectural Survey.
+              </i>{' '}
+              (Hartford, CT: Connecticut Historical Commission, 2000)
             </div>
             <div className='publication-margin'>
               <i>
