@@ -48,7 +48,7 @@ export default function publications() {
               “Damages, Depredations, Sufferings and Destruction: The Landscape
               of Conflict and the ‘Late War with Great Britain’”. In:{' '}
               <i>The Archaeology of the American Revolution</i> Richard F. Veit
-              and Matthew A. Kalos, eds., (Gainesville: University Press of
+              and Matthew A. Kalos, eds., Gainesville: University Press of
               Florida, 2025 pp. 205-227 (With Wade P. Catts).
             </div>
             <div className='publication-margin'>
