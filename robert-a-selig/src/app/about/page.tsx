@@ -29,7 +29,7 @@ export default function HomePage() {
         </a>
         . For this project he researched and wrote surveys and resource
         inventories for the nine states and the District of Columbia (as well as
-        the state of New Hampshire) through which American and French forces
+        the State of New Hampshire) through which American and French forces
         marched in 1781 and 1782. These reports are available throught the{' '}
         <a href='https://w3r-us.org/' target='_blank'>
           Washington-Rochambeau Revolutionary Route (W3R) US website
@@ -48,7 +48,15 @@ export default function HomePage() {
         </a>
         ”, “Battle of Green Spring and Spencer’s Ordinary”, the “Paoli
         Massacre”, “Battle of the Clouds”, “Battle of Red Bank”, “Battle of
-        Bennington”, “Battle of Hubbardton” and the “Battle of Brandywine”.
+        Bennington”, “Battle of Hubbardton” and the “Battle of Brandywine”. He
+        also serves as project historian to the{' '}
+        <a
+          href='https://www.rowan.edu/ric-edelman-college/departments/history/red-bank-battlefield/'
+          target='_blank'
+        >
+          Battle of Redbank Archeology Project
+        </a>
+        .
       </div>
       <div className='home-content'>
         Among his publications are{' '}
