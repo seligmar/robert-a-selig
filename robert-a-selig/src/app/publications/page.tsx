@@ -49,11 +49,11 @@ export default function publications() {
               of Conflict and the ‘Late War with Great Britain’”. In:{' '}
               <i>The Archaeology of the American Revolution</i> Richard F. Veit
               and Matthew A. Kalos, eds., (Gainesville: University Press of
-              Florida, 2025 pp. 205-227.{' '}
+              Florida, 2025 pp. 205-227. (With Wade P. Catts){' '}
             </div>
             <div className='publication-margin'>
-              (With Wade P. Catts) Rochambeau's Engineers at Butts Hill Fort,
-              July 1780 - June 1781. Published online in June 2024 at:
+              Rochambeau's Engineers at Butts Hill Fort, July 1780 - June 1781.
+              Published online in June 2024 at:
               <a
                 href=' https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/'
                 target='_blank'
