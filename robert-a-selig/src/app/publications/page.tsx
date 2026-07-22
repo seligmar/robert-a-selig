@@ -461,7 +461,7 @@ export default function publications() {
                 European Contact to the Present with a particular Focus on the
                 Encampment of French Forces on the Site on 17/18 September 1781.
               </i>{' '}
-              (URS Corporation: Baltimore, Maryland 2014)
+              (URS Corporation: Baltimore, Maryland, 2014)
             </div>
             <div className='publication-margin'>
               <i>
@@ -473,7 +473,7 @@ export default function publications() {
                 as Part of TO 19: Generals Highway Project located in Anne
                 Arundel County, MD
               </i>{' '}
-              (URS Corporation: Baltimore, Maryland 2014){' '}
+              (URS Corporation: Baltimore, Maryland, 2014){' '}
             </div>
             <div className='publication-margin'>
               {' '}
