@@ -658,7 +658,7 @@ export default function publications() {
                 Through the State in 1781. Rochambeau's Conferences in Hartford
                 and Wethersfield. Historic and Architectural Survey.
               </i>{' '}
-              (Hartford, CT: Connecticut Historical Commission, 2000)
+              (Hartford, Connecticut: Connecticut Historical Commission, 2000)
             </div>
             <div className='publication-margin'>
               <i>
