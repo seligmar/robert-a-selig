@@ -771,8 +771,12 @@ export default function publications() {
             <div className='publication-margin'>
               “Extracts from the Diary and Letters of Staff Captain Karl Ludwig,
               Freiherr von Doernberg, 1779-1781: Part 1 – Germany to Portsmouth,
-              March 28-May 30, 1779.” The Hessians: Journal of the Johannes
-              Schwalm Historical Association. 11 (2008): 91-97.
+              March 28-May 30, 1779.”{' '}
+              <i>
+                The Hessians: Journal of the Johannes Schwalm Historical
+                Association.
+              </i>{' '}
+              Vol. 11 (2008): 91-97.
             </div>{' '}
             <div className='publication-margin'>
               "Global Implications of the Peace of Paris, 3 September 1783." The
@@ -800,14 +804,12 @@ export default function publications() {
             <div className='publication-margin'>
               {' '}
               "Tracing the Yorktown Campaign of 1781 - 82."{' '}
-              <i>Notes on Virginia</i>
-              no. 51 (2007), pp. 47-55.{' '}
+              <i>Notes on Virginia</i> no. 51 (2007), pp. 47-55.{' '}
             </div>
             <div className='publication-margin'>
               {' '}
               "Walk Where They Fought: Path to Victory!"{' '}
-              <i>The Armchair General</i>
-              (July 2006) (with Barnet Schecter) at:{' '}
+              <i>The Armchair General</i> (July 2006) (with Barnet Schecter) at:{' '}
               <a href='http://www.armchairgeneral.com/' target='_blank'>
                 http://www.armchairgeneral.com/
               </a>
@@ -828,7 +830,7 @@ export default function publications() {
               "Eyewitness to Yorktown." <i>Military History </i>(February 2003),
               pp. 58-64. (based on the letters of <i>comte Schwerin</i>, a
               lieutenant in the company of grenadiers in the Royal Deux-Ponts
-              regiment to his uncle the Prince of Neuwied.{' '}
+              regiment to his uncle the Prince of Neuwied).{' '}
             </div>{' '}
             <div className='publication-margin'>
               "Das Deutsche Königlich-Französische Infanterie Regiment von
