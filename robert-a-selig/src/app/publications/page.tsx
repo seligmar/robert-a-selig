@@ -825,8 +825,8 @@ export default function publications() {
             <div className='publication-margin'>
               "Hessians Fighting for American Independence? German Deserters
               recruited for Lauzun's Legion in America, 1780 - 1782."{' '}
-              <i>Journal of the Johannes Schwalm Historical Association </i>vol.
-              7, no. 4, (2004), pp. 39-51.{' '}
+              <i>Journal of the Johannes Schwalm Historical Association </i>{' '}
+              vol. 7, no. 4, (2004), pp. 39-51.{' '}
             </div>
             <div className='publication-margin'>
               "Eyewitness to Yorktown." <i>Military History </i>(February 2003),
