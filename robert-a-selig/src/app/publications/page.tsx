@@ -53,7 +53,7 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               Rochambeau's Engineers at Butts Hill Fort, July 1780 - June 1781.
-              Published online in June 2024 at:
+              Published online in June 2024 at:{' '}
               <a
                 href=' https://battleofrhodeisland.org/rochambeaus-engineers-at-butts-hill-fort-july-1780-june-1781/'
                 target='_blank'
@@ -75,7 +75,7 @@ export default function publications() {
             <div className='publication-margin'>
               {' '}
               Newport’s Last Slave Auction: Rochambeau’s Prizes. Published
-              on-line in July 2024 at:
+              on-line in July 2024 at:{' '}
               <a
                 href=' https://battleofrhodeisland.org/newports-last-slave-auction-rochambeaus-prizes/'
                 target='_blank'
@@ -130,7 +130,7 @@ export default function publications() {
             </div>{' '}
             <div className='publication-margin'>
               Note: all Washington-Rochambeau Revolutionary Route Resource
-              Studies and Site surveys are available on-line at:
+              Studies and Site surveys are available on-line at:{' '}
               <a href='https://w3r-us.org/history-by-state/' target='_blank'>
                 https://w3r-us.org/history-by-state/
               </a>
@@ -335,7 +335,7 @@ export default function publications() {
                 and the American Battlefield Protection Program.{' '}
               </i>
               (West Chester, Pennsylvania: Commonwealth Heritage Group, Inc.,
-              2017). Together with Wade P. Catts and Kevin Bradley at:
+              2017). Together with Wade P. Catts and Kevin Bradley at:{' '}
               <a
                 href='https://www.chescoplanning.org/Historic/Campaign1777/South-TechReport-Daybreak.pdf#:~:text=This%20report%20provides%20detailed,and%20the%20road%20network'
                 target='_blank'
@@ -354,7 +354,7 @@ export default function publications() {
               </i>
               (Jackson, Michigan: Commonwealth Heritage Group, Inc., 2017).
               Together with Wade P. Catts, Christopher T. Espenshade, Elisabeth
-              Lavigne, and James Montney at:
+              Lavigne, and James Montney at:{' '}
               <a
                 href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
                 target='_blank'
@@ -371,7 +371,7 @@ export default function publications() {
                 the American Battlefield Preservation Program.{' '}
               </i>{' '}
               (Jackson, Michigan: Commonwealth Heritage Group, Inc., 2017).
-              Together with Wade P. Catts at:
+              Together with Wade P. Catts at:{' '}
               <a
                 href='https://parks.ny.gov/historic-sites/benningtonbattlefield/education.aspx'
                 target='_blank'
@@ -506,7 +506,7 @@ export default function publications() {
                 Protection Program.{' '}
               </i>{' '}
               (West Chester, Pennsylvania: John Milner Associates, Inc., 2013)
-              Together with Wade P. Catts and Tom McGuire at:
+              Together with Wade P. Catts and Tom McGuire at:{' '}
               <a
                 href='https://www.chescoplanning.org/Historic/BattleClouds.cfm'
                 target='_blank'
@@ -528,7 +528,7 @@ export default function publications() {
                 Battlefield Protection Program.{' '}
               </i>
               (West Chester, Pennsylvania: John Milner Associates, Inc., 2010).
-              Together with Wade P. Catts and M. Harris at:
+              Together with Wade P. Catts and M. Harris at:{' '}
               <a
                 href=' https://pbs1777.org/wp-content/uploads/2020/08/2010-09_MilnerReport.pdf'
                 target='_blank'
@@ -601,7 +601,7 @@ export default function publications() {
                 Campaign of 1781.{' '}
               </i>
               U.S. Army Center for Military History # 70-104-1 (Washington, DC,
-              2005), free at:
+              2005), free at:{' '}
               <a
                 href='https://history.army.mil/Publications/Publications-Catalog/The-March-to-Victory/'
                 target='_blank'
@@ -809,9 +809,8 @@ export default function publications() {
               {' '}
               "Walk Where They Fought: Path to Victory!"{' '}
               <i>The Armchair General</i>
-              (July 2006) (with Barnet Schecter) at:
+              (July 2006) (with Barnet Schecter) at:{' '}
               <a href='http://www.armchairgeneral.com/' target='_blank'>
-                {' '}
                 http://www.armchairgeneral.com/
               </a>
             </div>
@@ -1214,7 +1213,7 @@ export default function publications() {
             </div>
             <div className='publication-margin'>
               "Franconia", "Artisans", "Peasants", in: Encyclopedia of 1848
-              Revolutions J. Chastain, ed., Published only on the Internet at:
+              Revolutions J. Chastain, ed., Published only on the Internet at:{' '}
               <a href='www.cats.ohiou.edu/~chastain/' target='_blank'>
                 www.cats.ohiou.edu/~chastain/
               </a>
