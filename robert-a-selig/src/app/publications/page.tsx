@@ -310,8 +310,10 @@ export default function publications() {
               Smithsonian Books, 2018), pp. 170-185.
             </div>
             <div className='publication-margin'>
-              The Washington-Rochambeau National Historic Trail in the State of
-              New Hampshire, 1783. An Historical and Architectural Survey.
+              <i>
+                The Washington-Rochambeau National Historic Trail in the State
+                of New Hampshire, 1783. An Historical and Architectural Survey.
+              </i>{' '}
               (Washington, DC: Washington- Rochambeau Revolutionary Route
               National Historic Trail [WaRo], 2018){' '}
             </div>
