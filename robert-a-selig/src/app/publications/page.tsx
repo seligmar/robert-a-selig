@@ -514,7 +514,7 @@ export default function publications() {
               </a>
             </div>
             <div className='publication-margin'>
-              Washington, Rochambeau, and the Yorktown Campaign of 1781.” in: A
+              "Washington, Rochambeau, and the Yorktown Campaign of 1781.” in: A
               Companion to George Washington. Edward G. Lengel, ed. (Blackwell,
               2012), pp. 266-287.{' '}
             </div>
