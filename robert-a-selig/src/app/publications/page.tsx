@@ -194,7 +194,7 @@ export default function publications() {
               Gloucester Parks, Recreation and Tourism by Wade P. Catts, RPA,
               Robert A. Selig, Ph.D., Lt. Col. Lewis H. Burruss (ret.), and
               Kevin Bradley, RPA (Newark, DE: South River Heritage Consulting
-              LLC, 2021) at:
+              LLC, 2021) at:{' '}
               <a
                 href='https://www.gloucesterva.info/1352/Battle-of-the-Hook'
                 target='_blank'
@@ -232,7 +232,7 @@ export default function publications() {
                 The Franco-American Encampment in the Town of Greenburgh, 6 July
                 – 18 August 1781: A Historical Overview and Resource Inventory.
               </i>
-              (Greenburgh, NY: Town of Greenburgh, 2020) at:
+              (Greenburgh, NY: Town of Greenburgh, 2020) at:{' '}
               <a
                 href='https://www.odellrochambeau.org/news/free-book-about-the-franco-american-philipsburg-encampment-available-now'
                 target='_blank'
@@ -259,7 +259,7 @@ export default function publications() {
                 International Conference 26-30 September 2018.{' '}
               </i>
               5 vols.(Mashantucket, CT: Mashantucket Pequot Museum and Research
-              Center, 2019) vol. 3, pp. 78-92. Together with Wade P. Catts at:
+              Center, 2019) vol. 3, pp. 78-92. Together with Wade P. Catts at:{' '}
               <a
                 href='http://pequotwar.org/wp-content/uploads/2019/03/Volume-3-FOC-2018.pdf'
                 target='_blank'
