@@ -168,8 +168,7 @@ export default function publications() {
                 {' '}
                 Cultural Resource Survey and Land and Water Based Route
                 Reconnaissance for the Washington Rochambeau Revolutionary Route
-                National Historic Trail (W3R-NHT) and Lafayette in Charles
-                County, Maryland.{' '}
+                National Historic Trail (W3R-NHT).{' '}
               </i>{' '}
               (La Plata, MD: Maryland Veterans Museum at Patriot Park, 2023)
             </div>
