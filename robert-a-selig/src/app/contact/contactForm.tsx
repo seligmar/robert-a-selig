@@ -1,18 +1,17 @@
 'use client';
 import SubmitButton from './submitButton';
-import './contact.css';
 import { useEffect } from 'react';
-import { EmailJSResponseStatus } from '@emailjs/browser';
 import emailjs from '@emailjs/browser';
+import './contact.css';
 
 export default function ContactForm() {
   useEffect(() => {
-    (function () {
-      // https://dashboard.emailjs.com/admin/account
-      emailjs.init({
-        publicKey: 'gQs4K67EDJeDgHyqk',
-      });
+    // (function () {
+    // https://dashboard.emailjs.com/admin/account
+    emailjs.init({
+      publicKey: 'gQs4K67EDJeDgHyqk',
     });
+    //  });
     console.log('gQs4K67EDJeDgHyqk');
   }, []);
 
@@ -20,19 +19,29 @@ export default function ContactForm() {
     const userName = e.target['name'].value;
     const userEmail = e.target['email'].value;
     const userMessage = e.target['message'].value;
+    console.log('message?', userMessage);
 
     // console.log(transporter.sendMail);
     e.preventDefault();
-    const form = e.target;
-    const formData = new FormData(form);
-    emailjs.sendForm('contact_service', 'contact_form', this).then(
-      () => {
-        console.log('SUCCESS!');
-      },
-      (error) => {
-        console.log('FAILED...', error);
-      },
-    );
+    //  const form = e.target;
+    //  const formData = new FormData(form);
+    const templateParams = {
+      name: 'James',
+      notes: 'Check this out!',
+    };
+
+    emailjs
+      .send('service_7708ahp', 'YOUR_TEMPLATE_ID', templateParams, {
+        publicKey: 'gQs4K67EDJeDgHyqk',
+      })
+      .then(
+        (response) => {
+          console.log('SUCCESS!', response.status, response.text);
+        },
+        (err) => {
+          console.log('FAILED...', err);
+        },
+      );
     // console.log('submit?', formData);
   }
 

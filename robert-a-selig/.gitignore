@@ -20,6 +20,9 @@
 # production
 /build
 
+# local
+robert-a-selig/src/app/contact/contactForm.tsx
+
 # misc
 .DS_Store
 *.pem
