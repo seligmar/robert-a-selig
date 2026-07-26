@@ -32,7 +32,6 @@ export default function ContactForm({
             name='name'
             placeholder='Your Name'
             required
-            // onChange={(e) => console.log(e)}
           />
         </div>
         <div className='form-group'>
