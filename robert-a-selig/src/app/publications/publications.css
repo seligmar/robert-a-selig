@@ -2,7 +2,6 @@
   border: 5px solid #9a1005;
 }
 
-
 .publications-figure {
   margin: 10px;
 }
@@ -26,5 +25,4 @@
 
 .publications-figure-caption {
   width: 250px;
-  /* text-align: center; */
 }
