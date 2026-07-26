@@ -31,7 +31,7 @@ export default function ContactForm() {
     };
 
     emailjs
-      .send('service_7708ahp', 'YOUR_TEMPLATE_ID', templateParams, {
+      .send('service_7708ahp', 'template_c2efc7b', templateParams, {
         publicKey: 'gQs4K67EDJeDgHyqk',
       })
       .then(
