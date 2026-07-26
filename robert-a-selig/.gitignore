@@ -21,7 +21,7 @@
 /build
 
 # local
-/src/app/contact/contactForm.tsx
+./contact/contactForm.tsx
 
 # misc
 .DS_Store
