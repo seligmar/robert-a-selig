@@ -13,6 +13,7 @@ import './contact.css';
 
 export default function Contact() {
   const [open, openToast] = useState<boolean>(false);
+  const [status, setStatus] = useState<string | undefined>(undefined);
 
   useEffect(() => {
     // https://dashboard.emailjs.com/admin/account
@@ -49,6 +50,7 @@ export default function Contact() {
         (response) => {
           console.log('SUCCESS!', response.status, response.text);
           openToast(true);
+          setStatus('success');
           form.reset();
           // var x = document.getElementById('alert');
           // if (!x) return;
@@ -57,6 +59,7 @@ export default function Contact() {
           setTimeout(function () {
             //  x.className = 'toast-alert';
             openToast(false);
+            setStatus(undefined);
           }, 3000);
         },
         (err) => {
@@ -64,9 +67,11 @@ export default function Contact() {
           // var x = document.getElementById('alert');
           // if (!x) return;
           openToast(true);
+          setStatus('failure');
           //   x.className = 'toast-alert show-failure';
           setTimeout(function () {
             openToast(false);
+            setStatus(undefined);
             //   x.className = 'toast-alert';
           }, 3000);
           // e.preventDefault();
@@ -80,7 +85,7 @@ export default function Contact() {
 
   return (
     <>
-      <ToastAlert closeToast={closeToast} open={open} />
+      <ToastAlert closeToast={closeToast} open={open} status={status} />
       <PageLayout>
         <h2>Contact</h2>
         <div className='contact-grid'>

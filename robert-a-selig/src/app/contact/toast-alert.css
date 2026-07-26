@@ -14,12 +14,12 @@
   margin-left: 10px;
 }
 
-.toast-alert.show-success {
+.toast-alert.show.success {
   visibility: visible;
   background-color: #6f9bde;
 }
 
-.toast-alert.show-failure {
+.toast-alert.show.failure {
   visibility: visible;
   background-color: #9a1005;
 }
