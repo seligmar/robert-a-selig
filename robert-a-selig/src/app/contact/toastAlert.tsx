@@ -6,6 +6,7 @@ export default function ToastAlert() {
     <div id='alert' className='toast-alert'>
       Thank you for contacting Dr. Robert Selig! We will be reponding to your
       message shortly.
+      <button className='close-alert-button'>X</button>
     </div>
   );
 }

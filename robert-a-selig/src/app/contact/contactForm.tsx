@@ -21,18 +21,16 @@ export default function ContactForm() {
     const userMessage = e.target['message'].value;
     const form = e.target;
 
-    console.log('form?', form);
-
     const templateParams = {
       name: userName,
       title: userEmail,
       message: userMessage,
     };
 
-    var x = document.getElementById('alert');
-    console.log(x);
-    x.className = 'toast-alert show';
-
+       var x = document.getElementById('alert');
+          if (!x) return;
+          x.className = 'toast-alert show-failure';
+          
     return;
 
     emailjs
@@ -44,14 +42,21 @@ export default function ContactForm() {
           console.log('SUCCESS!', response.status, response.text);
           form.reset();
           var x = document.getElementById('alert');
+          if (!x) return;
           console.log(x);
-          x.className = 'toast-alert show';
-          // setTimeout(function () {
-          //   x.className = x.className.replace('show', '');
-          // }, 3000);
+          x.className = 'toast-alert show-success';
+          setTimeout(function () {
+            x.className = 'toast-alert';
+          }, 3000);
         },
         (err) => {
           console.log('FAILED...', err);
+          var x = document.getElementById('alert');
+          if (!x) return;
+          x.className = 'toast-alert show-failure';
+          setTimeout(function () {
+            x.className = 'toast-alert';
+          }, 3000);
           // e.preventDefault();
         },
       );

@@ -1,29 +1,23 @@
 .toast-alert {
   visibility: hidden;
-
-  /* margin-right: 5%;
-  bottom: 77%;
-  width: 90%; */
-  /* left: 40%; */
-  background-color: #6f9bde;
-
-  /* min-width: 250px; */
-  /* margin-left: -125px; */
-  /* background-color: #161c66; */
   color: #fff;
   text-align: center;
   border-radius: 2px;
   padding: 16px;
-  /* position: fixed; */
   z-index: 1;
-  /* left: 50%;
-  bottom: 30px; */
   font-size: 17px;
 }
 
-.toast-alert.show {
+.close-alert-button {
+  background-color: aquamarine;
+}
+
+.toast-alert.show-success {
   visibility: visible;
-  /* margin-right: 5%;
-  left: 40%;
-  bottom: 70%; */
+  background-color: #6f9bde;
+}
+
+.toast-alert.show-failure {
+  visibility: visible;
+  background-color: #9a1005;
 }
