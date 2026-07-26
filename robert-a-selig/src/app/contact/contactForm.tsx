@@ -1,43 +1,15 @@
 'use client';
 import SubmitButton from './submitButton';
+import { publicKey, templateKey, serviceKey } from '../keys.js';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import './contact.css';
 
-export default function ContactForm() {
-  useEffect(() => {
-    // https://dashboard.emailjs.com/admin/account
-    emailjs.init({
-      publicKey: 'gQs4K67EDJeDgHyqk',
-    });
-  }, []);
-
-  function onSubmit(e: any) {
-    e.preventDefault();
-    const userName = e.target['name'].value;
-    const userEmail = e.target['email'].value;
-    const userMessage = e.target['message'].value;
-
-    const templateParams = {
-      name: userName,
-      title: userEmail,
-      message: userMessage,
-    };
-
-    emailjs
-      .send('service_7708ahp', 'template_c2efc7b', templateParams, {
-        publicKey: 'gQs4K67EDJeDgHyqk',
-      })
-      .then(
-        (response) => {
-          console.log('SUCCESS!', response.status, response.text);
-        },
-        (err) => {
-          console.log('FAILED...', err);
-        },
-      );
-  }
-
+export default function ContactForm({
+  onSubmit,
+}: {
+  onSubmit: (e: any) => void;
+}) {
   return (
     <>
       <form
@@ -60,7 +32,6 @@ export default function ContactForm() {
             name='name'
             placeholder='Your Name'
             required
-            // onChange={(e) => console.log(e)}
           />
         </div>
         <div className='form-group'>
