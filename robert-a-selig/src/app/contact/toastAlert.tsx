@@ -1,5 +1,4 @@
 'use client';
-import { stat } from 'fs';
 import './toast-alert.css';
 
 export default function ToastAlert({
@@ -20,6 +19,7 @@ export default function ToastAlert({
 
   const failureMessage =
     'We were unable to send your message. Please try again.';
+
   return (
     <div id='alert' className={class1 + ' ' + class2 + ' ' + class3}>
       {status === 'success' ? successMessage : failureMessage}

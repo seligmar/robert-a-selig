@@ -36,11 +36,6 @@ export default function Contact() {
       message: userMessage,
     };
 
-    openToast(true);
-    setStatus('success');
-
-    return;
-
     emailjs
       .send(serviceKey, templateKey, templateParams, {
         publicKey: publicKey,
@@ -51,35 +46,24 @@ export default function Contact() {
           openToast(true);
           setStatus('success');
           form.reset();
-          // var x = document.getElementById('alert');
-          // if (!x) return;
-          // console.log(x);
-          // x.className = 'toast-alert show-success';
           setTimeout(function () {
-            //  x.className = 'toast-alert';
             openToast(false);
             setStatus(undefined);
-          }, 3000);
+          }, 7000);
         },
         (err) => {
           console.log('FAILED...', err);
-          // var x = document.getElementById('alert');
-          // if (!x) return;
           openToast(true);
           setStatus('failure');
-          //   x.className = 'toast-alert show-failure';
           setTimeout(function () {
             openToast(false);
             setStatus(undefined);
-            //   x.className = 'toast-alert';
-          }, 3000);
-          // e.preventDefault();
+          }, 7000);
         },
       );
   }
 
   function closeToast() {
-    console.log('close');
     setStatus(undefined);
     openToast(false);
   }
@@ -94,19 +78,20 @@ export default function Contact() {
           <figure>
             <Image
               //   src='/contactPage.png'
-              src='/seligBook.png'
-              alt='American map of the Siege of Yorktown'
-              className='seige-image'
               // width={231}
               // height={350}
+              //  alt='American map of the Siege of Yorktown'
+              src='/seligBook.png'
+              alt='Robert Selig'
+              className='seige-image'
               width={350}
               height={350}
             />
             <figcaption>
               Robert A. Selig, PhD.
-              <div className='image-caption-source'>
+              {/* <div className='image-caption-source'>
                 Royal Deux-Ponts Grenadier
-              </div>
+              </div> */}
             </figcaption>
           </figure>
           <ContactForm onSubmit={onSubmit} />{' '}
