@@ -2,13 +2,14 @@
 import SubmitButton from './submitButton';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
+import { publicKey, templateKey, serviceKey } from './keys.js';
 import './contact.css';
 
 export default function ContactForm() {
   useEffect(() => {
     // https://dashboard.emailjs.com/admin/account
     emailjs.init({
-      publicKey: 'gQs4K67EDJeDgHyqk',
+      publicKey: publicKey,
     });
   }, []);
 
@@ -25,8 +26,8 @@ export default function ContactForm() {
     };
 
     emailjs
-      .send('service_7708ahp', 'template_c2efc7b', templateParams, {
-        publicKey: 'gQs4K67EDJeDgHyqk',
+      .send(serviceKey, templateKey, templateParams, {
+        publicKey: publicKey,
       })
       .then(
         (response) => {
