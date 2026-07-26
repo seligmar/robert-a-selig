@@ -1,6 +1,6 @@
 'use client';
 import SubmitButton from './submitButton';
-import { publicKey, templateKey, serviceKey } from './keys.js';
+import { publicKey, templateKey, serviceKey } from '../keys.js';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import './contact.css';
@@ -8,6 +8,7 @@ import './contact.css';
 export default function ContactForm() {
   useEffect(() => {
     // https://dashboard.emailjs.com/admin/account
+    // https://www.emailjs.com/docs/tutorial/overview/
     emailjs.init({
       publicKey: publicKey,
     });
@@ -18,6 +19,9 @@ export default function ContactForm() {
     const userName = e.target['name'].value;
     const userEmail = e.target['email'].value;
     const userMessage = e.target['message'].value;
+    const form = e.target;
+
+    console.log('form?', form);
 
     const templateParams = {
       name: userName,
@@ -25,18 +29,20 @@ export default function ContactForm() {
       message: userMessage,
     };
 
-    emailjs
-      .send(serviceKey, templateKey, templateParams, {
-        publicKey: publicKey,
-      })
-      .then(
-        (response) => {
-          console.log('SUCCESS!', response.status, response.text);
-        },
-        (err) => {
-          console.log('FAILED...', err);
-        },
-      );
+    // emailjs
+    //   .send(serviceKey, templateKey, templateParams, {
+    //     publicKey: publicKey,
+    //   })
+    //   .then(
+    //     (response) => {
+    //       console.log('SUCCESS!', response.status, response.text);
+    //        form.reset()
+    //     },
+    //     (err) => {
+    //       console.log('FAILED...', err);
+    //       // e.preventDefault();
+    //     },
+    //   );
   }
 
   return (
