@@ -17,6 +17,7 @@
   box-shadow: none;
   cursor: pointer;
   border: none;
+  float: right;
 }
 
 .toast-alert.show.success {
