@@ -21,7 +21,7 @@
 /build
 
 # local
-./contact/keys.js
+./contact/keysNew.js
 
 # misc
 .DS_Store
