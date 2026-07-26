@@ -1,8 +1,8 @@
 'use client';
 import SubmitButton from './submitButton';
+import { publicKey, templateKey, serviceKey } from './keys.js';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
-import { publicKey, templateKey, serviceKey } from './keys.js';
 import './contact.css';
 
 export default function ContactForm() {
