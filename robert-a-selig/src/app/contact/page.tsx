@@ -77,7 +77,7 @@ export default function Contact() {
           {/* https://www.nps.gov/waro/learn/historyculture/washington-rochambeau-revolutionary-route.htm */}
           <figure>
             <Image
-              //   src='/contactPage.png'
+              // src='/contactPage.png'
               // width={231}
               // height={350}
               //  alt='American map of the Siege of Yorktown'

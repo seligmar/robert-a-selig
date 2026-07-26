@@ -1,9 +1,7 @@
 'use client';
 import Image from 'next/image';
-//import portrait from './selig.png';
-import './home-page.css';
-// simport LinkComponent from '../header/LinkComponent';
 import Link from 'next/link';
+import './home-page.css';
 
 export default function HomePage() {
   return (
@@ -116,31 +114,6 @@ export default function HomePage() {
         research in the library of the Society of the Cincinnati in Washington,
         DC.{' '}
       </div>
-      {/* <div className='home-content'>
-        He is a specialist on the role of French forces under the comte de
-        Rochambeau during the American Revolutionary War and serves as project
-        historian to the National Park Service for the . For this project he
-        researched and wrote surveys and resource inventories for the states of
-        New Hampshire, Rhode Island, Connecticut, New York, New Jersey,
-        Pennsylvania, Delaware, Maryland, the District of Columbia and Virginia
-        through which American and French forces marched in 1781 and 1782. These
-        reports are available on the internet at:{' '}
-        <a>https://w3r-us.org/history-by-state/.</a>
-      </div> */}
-      {/* <div className='home-content'>
-        He has been a regular contributor to{' '}
-        <a href='https://germanlife.com/' target='_blank'>
-          German Life
-        </a>{' '}
-        magazine for over 20 years and has also published more than 100 articles
-        in American and German scholarly and popular history magazines such as
-        the the William and Mary Quarterly, Eighteenth-Century Studies, the
-        Yearbook of the Society for German-American Studies, Journal of
-        Caribbean History, American Heritage, Naval History, Military History
-        Quarterly, Colonial Williamsburg, German Life, Damals, (in German) and
-        the Journal of the Johannes Schwalm Historical Association as well as
-        chapters in various books and anthologies.
-      </div> */}
       <div className='home-content'>
         Dr. Robert A. Selig's CV is available {''}
         <Link href={'/cv'}>here</Link>.
