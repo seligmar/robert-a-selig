@@ -8,7 +8,7 @@ export default function ContactForm() {
   useEffect(() => {
     // https://dashboard.emailjs.com/admin/account
     emailjs.init({
-      publicKey: '',
+      publicKey: 'gQs4K67EDJeDgHyqk',
     });
   }, []);
 
@@ -25,8 +25,8 @@ export default function ContactForm() {
     };
 
     emailjs
-      .send('', '', templateParams, {
-        publicKey: '',
+      .send('service_7708ahp', 'template_c2efc7b', templateParams, {
+        publicKey: 'gQs4K67EDJeDgHyqk',
       })
       .then(
         (response) => {
