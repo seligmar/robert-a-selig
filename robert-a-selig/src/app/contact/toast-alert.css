@@ -13,10 +13,13 @@
 .close-alert-button {
   background-color: inherit;
   color: white;
-  margin-left: 10px;
+  margin-right: 10px;
+
+  padding-right: 5px;
+  padding-left: 5px;
   box-shadow: none;
   cursor: pointer;
-  border: none;
+  border: 1px solid transparent;
   float: right;
 }
 
@@ -28,4 +31,12 @@
 .toast-alert.show.failure {
   visibility: visible;
   background-color: #9a1005;
+}
+
+.close-alert-button:hover {
+  border: 1px solid white;
+}
+
+.close-alert-button:focus {
+  border: 1px solid white;
 }
