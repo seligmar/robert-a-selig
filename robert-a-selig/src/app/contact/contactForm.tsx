@@ -2,7 +2,7 @@
 import SubmitButton from './submitButton';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
-import { publicKey, templateKey, serviceKey } from './keysNew.js';
+import { publicKey, templateKey, serviceKey } from './keys.js';
 import './contact.css';
 
 export default function ContactForm() {
