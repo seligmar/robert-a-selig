@@ -36,11 +36,10 @@ export default function Contact() {
       message: userMessage,
     };
 
-    // var x = document.getElementById('alert');
-    // if (!x) return;
-    // x.className = 'toast-alert show-failure';
+    openToast(true);
+    setStatus('success');
 
-    // return;
+    return;
 
     emailjs
       .send(serviceKey, templateKey, templateParams, {
@@ -81,6 +80,8 @@ export default function Contact() {
 
   function closeToast() {
     console.log('close');
+    setStatus(undefined);
+    openToast(false);
   }
 
   return (

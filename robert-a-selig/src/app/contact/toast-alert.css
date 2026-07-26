@@ -6,12 +6,17 @@
   padding: 16px;
   z-index: 1;
   font-size: 17px;
+  position: absolute;
+  width: 100%;
 }
 
 .close-alert-button {
   background-color: inherit;
   color: white;
   margin-left: 10px;
+  box-shadow: none;
+  cursor: pointer;
+  border: none;
 }
 
 .toast-alert.show.success {
