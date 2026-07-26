@@ -9,7 +9,9 @@
 }
 
 .close-alert-button {
-  background-color: aquamarine;
+  background-color: inherit;
+  color: white;
+  margin-left: 10px;
 }
 
 .toast-alert.show-success {

@@ -5,63 +5,11 @@ import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import './contact.css';
 
-export default function ContactForm() {
-  useEffect(() => {
-    // https://dashboard.emailjs.com/admin/account
-    // https://www.emailjs.com/docs/tutorial/overview/
-    emailjs.init({
-      publicKey: publicKey,
-    });
-  }, []);
-
-  function onSubmit(e: any) {
-    e.preventDefault();
-    const userName = e.target['name'].value;
-    const userEmail = e.target['email'].value;
-    const userMessage = e.target['message'].value;
-    const form = e.target;
-
-    const templateParams = {
-      name: userName,
-      title: userEmail,
-      message: userMessage,
-    };
-
-       var x = document.getElementById('alert');
-          if (!x) return;
-          x.className = 'toast-alert show-failure';
-          
-    return;
-
-    emailjs
-      .send(serviceKey, templateKey, templateParams, {
-        publicKey: publicKey,
-      })
-      .then(
-        (response) => {
-          console.log('SUCCESS!', response.status, response.text);
-          form.reset();
-          var x = document.getElementById('alert');
-          if (!x) return;
-          console.log(x);
-          x.className = 'toast-alert show-success';
-          setTimeout(function () {
-            x.className = 'toast-alert';
-          }, 3000);
-        },
-        (err) => {
-          console.log('FAILED...', err);
-          var x = document.getElementById('alert');
-          if (!x) return;
-          x.className = 'toast-alert show-failure';
-          setTimeout(function () {
-            x.className = 'toast-alert';
-          }, 3000);
-          // e.preventDefault();
-        },
-      );
-  }
-
+export default function ContactForm({
+  onSubmit,
+}: {
+  onSubmit: (e: any) => void;
+}) {
   return (
     <>
       <form
