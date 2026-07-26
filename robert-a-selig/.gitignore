@@ -21,7 +21,7 @@
 /build
 
 # local
-/src/keys.js
+/src/app/keys.js
 
 # misc
 .DS_Store
