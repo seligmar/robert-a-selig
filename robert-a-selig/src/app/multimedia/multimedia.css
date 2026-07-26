@@ -1,0 +1,15 @@
+.media-div {
+  text-align: center;
+  margin: 10px;
+  background-color: #9a1005;
+  padding: 10px;
+}
+
+.media-div-iframe {
+  border: 1px solid white;
+  margin-top: 4px;
+}
+
+.media-div-text {
+  margin: 10px;
+}

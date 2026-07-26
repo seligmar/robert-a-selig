@@ -1,16 +1,13 @@
-import Footer from "./Header/footer";
-import Header from "./Header/header";
-import "./page.css"
+import HomePage from './about/page';
+import PageLayout from './layout/pagelayout';
+import './page.css';
 
 export default function Home() {
   return (
-    <><Header />
-      <hr className="orange-border"/>
-      <main className="background-grey"><div>
-      <h1>To get started, edit the page.tsx file.</h1></div>
-    </main>
-       <hr className="orange-border"/>
- <Footer />
+    <>
+      <PageLayout>
+        <HomePage />
+      </PageLayout>
     </>
   );
 }

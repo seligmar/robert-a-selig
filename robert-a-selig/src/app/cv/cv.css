@@ -1,0 +1,10 @@
+.centre-cv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cv-iframe {
+  border: 5px solid #9a1005;
+  margin-top: 10px;
+}

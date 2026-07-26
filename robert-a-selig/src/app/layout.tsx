@@ -1,4 +1,4 @@
-import "./globals.css";
+import './globals.css';
 
 export default function RootLayout({
   children,
@@ -6,9 +6,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body>{children}
-      </body>
+    <html lang='en'>
+      <link
+        rel='icon'
+        href='/icon?<generated>'
+        type='image/<generated>'
+        sizes='<generated>'
+      />
+      <title>Dr. Robert A. Selig, PhD.</title>
+      <body>{children}</body>
     </html>
   );
 }

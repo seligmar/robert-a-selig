@@ -1,14 +1,83 @@
 .header-footer-outside {
-  background-color: #161C66;
-color: white;
-  height: 10vh;
+  background-color: #161c66;
+  color: white;
   width: 100%;
-  /* border-bottom: 2px solid #E09911; */
 }
 
 .header-footer-inside {
-background-color: #222A99;
-    height: 10vh;
-  margin-left: 10%;
-  margin-right: 10%;
+  background-color: #222a99;
+  margin-left: 5%;
+  margin-right: 5%;
+  align-items: center;
+}
+
+.header-inside {
+  padding-top: 5px;
+}
+
+.footer-inside {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.menu-outside {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 0.15px solid #9a1005;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.menu-link {
+  text-align: center;
+  background-color: inherit;
+  color: white;
+  box-shadow: none;
+  cursor: pointer;
+  /* to change depending on number of buttons */
+  width: 20%;
+  border: 1px solid #e09911;
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+
+.active-menu-link {
+  background-color: #161c66;
+}
+
+.footer-text {
+  padding-right: 10px;
+  text-align: right;
+}
+
+.footer-link {
+  background-color: white;
+  border: 2px solid #e09911;
+}
+
+.linkedin-link {
+  padding-right: 10px;
+}
+
+.icon-div {
+  padding-left: 10px;
+}
+
+.menu-link:hover {
+  border: 1px solid #9a1005;
+  background-color: #9a1005;
+  color: white;
+  border: none;
+}
+
+.menu-link:focus {
+  border: 1px solid #9a1005;
+  background-color: #9a1005;
+  color: white;
+  border: none;
 }

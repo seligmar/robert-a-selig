@@ -1,0 +1,11 @@
+.home-content {
+  margin: 10px;
+}
+
+.portrait-image {
+  height: 350px;
+  width: 350px;
+  float: left;
+  border: 5px solid #9a1005;
+  margin: 10px;
+}

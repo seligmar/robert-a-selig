@@ -1,0 +1,28 @@
+.roadmap-image {
+  border: 5px solid #9a1005;
+}
+
+.publications-figure {
+  margin: 10px;
+}
+
+.publications-grid-column {
+  padding-top: 10px;
+}
+
+.publication-margin {
+  margin: 0px 10px 10px 10px;
+  font-size: 14px;
+}
+
+.indent-publication {
+  margin-left: 20px;
+}
+
+.publications-figure {
+  float: left;
+}
+
+.publications-figure-caption {
+  width: 250px;
+}

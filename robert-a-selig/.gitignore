@@ -20,6 +20,9 @@
 # production
 /build
 
+# local
+./contact/contactForm.tsx
+
 # misc
 .DS_Store
 *.pem

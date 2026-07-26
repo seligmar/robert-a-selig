@@ -1,9 +1,31 @@
 .background-grey {
-  background-color: #EEF0F4;
+  background-color: #eef0f4;
+}
+
+.background-white {
+  background-color: white;
 }
 
 .orange-border {
   height: 8px;
-  color: #E09911;
-  background-color: #E09911;;
+  background-color: #e09911;
+}
+
+.image-caption-source {
+  font-size: 0.75rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+a {
+  color: #222a99;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #e09911;
+}
+
+a:focus {
+  color: #e09911;
 }
