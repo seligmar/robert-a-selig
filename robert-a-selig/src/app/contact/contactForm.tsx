@@ -1,5 +1,6 @@
 'use client';
 import SubmitButton from './submitButton';
+import ToastAlert from './toastAlert';
 import { publicKey, templateKey, serviceKey } from '../keys.js';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
@@ -29,20 +30,32 @@ export default function ContactForm() {
       message: userMessage,
     };
 
-    // emailjs
-    //   .send(serviceKey, templateKey, templateParams, {
-    //     publicKey: publicKey,
-    //   })
-    //   .then(
-    //     (response) => {
-    //       console.log('SUCCESS!', response.status, response.text);
-    //        form.reset()
-    //     },
-    //     (err) => {
-    //       console.log('FAILED...', err);
-    //       // e.preventDefault();
-    //     },
-    //   );
+    var x = document.getElementById('alert');
+    console.log(x);
+    x.className = 'toast-alert show';
+
+    return;
+
+    emailjs
+      .send(serviceKey, templateKey, templateParams, {
+        publicKey: publicKey,
+      })
+      .then(
+        (response) => {
+          console.log('SUCCESS!', response.status, response.text);
+          form.reset();
+          var x = document.getElementById('alert');
+          console.log(x);
+          x.className = 'toast-alert show';
+          // setTimeout(function () {
+          //   x.className = x.className.replace('show', '');
+          // }, 3000);
+        },
+        (err) => {
+          console.log('FAILED...', err);
+          // e.preventDefault();
+        },
+      );
   }
 
   return (

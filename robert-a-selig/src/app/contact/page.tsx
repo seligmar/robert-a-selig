@@ -2,6 +2,7 @@
 import PageLayout from '../layout/pagelayout';
 import ContactForm from './contactForm';
 import Image from 'next/image';
+import ToastAlert from './toastAlert';
 //import seige from './american-map-of-siege.png';
 import './contact.css';
 
@@ -10,6 +11,7 @@ import './contact.css';
 export default function Contact() {
   return (
     <>
+      <ToastAlert />
       <PageLayout>
         <h2>Contact</h2>
         <div className='contact-grid'>
