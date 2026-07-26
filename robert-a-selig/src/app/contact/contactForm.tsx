@@ -9,10 +9,10 @@ export default function ContactForm() {
     // (function () {
     // https://dashboard.emailjs.com/admin/account
     emailjs.init({
-      publicKey: 'gQs4K67EDJeDgHyqk',
+      publicKey: '',
     });
     //  });
-    console.log('gQs4K67EDJeDgHyqk');
+    console.log('');
   }, []);
 
   function onSubmit(e: any) {
@@ -31,8 +31,8 @@ export default function ContactForm() {
     };
 
     emailjs
-      .send('service_7708ahp', 'YOUR_TEMPLATE_ID', templateParams, {
-        publicKey: 'gQs4K67EDJeDgHyqk',
+      .send('', 'YOUR_TEMPLATE_ID', templateParams, {
+        publicKey: '',
       })
       .then(
         (response) => {
