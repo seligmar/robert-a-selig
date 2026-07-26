@@ -1,8 +1,5 @@
 'use client';
 import SubmitButton from './submitButton';
-import { publicKey, templateKey, serviceKey } from '../keys.js';
-import { useEffect } from 'react';
-import emailjs from '@emailjs/browser';
 import './contact.css';
 
 export default function ContactForm({
@@ -12,19 +9,11 @@ export default function ContactForm({
 }) {
   return (
     <>
-      <form
-        id='contact-form'
-        // action={onSubmit}
-        //  action='mailto:seligmar@gmail.com'
-        className='contact-form'
-        onSubmit={onSubmit}
-      >
+      <form id='contact-form' className='contact-form' onSubmit={onSubmit}>
         <div className='form-group'>
           <div className='form-label-padding'>
             <label htmlFor='name'>Name</label>
-            <span className='error' id='nameError'>
-              *{' '}
-            </span>
+            <span className='error'>* </span>
           </div>
           <input
             type='text'
@@ -37,9 +26,7 @@ export default function ContactForm({
         <div className='form-group'>
           <div>
             <label htmlFor='email'>Email</label>
-            <span className='error' id='nameError'>
-              *{' '}
-            </span>
+            <span className='error'>* </span>
           </div>
           <input
             type='email'
@@ -52,9 +39,7 @@ export default function ContactForm({
         <div className='form-group'>
           <div>
             <label htmlFor='message'>Message</label>
-            <span className='error' id='nameError'>
-              *{' '}
-            </span>
+            <span className='error'>* </span>
           </div>
           <textarea
             id='message'
