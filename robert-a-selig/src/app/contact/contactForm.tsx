@@ -1,8 +1,21 @@
 'use client';
 import SubmitButton from './submitButton';
 import './contact.css';
+import { useEffect } from 'react';
+import { EmailJSResponseStatus } from '@emailjs/browser';
+import emailjs from '@emailjs/browser';
 
 export default function ContactForm() {
+  useEffect(() => {
+    (function () {
+      // https://dashboard.emailjs.com/admin/account
+      emailjs.init({
+        publicKey: 'gQs4K67EDJeDgHyqk',
+      });
+    });
+    console.log('gQs4K67EDJeDgHyqk');
+  }, []);
+
   function onSubmit(e: any) {
     const userName = e.target['name'].value;
     const userEmail = e.target['email'].value;
@@ -12,6 +25,14 @@ export default function ContactForm() {
     e.preventDefault();
     const form = e.target;
     const formData = new FormData(form);
+    emailjs.sendForm('contact_service', 'contact_form', this).then(
+      () => {
+        console.log('SUCCESS!');
+      },
+      (error) => {
+        console.log('FAILED...', error);
+      },
+    );
     // console.log('submit?', formData);
   }
 
