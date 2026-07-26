@@ -2,7 +2,6 @@
   background-color: #161c66;
   color: white;
   width: 100%;
-  /* border-bottom: 2px solid #E09911; */
 }
 
 .header-footer-inside {
@@ -17,14 +16,11 @@
 }
 
 .footer-inside {
-  /* display: flex; */
-  /* text-align: center; */
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 14px;
   justify-content: space-between;
   display: flex;
-  /* height: 10vh; */
 }
 
 .menu-outside {
