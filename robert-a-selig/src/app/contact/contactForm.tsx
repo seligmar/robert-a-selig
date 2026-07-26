@@ -6,28 +6,22 @@ import './contact.css';
 
 export default function ContactForm() {
   useEffect(() => {
-    // (function () {
     // https://dashboard.emailjs.com/admin/account
     emailjs.init({
       publicKey: 'gQs4K67EDJeDgHyqk',
     });
-    //  });
-    console.log('gQs4K67EDJeDgHyqk');
   }, []);
 
   function onSubmit(e: any) {
+    e.preventDefault();
     const userName = e.target['name'].value;
     const userEmail = e.target['email'].value;
     const userMessage = e.target['message'].value;
-    console.log('message?', userMessage);
 
-    // console.log(transporter.sendMail);
-    e.preventDefault();
-    //  const form = e.target;
-    //  const formData = new FormData(form);
     const templateParams = {
-      name: 'James',
-      notes: 'Check this out!',
+      name: userName,
+      title: userEmail,
+      message: userMessage,
     };
 
     emailjs
@@ -42,7 +36,6 @@ export default function ContactForm() {
           console.log('FAILED...', err);
         },
       );
-    // console.log('submit?', formData);
   }
 
   return (
