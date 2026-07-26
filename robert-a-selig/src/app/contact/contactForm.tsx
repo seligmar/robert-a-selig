@@ -1,6 +1,5 @@
 'use client';
 import SubmitButton from './submitButton';
-import ToastAlert from './toastAlert';
 import { publicKey, templateKey, serviceKey } from '../keys.js';
 import { useEffect } from 'react';
 import emailjs from '@emailjs/browser';
