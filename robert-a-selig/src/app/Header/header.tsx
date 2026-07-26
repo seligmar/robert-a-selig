@@ -1,6 +1,6 @@
 'use client';
-import './header-footer.css';
 import LinkComponent from './LinkComponent';
+import './header-footer.css';
 
 export default function Header() {
   return (

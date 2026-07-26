@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import PageLayout from '../layout/pagelayout';
-//import roadmap from './route-map-vertical.jpg';
 import './publications.css';
 
 export default function publications() {
