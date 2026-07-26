@@ -2,8 +2,6 @@
 import SubmitButton from './submitButton';
 import './contact.css';
 
-//https://www.npmjs.com/package/nodemailer
-
 export default function ContactForm() {
   function onSubmit(e: any) {
     const userName = e.target['name'].value;
@@ -22,7 +20,7 @@ export default function ContactForm() {
       <form
         id='contact-form'
         // action={onSubmit}
-        // action='mailto:seligmar@gmail.com'
+        //  action='mailto:seligmar@gmail.com'
         className='contact-form'
         onSubmit={onSubmit}
       >
