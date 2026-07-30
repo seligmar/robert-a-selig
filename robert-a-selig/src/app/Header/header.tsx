@@ -12,7 +12,7 @@ export default function Header() {
           alt="list-menu"
           className="list-menu"
           /> */}
-          <div className='menu-outside'>
+          <nav className='menu-outside'>
             {/* https://blog.logrocket.com/css-style-button-accessibility/#button-accessibility */}
             {/* <nav> */}
             <LinkComponent linkHref={'/'} linkText={'About'} />
@@ -25,7 +25,7 @@ export default function Header() {
             <LinkComponent linkHref={'/cv'} linkText='Curriculum Vitae' />
             <LinkComponent linkHref={'/contact'} linkText={'Contact'} />
             {/* </nav> */}
-          </div>
+          </nav>
         </div>
       </header>
     </>
