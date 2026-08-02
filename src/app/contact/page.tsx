@@ -81,7 +81,7 @@ export default function Contact() {
               // width={231}
               // height={350}
               //  alt='American map of the Siege of Yorktown'
-              src='/seligBook.png'
+              src='https://seligmar.github.io/robert-a-selig/seligBook.png'
               alt='Robert Selig'
               className='seige-image'
               width={350}
