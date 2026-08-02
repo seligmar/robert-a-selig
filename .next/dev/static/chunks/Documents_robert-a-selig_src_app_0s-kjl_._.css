@@ -1,0 +1,43 @@
+/* [project]/Documents/robert-a-selig/src/app/about/home-page.css [app-client] (css) */
+.home-content {
+  margin: 10px;
+}
+
+.portrait-image {
+  float: left;
+  border: 5px solid #9a1005;
+  width: 350px;
+  height: 350px;
+  margin: 10px;
+}
+
+/* [project]/Documents/robert-a-selig/src/app/page.css [app-client] (css) */
+.background-grey {
+  background-color: #eef0f4;
+}
+
+.background-white {
+  background-color: #fff;
+}
+
+.orange-border {
+  background-color: #e09911;
+  height: 8px;
+}
+
+.image-caption-source {
+  font-size: .75rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+a {
+  color: #222a99;
+  cursor: pointer;
+}
+
+a:hover, a:focus {
+  color: #e09911;
+}
+
+/*# sourceMappingURL=Documents_robert-a-selig_src_app_0s-kjl_._.css.map*/
