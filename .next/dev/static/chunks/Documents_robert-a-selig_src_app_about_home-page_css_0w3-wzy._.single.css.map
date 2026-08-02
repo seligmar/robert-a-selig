@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Documents/robert-a-selig/src/app/about/home-page.css"],"sourcesContent":[".home-content {\n  margin: 10px;\n}\n\n.portrait-image {\n  height: 350px;\n  width: 350px;\n  float: left;\n  border: 5px solid #9a1005;\n  margin: 10px;\n}\n"],"names":[],"mappings":"AAAA;;;;AAIA"}}]
+}

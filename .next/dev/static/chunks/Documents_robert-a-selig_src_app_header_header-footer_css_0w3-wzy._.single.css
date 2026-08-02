@@ -1,0 +1,77 @@
+/* [project]/Documents/robert-a-selig/src/app/header/header-footer.css [app-client] (css) */
+.header-footer-outside {
+  color: #fff;
+  background-color: #161c66;
+  width: 100%;
+}
+
+.header-footer-inside {
+  background-color: #222a99;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.header-inside {
+  padding-top: 5px;
+}
+
+.footer-inside {
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  display: flex;
+}
+
+.menu-outside {
+  border-top: .15px solid #9a1005;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+}
+
+.menu-link {
+  text-align: center;
+  background-color: inherit;
+  color: #fff;
+  box-shadow: none;
+  cursor: pointer;
+  border: 1px solid #e09911;
+  width: 20%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.active-menu-link {
+  background-color: #161c66;
+}
+
+.footer-text {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.footer-link {
+  background-color: #fff;
+  border: 2px solid #e09911;
+}
+
+.linkedin-link {
+  padding-right: 10px;
+}
+
+.icon-div {
+  padding-left: 10px;
+}
+
+.menu-link:hover, .menu-link:focus {
+  color: #fff;
+  background-color: #9a1005;
+  border: none;
+}
+
+/*# sourceMappingURL=Documents_robert-a-selig_src_app_header_header-footer_css_0w3-wzy._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Documents/robert-a-selig/src/app/page.css"],"sourcesContent":[".background-grey {\n  background-color: #eef0f4;\n}\n\n.background-white {\n  background-color: white;\n}\n\n.orange-border {\n  height: 8px;\n  background-color: #e09911;\n}\n\n.image-caption-source {\n  font-size: 0.75rem;\n  line-height: 1.5;\n  font-style: italic;\n}\n\na {\n  color: #222a99;\n  cursor: pointer;\n}\n\na:hover {\n  color: #e09911;\n}\n\na:focus {\n  color: #e09911;\n}\n"],"names":[],"mappings":"AAAA;;;;AAIA;;;;AAIA;;;;;AAKA;;;;;;AAMA;;;;;AAKA"}}]
+}

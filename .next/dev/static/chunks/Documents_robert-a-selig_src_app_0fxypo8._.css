@@ -1,0 +1,119 @@
+/* [project]/Documents/robert-a-selig/src/app/about/home-page.css [app-client] (css) */
+.home-content {
+  margin: 10px;
+}
+
+.portrait-image {
+  float: left;
+  border: 5px solid #9a1005;
+  width: 350px;
+  height: 350px;
+  margin: 10px;
+}
+
+/* [project]/Documents/robert-a-selig/src/app/header/header-footer.css [app-client] (css) */
+.header-footer-outside {
+  color: #fff;
+  background-color: #161c66;
+  width: 100%;
+}
+
+.header-footer-inside {
+  background-color: #222a99;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.header-inside {
+  padding-top: 5px;
+}
+
+.footer-inside {
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 14px;
+  display: flex;
+}
+
+.menu-outside {
+  border-top: .15px solid #9a1005;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+}
+
+.menu-link {
+  text-align: center;
+  background-color: inherit;
+  color: #fff;
+  box-shadow: none;
+  cursor: pointer;
+  border: 1px solid #e09911;
+  width: 20%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.active-menu-link {
+  background-color: #161c66;
+}
+
+.footer-text {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.footer-link {
+  background-color: #fff;
+  border: 2px solid #e09911;
+}
+
+.linkedin-link {
+  padding-right: 10px;
+}
+
+.icon-div {
+  padding-left: 10px;
+}
+
+.menu-link:hover, .menu-link:focus {
+  color: #fff;
+  background-color: #9a1005;
+  border: none;
+}
+
+/* [project]/Documents/robert-a-selig/src/app/page.css [app-client] (css) */
+.background-grey {
+  background-color: #eef0f4;
+}
+
+.background-white {
+  background-color: #fff;
+}
+
+.orange-border {
+  background-color: #e09911;
+  height: 8px;
+}
+
+.image-caption-source {
+  font-size: .75rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+a {
+  color: #222a99;
+  cursor: pointer;
+}
+
+a:hover, a:focus {
+  color: #e09911;
+}
+
+/*# sourceMappingURL=Documents_robert-a-selig_src_app_0fxypo8._.css.map*/
