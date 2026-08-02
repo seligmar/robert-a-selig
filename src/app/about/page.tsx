@@ -9,7 +9,7 @@ export default function HomePage() {
       <h2>About</h2>
       {/*  https://nextjs.org/docs/app/api-reference/components/image */}
       <Image
-        src={'/selig.png'}
+        src='/selig.png'
         alt='Portrait of Robert A. Selig'
         className='portrait-image'
         height={350}
