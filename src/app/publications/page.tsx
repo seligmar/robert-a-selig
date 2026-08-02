@@ -12,7 +12,7 @@ export default function publications() {
         <div className='publications-grid'>
           <figure className='publications-figure'>
             <Image
-              src='/route-map-vertical.jpg'
+              src='https://seligmar.github.io/robert-a-selig/route-map-vertical.jpg'
               alt='French map of the route to Yorktown, 1782'
               className='roadmap-image'
               width={250}
