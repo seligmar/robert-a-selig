@@ -672,6 +672,16 @@ export default function publications() {
               MINOR PUBLICATIONS AND JOURNAL ARTICLES:
             </h3>
             <div className='publication-margin'>
+              Notes on the Historical Context of the Treaties signed by German
+              Princes with King George III to supply Troops to suppress the
+              American Rebellion.{' '}
+              <i>
+                The Hessians: Journal of the Johannes Schwalm Historical
+                Association{' '}
+              </i>{' '}
+              vol. 29 (2026), pp. 3-10.
+            </div>
+            <div className='publication-margin'>
               “The Culture of Death: An Overview of Burial Practices during the
               American War of Independence.”{' '}
               <i>
