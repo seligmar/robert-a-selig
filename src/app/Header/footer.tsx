@@ -14,7 +14,7 @@ export default function Footer() {
           >
             {' '}
             <Image
-              src='/linkedinLogo.svg'
+              src='https://seligmar.github.io/robert-a-selig/linkedinLogo.svg'
               alt='linkedIn'
               width={40}
               height={40}
@@ -27,7 +27,7 @@ export default function Footer() {
             target='_blank'
           >
             <Image
-              src='/facebookIcon.png'
+              src='https://seligmar.github.io/robert-a-selig/facebookIcon.png'
               alt='facebook'
               width={40}
               height={40}
